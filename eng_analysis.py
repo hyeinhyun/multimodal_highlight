@@ -333,8 +333,6 @@ a,b,c,d=data_preprocessing(temp,vocab)
 store_word2vec_calc()
 SAGModel()._tag_extraction()
 
-b[2696][1]
-
     
 """
                      for item in temp["text"]:
