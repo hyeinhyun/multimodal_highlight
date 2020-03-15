@@ -11,7 +11,6 @@ import nltk
 from nltk.corpus import stopwords
 from collections import OrderedDict
 from datetime import datetime, timedelta
-
 import copy
 
 
@@ -38,7 +37,6 @@ def read(file_name):
                 stops = set(stopwords.words('english'))
                 
                 
-                if not text in stops:
                 if not text in stops and not len(text) == 0:
                     check = True
                     textt = text
@@ -47,20 +45,16 @@ def read(file_name):
                     
             if(  check == True and lineNo%2 == 0):
                 line = line.rstrip('\n') 
-                temp={"time":line,"text":textt,"lineno":lineNot+1}
                 temp={"time":line,"text":[textt],"lineno":lineNot+1}
                 tempLine.append(temp)
                 check = False
                 #print(temp["time"])
-                if temp['text'] not in vocab:
-                        vocab[temp['text']]=0
                 if temp['text'][0] not in vocab:
                         vocab[temp['text'][0]]=0
         
     #print(tempLine)
-    print(vocab)
+    #print(tempLine)
     return tempLine,vocab
-
 
 def sum_temp(tempLine):
     tempList = []
@@ -80,3 +74,12 @@ def sum_temp(tempLine):
 
 if __name__ == '__main__':
     
+<<<<<<< HEAD
+    t,b=read('./stt_result.txt')
+=======
+    tempLine, vocab = read('C:/Users/Gangmin/Desktop/gangmin/캡스톤/tsvt/speech_to_text/stt_result.txt')
+    temp = sum_temp(tempLine)
+    for i in temp:
+        print(i['text'])
+    
+>>>>>>> d4a115eea43acc38bad8e6651c80cba6d9342b50
