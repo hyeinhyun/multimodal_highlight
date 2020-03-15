@@ -60,4 +60,4 @@ def read(file_name):
 
 if __name__ == '__main__':
     
-    read('C:/Users/Gangmin/Desktop/gangmin/캡스톤/tsvt/speech_to_text/stt_result.txt')
+    t,b=read('./stt_result.txt')
