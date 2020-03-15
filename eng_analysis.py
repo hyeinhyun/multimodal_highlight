@@ -305,8 +305,8 @@ class SAGModel(object):
         #store_w(W)
         #W=grab_w()
         result=self._calc_SW_IDF(W)
-        print(result)
         self._display_tag(result)
+        return result
 
     def _display_tag(self,result):
         with open("data/result.txt","w") as f:
@@ -316,6 +316,22 @@ class SAGModel(object):
             for item in sorted(result, key=lambda x: x[0], reverse=True)[:self.tag_number]:
                 f.write(list(self.vocabulary.keys())[item[1]])
                 f.write("\n")
+"""
+    def _disply_sentence(self,result):
+        list_index=[]
+        for item in sorted(result,key=lambda x: x[0],reverse=True)[:20]:
+            list_index.append(item[1])
+        indexs=[]
+        for index,i in enumerate(b):
+            for j in list_index:
+                if i[j]==1:
+                    indexs.append(index)
+                    break
+        with open("data/result_sentence.txt","w") as f:
+            for i in indexs:
+                f.write(str(a[i]))
+                f.write('\n')
+"""
 
 import copy   
 from datetime import datetime, timedelta
@@ -331,7 +347,37 @@ f.close()
 temp,vocab=read(file_name)
 a,b,c,d=data_preprocessing(temp,vocab)
 store_word2vec_calc()
-SAGModel()._tag_extraction()
+result=SAGModel()._tag_extraction()
+
+listlist=[]
+for item in sorted(result,key=lambda x: x[0],reverse=True)[:20]:
+    listlist.append(item[1])
+
+indexs=[]
+for index,i in enumerate(b):
+    for j in listlist:
+        if i[j]==1:
+            indexs.append(index)
+            break
+with open("data/result_sentence.txt","w") as f:
+    for i in indexs:
+        f.write(str(a[i]))
+        f.write('\n')
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     
 """
@@ -377,7 +423,8 @@ stemmer_words =[x for x in stemmer_words if x!='d']
   """  
 #with open(infile) as f:
    # f = f.readlines()
-   
+stops = set(stopwords.words('english'))
+
    
    #vocabulary
    
