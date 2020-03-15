@@ -37,7 +37,7 @@ def read(file_name):
                 stops = set(stopwords.words('english'))
                 
                 
-                if not text in stops:
+                if not text in stops and not len(text) == 0:
                     check = True
                     textt = text
                     lineNot = lineNo
@@ -75,4 +75,7 @@ def sum_temp(tempLine):
 if __name__ == '__main__':
     
     tempLine, vocab = read('C:/Users/Gangmin/Desktop/gangmin/캡스톤/tsvt/speech_to_text/stt_result.txt')
-    print(sum_temp(tempLine))
+    temp = sum_temp(tempLine)
+    for i in temp:
+        print(i['text'])
+    
