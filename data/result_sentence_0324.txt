@@ -1,0 +1,1682 @@
+{'time': 8, 'text': ['train', 'begging', 'subs'], 'lineno': 98}
+{'time': 9, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 103}
+{'time': 12, 'text': ['thanks', 'craig', 'lulw'], 'lineno': 121}
+{'time': 20, 'text': ['love', 'episode', 'craig'], 'lineno': 180}
+{'time': 27, 'text': ['lulw', 'bernie', 'supporters'], 'lineno': 279}
+{'time': 28, 'text': ['hasan', 'viewers', 'lulw'], 'lineno': 281}
+{'time': 36, 'text': ['mary', 'little', 'lamb', 'widepeepohappy', 'clap'], 'lineno': 363}
+{'time': 39, 'text': ['thats', 'train', 'sounds', 'like', 'lul'], 'lineno': 382}
+{'time': 47, 'text': ['cultural', 'appropriation', 'lulw'], 'lineno': 428}
+{'time': 47, 'text': ['real', 'libtards', 'lulw'], 'lineno': 430}
+{'time': 48, 'text': ['nd', 'generation', 'americans', 'lulw'], 'lineno': 443}
+{'time': 52, 'text': ['hasan', 'viewers', 'donating', 'lulw'], 'lineno': 479}
+{'time': 53, 'text': ['real', 'peruvian', 'music', 'lulw'], 'lineno': 484}
+{'time': 54, 'text': ['real', 'peruvian', 'music', 'lulw'], 'lineno': 489}
+{'time': 56, 'text': ['omegalul', 'stealing', 'viwers'], 'lineno': 505}
+{'time': 58, 'text': ['corona', 'virus', 'tourists', 'lulw'], 'lineno': 514}
+{'time': 68, 'text': ['tu', 'puta', 'madre', 'cartman', 'weird'], 'lineno': 611}
+{'time': 89, 'text': ['gang', 'shit', 'monkaw'], 'lineno': 783}
+{'time': 102, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 900}
+{'time': 106, 'text': ['peepohappy', 'trainwreckstv', 'cozy', 'stream'], 'lineno': 930}
+{'time': 107, 'text': ['es', 'bueno', 'omegalul'], 'lineno': 940}
+{'time': 108, 'text': ['kkonaw', 'man', 'true'], 'lineno': 949}
+{'time': 109, 'text': ['kkonaw', 'dam', 'right'], 'lineno': 962}
+{'time': 110, 'text': ['even', 'proper', 'spanish', 'grammar', 'lulw'], 'lineno': 971}
+{'time': 111, 'text': ['fellow', 'americans', 'kkonaw'], 'lineno': 980}
+{'time': 111, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 981}
+{'time': 114, 'text': ['yes', 'moistsalt', 'lulw'], 'lineno': 1016}
+{'time': 115, 'text': ['see', 'going', 'lulw'], 'lineno': 1027}
+{'time': 117, 'text': ['kkonaw', 'get', 'em'], 'lineno': 1049}
+{'time': 117, 'text': ['kkonaw', 'get', 'em'], 'lineno': 1052}
+{'time': 117, 'text': ['flute', 'cartels', 'monkaw'], 'lineno': 1055}
+{'time': 117, 'text': ['kkonaw', 'get', 'em'], 'lineno': 1057}
+{'time': 118, 'text': ['twitter', 'com', 'trainwreckstv'], 'lineno': 1074}
+{'time': 119, 'text': ['kkonaw', 'deport', 'em'], 'lineno': 1085}
+{'time': 120, 'text': ['squadq', 'fbblock', 'oh', 'god', 'squadq', 'fbblock'], 'lineno': 1091}
+{'time': 120, 'text': ['deport', 'em', 'kkonaw'], 'lineno': 1092}
+{'time': 121, 'text': ['actually', 'corona', 'map', 'lulw'], 'lineno': 1104}
+{'time': 121, 'text': ['canada', 'safe', 'pogu'], 'lineno': 1105}
+{'time': 121, 'text': ['kkonaw', 'send', 'em', 'back'], 'lineno': 1112}
+{'time': 123, 'text': ['tpnoodle', 'corona', 'monkaw'], 'lineno': 1126}
+{'time': 123, 'text': ['kkonaw', 'keep', 'country'], 'lineno': 1139}
+{'time': 126, 'text': ['kkonaw', 'get', 'em'], 'lineno': 1156}
+{'time': 130, 'text': ['clues', 'always', 'squadq'], 'lineno': 1198}
+{'time': 131, 'text': ['get', 'kkonaw', 'pepega'], 'lineno': 1204}
+{'time': 132, 'text': ['xqcc', 'clap', 'real'], 'lineno': 1214}
+{'time': 132, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 1217}
+{'time': 134, 'text': ['corona', 'analogy', 'monkaw'], 'lineno': 1236}
+{'time': 135, 'text': ['kkonaw', 'send', 'em', 'back'], 'lineno': 1239}
+{'time': 135, 'text': ['holy', 'shit', 'monkaw'], 'lineno': 1247}
+{'time': 136, 'text': ['monkaw', 'holy', 'shit'], 'lineno': 1252}
+{'time': 138, 'text': ['nothing', 'peru', 'lulw'], 'lineno': 1279}
+{'time': 139, 'text': ['lulw', 'good', 'one'], 'lineno': 1302}
+{'time': 141, 'text': ['monkaw', 'skip', 'episode'], 'lineno': 1323}
+{'time': 142, 'text': ['lulw', 'good', 'one'], 'lineno': 1327}
+{'time': 142, 'text': ['holy', 'shit', 'squadq'], 'lineno': 1328}
+{'time': 144, 'text': ['good', 'one', 'lulw'], 'lineno': 1362}
+{'time': 145, 'text': ['head', 'good', 'one'], 'lineno': 1389}
+{'time': 146, 'text': ['south', 'park', 'knew', 'squadq'], 'lineno': 1401}
+{'time': 147, 'text': ['monkaw', 'sounds', 'familiar'], 'lineno': 1414}
+{'time': 148, 'text': ['kkonaw', 'get', 'em'], 'lineno': 1422}
+{'time': 149, 'text': ['tried', 'escaping', 'shit', 'lulw'], 'lineno': 1427}
+{'time': 153, 'text': ['monkaw', 'actually', 'predicted'], 'lineno': 1444}
+{'time': 153, 'text': ['good', 'one', 'head'], 'lineno': 1454}
+{'time': 153, 'text': ['squadq', 'fbblock', 'mizkifsick'], 'lineno': 1462}
+{'time': 156, 'text': ['flu', 'te', 'monkaw'], 'lineno': 1502}
+{'time': 157, 'text': ['kkonaw', 'goddamn', 'right'], 'lineno': 1515}
+{'time': 158, 'text': ['yo', 'wtf', 'squadq'], 'lineno': 1535}
+{'time': 159, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 1539}
+{'time': 159, 'text': ['flu', 'te', 'monkaw'], 'lineno': 1543}
+{'time': 160, 'text': ['holy', 'fuck', 'relevant', 'right', 'lulw'], 'lineno': 1561}
+{'time': 162, 'text': ['actually', 'true', 'lulw'], 'lineno': 1577}
+{'time': 163, 'text': ['flu', 'te', 'monkaw'], 'lineno': 1580}
+{'time': 164, 'text': ['na', 'lulw', 'clap'], 'lineno': 1598}
+{'time': 164, 'text': ['kkonaw', 'big', 'true'], 'lineno': 1600}
+{'time': 166, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 1626}
+{'time': 167, 'text': ['kkonaw', 'hell', 'yeah'], 'lineno': 1631}
+{'time': 167, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 1634}
+{'time': 167, 'text': ['kkonaw', 'fuck', 'em'], 'lineno': 1635}
+{'time': 169, 'text': ['kkonaw', 'hell', 'yeah', 'brother'], 'lineno': 1658}
+{'time': 169, 'text': ['kkonaw', 'damn', 'straight'], 'lineno': 1659}
+{'time': 169, 'text': ['domer', 'said', 'watched', 'get', 'away', 'corona', 'watch', 'one', 'lol'], 'lineno': 1665}
+{'time': 169, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 1669}
+{'time': 170, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 1677}
+{'time': 171, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 1687}
+{'time': 172, 'text': ['map', 'accurate', 'monkaw'], 'lineno': 1702}
+{'time': 174, 'text': ['wtf', 'real', 'lulw'], 'lineno': 1710}
+{'time': 174, 'text': ['rand', 'paul', 'lulw'], 'lineno': 1711}
+{'time': 176, 'text': ['trainwreckstv', 'said', 'id', 'forget'], 'lineno': 1731}
+{'time': 176, 'text': ['kkonaw', 'hell', 'yeah'], 'lineno': 1739}
+{'time': 177, 'text': ['kkonaw', 'youre', 'god', 'damn', 'right'], 'lineno': 1749}
+{'time': 178, 'text': ['retards', 'chat', 'lulw'], 'lineno': 1753}
+{'time': 178, 'text': ['kkonaw', 'damn', 'right', 'brother'], 'lineno': 1759}
+{'time': 179, 'text': ['kkonaw', 'fuckin', 'right', 'brother'], 'lineno': 1773}
+{'time': 180, 'text': ['kkonaw', 'hyperclap', 'freedom'], 'lineno': 1777}
+{'time': 180, 'text': ['kkonaw', 'damn', 'lib'], 'lineno': 1780}
+{'time': 181, 'text': ['kkonaw', 'take', 'oil'], 'lineno': 1784}
+{'time': 183, 'text': ['kkonaw', 'freedom', 'never', 'sleeps'], 'lineno': 1796}
+{'time': 184, 'text': ['trump', 'would', 'say', 'say', 'lulw'], 'lineno': 1797}
+{'time': 186, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 1814}
+{'time': 187, 'text': ['trainwreckstv', 'year', 'episode', 'released'], 'lineno': 1827}
+{'time': 188, 'text': ['kkonaw', 'send', 'national', 'gaurd'], 'lineno': 1828}
+{'time': 188, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 1831}
+{'time': 190, 'text': ['na', 'politics', 'nutshell', 'kkonaw'], 'lineno': 1844}
+{'time': 190, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 1846}
+{'time': 193, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 1859}
+{'time': 195, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 1886}
+{'time': 195, 'text': ['marshal', 'law', 'monkaw'], 'lineno': 1894}
+{'time': 196, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 1907}
+{'time': 197, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 1909}
+{'time': 200, 'text': ['kkonaw', 'get', 'em'], 'lineno': 1935}
+{'time': 201, 'text': ['kkonaw', 'someone', 'order', 'freedom'], 'lineno': 1947}
+{'time': 201, 'text': ['trump', 'closed', 'borders', 'morons', 'omegalul'], 'lineno': 1949}
+{'time': 202, 'text': ['real', 'monkaw', 'squadq'], 'lineno': 1960}
+{'time': 203, 'text': ['get', 'em', 'kkonaw'], 'lineno': 1974}
+{'time': 203, 'text': ['kkonaw', 'democracy', 'served'], 'lineno': 1977}
+{'time': 205, 'text': ['kkonaw', 'keep', 'country'], 'lineno': 1989}
+{'time': 206, 'text': ['corona', 'virus', 'lulw'], 'lineno': 2007}
+{'time': 207, 'text': ['martial', 'law', 'monkaw'], 'lineno': 2021}
+{'time': 211, 'text': ['kkonaw', 'someone', 'order', 'freedom'], 'lineno': 2036}
+{'time': 213, 'text': ['covid', 'wrap', 'weird', 'uv', 'made', 'ur', 'point'], 'lineno': 2048}
+{'time': 213, 'text': ['kkonaw', 'someone', 'order', 'freedom'], 'lineno': 2050}
+{'time': 214, 'text': ['kkonaw', 'man', 'ice'], 'lineno': 2058}
+{'time': 215, 'text': ['happening', 'america', 'lulw'], 'lineno': 2066}
+{'time': 215, 'text': ['kkonaw', 'get', 'em'], 'lineno': 2068}
+{'time': 216, 'text': ['kkonaw', 'hell', 'yeah'], 'lineno': 2074}
+{'time': 216, 'text': ['soon', 'southpark', 'weird'], 'lineno': 2075}
+{'time': 217, 'text': ['kkonaw', 'hell', 'yea', 'brother', 'freedom'], 'lineno': 2083}
+{'time': 217, 'text': ['kkonaw', 'someone', 'order', 'freedom'], 'lineno': 2085}
+{'time': 218, 'text': ['south', 'park', 'always', 'known', 'monkaw'], 'lineno': 2086}
+{'time': 224, 'text': ['kkonaw', 'hell', 'yeah'], 'lineno': 2126}
+{'time': 224, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 2127}
+{'time': 226, 'text': ['kkonaw', 'get', 'em'], 'lineno': 2135}
+{'time': 234, 'text': ['kkonaw', 'trillion', 'mission', 'worth'], 'lineno': 2173}
+{'time': 235, 'text': ['kkonaw', 'get', 'em'], 'lineno': 2181}
+{'time': 235, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 2182}
+{'time': 237, 'text': ['kkonaw', 'get', 'em'], 'lineno': 2192}
+{'time': 238, 'text': ['kkonaw', 'bring', 'army', 'brother'], 'lineno': 2198}
+{'time': 239, 'text': ['real', 'life', 'lulw'], 'lineno': 2202}
+{'time': 243, 'text': ['offline', 'tv', 'lulw'], 'lineno': 2221}
+{'time': 243, 'text': ['get', 'em', 'kkonaw'], 'lineno': 2228}
+{'time': 245, 'text': ['corona', 'beer', 'must', 'contained', 'monkaw'], 'lineno': 2236}
+{'time': 245, 'text': ['shoot', 'rona', 'kkonaw', 'clap'], 'lineno': 2237}
+{'time': 245, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 2239}
+{'time': 247, 'text': ['damn', 'right', 'kkonaw'], 'lineno': 2246}
+{'time': 247, 'text': ['kkonaw', 'freedom', 'launcher'], 'lineno': 2247}
+{'time': 247, 'text': ['clover', 'field', 'monkaw'], 'lineno': 2248}
+{'time': 247, 'text': ['train', 'irl', 'lulw'], 'lineno': 2249}
+{'time': 248, 'text': ['irl', 'streaming', 'lulw'], 'lineno': 2256}
+{'time': 248, 'text': ['lulw', 'irl', 'streamers'], 'lineno': 2257}
+{'time': 251, 'text': ['irl', 'streams', 'lulw'], 'lineno': 2265}
+{'time': 251, 'text': ['offline', 'tv', 'lulw'], 'lineno': 2266}
+{'time': 251, 'text': ['lulw', 'typical', 'dad'], 'lineno': 2267}
+{'time': 254, 'text': ['irl', 'randy', 'lulw'], 'lineno': 2275}
+{'time': 256, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 2279}
+{'time': 257, 'text': ['fake', 'news', 'kkonaw'], 'lineno': 2282}
+{'time': 260, 'text': ['train', 'stream', 'lulw'], 'lineno': 2290}
+{'time': 260, 'text': ['fake', 'news', 'kkonaw'], 'lineno': 2292}
+{'time': 261, 'text': ['train', 'cooking', 'streams', 'lulw'], 'lineno': 2293}
+{'time': 261, 'text': ['irl', 'streamers', 'pogu'], 'lineno': 2299}
+{'time': 263, 'text': ['irs', 'streamers', 'lulw'], 'lineno': 2305}
+{'time': 263, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 2307}
+{'time': 264, 'text': ['lulw', 'irl', 'streamers'], 'lineno': 2309}
+{'time': 265, 'text': ['fake', 'news', 'lulw'], 'lineno': 2313}
+{'time': 266, 'text': ['irl', 'stream', 'lulw'], 'lineno': 2322}
+{'time': 267, 'text': ['ccn', 'kkonaw', 'wtf'], 'lineno': 2324}
+{'time': 268, 'text': ['monkaw', 'predict', 'irl', 'streamers'], 'lineno': 2328}
+{'time': 268, 'text': ['irl', 'streamer', 'pogu'], 'lineno': 2329}
+{'time': 269, 'text': ['fake', 'news', 'kkonaw'], 'lineno': 2334}
+{'time': 274, 'text': ['monkaw', 'real', 'true'], 'lineno': 2365}
+{'time': 278, 'text': ['fake', 'news', 'kkonaw'], 'lineno': 2399}
+{'time': 279, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 2406}
+{'time': 283, 'text': ['fake', 'news', 'kkonaw'], 'lineno': 2445}
+{'time': 284, 'text': ['squadq', 'sounds', 'familiar'], 'lineno': 2457}
+{'time': 286, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 2473}
+{'time': 287, 'text': ['flute', 'band', 'corona', 'lulw'], 'lineno': 2484}
+{'time': 290, 'text': ['trainwreckstv', 'legal', 'awesome'], 'lineno': 2507}
+{'time': 290, 'text': ['squadq', 'holy', 'fuck'], 'lineno': 2515}
+{'time': 295, 'text': ['interment', 'camp', 'monkaw'], 'lineno': 2540}
+{'time': 296, 'text': ['sounds', 'familiar', 'trainwreckstv'], 'lineno': 2549}
+{'time': 301, 'text': ['fema', 'death', 'camps', 'monkaw'], 'lineno': 2583}
+{'time': 304, 'text': ['kkonaw', 'interment', 'camps'], 'lineno': 2596}
+{'time': 305, 'text': ['excuse', 'c', 'lulw'], 'lineno': 2602}
+{'time': 307, 'text': ['monkaw', 'roo', 'teal'], 'lineno': 2609}
+{'time': 307, 'text': ['kkonaw', 'concentration', 'camps'], 'lineno': 2612}
+{'time': 308, 'text': ['okkk', 'getting', 'weird', 'dude'], 'lineno': 2616}
+{'time': 309, 'text': ['monkaw', 'train', 'dont', 'stress'], 'lineno': 2621}
+{'time': 309, 'text': ['martial', 'law', 'monkaw'], 'lineno': 2622}
+{'time': 309, 'text': ['lulw', 'actual', 'immigration'], 'lineno': 2623}
+{'time': 310, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 2628}
+{'time': 312, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 2634}
+{'time': 313, 'text': ['genovan', 'monkaw', 'wtf'], 'lineno': 2636}
+{'time': 313, 'text': ['weirdchamp', 'kinda', 'fuckin', 'weird'], 'lineno': 2637}
+{'time': 313, 'text': ['looks', 'like', 'ice', 'internment', 'camps', 'weird'], 'lineno': 2639}
+{'time': 315, 'text': ['sir', 'irk', 'squadq'], 'lineno': 2648}
+{'time': 317, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 2661}
+{'time': 318, 'text': ['ww', 'flashbacks', 'monkaw'], 'lineno': 2669}
+{'time': 318, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 2670}
+{'time': 320, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 2676}
+{'time': 325, 'text': ['libs', 'twitch', 'horrible', 'playing', 'commie', 'chat', 'rooms'], 'lineno': 2704}
+{'time': 325, 'text': ['cokeysnose', 'squadq', 'clap'], 'lineno': 2705}
+{'time': 326, 'text': ['america', 'finest', 'kkonaw'], 'lineno': 2706}
+{'time': 334, 'text': ['kkonaw', 'clap', 'man'], 'lineno': 2811}
+{'time': 334, 'text': ['pogu', 'killed', 'guy'], 'lineno': 2818}
+{'time': 335, 'text': ['kkonaw', 'god', 'bless', 'america'], 'lineno': 2829}
+{'time': 336, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 2843}
+{'time': 336, 'text': ['ez', 'clap', 'lulw'], 'lineno': 2848}
+{'time': 337, 'text': ['kkonaw', 'nice', 'shot'], 'lineno': 2850}
+{'time': 338, 'text': ['kkonaw', 'freedom', 'served'], 'lineno': 2868}
+{'time': 341, 'text': ['monkaw', 'funny', 'anymore'], 'lineno': 2890}
+{'time': 341, 'text': ['ez', 'clap', 'lul'], 'lineno': 2893}
+{'time': 344, 'text': ['trainwreckstv', 'wassup', 'okaychamp', 'youre', 'favourite', 'shameless', 'viewer', 'back'], 'lineno': 2916}
+{'time': 345, 'text': ['south', 'park', 'racist', 'fuck', 'got', 'away', 'wit'], 'lineno': 2919}
+{'time': 345, 'text': ['kkona', 'clap', 'real'], 'lineno': 2922}
+{'time': 347, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 2931}
+{'time': 348, 'text': ['dont', 'wanna', 'buy', 'cd', 'monkaw'], 'lineno': 2933}
+{'time': 348, 'text': ['train', 'asking', 'twitch', 'prime', 'lulw'], 'lineno': 2934}
+{'time': 353, 'text': ['yo', 'bernie', 'meeting', 'trainwreckstv'], 'lineno': 2965}
+{'time': 372, 'text': ['train', 'cases', 'lulw'], 'lineno': 3109}
+{'time': 374, 'text': ['trainwreckstv', 'guy', 'joking', 'weird', 'nice', 'one', 'weird'], 'lineno': 3115}
+{'time': 380, 'text': ['trash', 'spanish', 'lulw'], 'lineno': 3133}
+{'time': 381, 'text': ['omegalul', 'scuffed', 'spanish'], 'lineno': 3135}
+{'time': 386, 'text': ['wtf', 'omegalul', 'hyperclap'], 'lineno': 3171}
+{'time': 387, 'text': ['kkonaw', 'hell', 'yea'], 'lineno': 3182}
+{'time': 388, 'text': ['train', 'go', 'get', 'water', 'juice', 'instead'], 'lineno': 3192}
+{'time': 390, 'text': ['kkonaw', 'hell', 'yeah'], 'lineno': 3202}
+{'time': 390, 'text': ['guantanamo', 'bay', 'monkaw'], 'lineno': 3203}
+{'time': 392, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3219}
+{'time': 393, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3227}
+{'time': 393, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 3229}
+{'time': 394, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3234}
+{'time': 395, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3238}
+{'time': 395, 'text': ['japanese', 'accent', 'lulw'], 'lineno': 3240}
+{'time': 396, 'text': ['kkonaw', 'merica', 'spanish'], 'lineno': 3245}
+{'time': 396, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3247}
+{'time': 398, 'text': ['free', 'vacation', 'pogu'], 'lineno': 3250}
+{'time': 398, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3251}
+{'time': 398, 'text': ['actually', 'getting', 'deported', 'lulw'], 'lineno': 3253}
+{'time': 399, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3256}
+{'time': 400, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3262}
+{'time': 401, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3271}
+{'time': 405, 'text': ['kkonaw', 'get', 'em'], 'lineno': 3285}
+{'time': 407, 'text': ['head', 'wtf', 'smart'], 'lineno': 3302}
+{'time': 410, 'text': ['trainwreckstv', 'shush', 'weird'], 'lineno': 3331}
+{'time': 411, 'text': ['kkonaw', 'freedom', 'democracy'], 'lineno': 3337}
+{'time': 414, 'text': ['eternal', 'internment', 'withyout', 'trial', 'pogu'], 'lineno': 3356}
+{'time': 414, 'text': ['good', 'one', 'domer', 'weird'], 'lineno': 3357}
+{'time': 422, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3386}
+{'time': 423, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3391}
+{'time': 427, 'text': ['vlogging', 'randy', 'lulw'], 'lineno': 3431}
+{'time': 428, 'text': ['painschamp', 'one', 'man', 'spanm'], 'lineno': 3437}
+{'time': 430, 'text': ['irl', 'streamers', 'omegalul'], 'lineno': 3449}
+{'time': 434, 'text': ['craig', 'tweek', 'kappapride'], 'lineno': 3490}
+{'time': 434, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 3492}
+{'time': 437, 'text': ['irl', 'randy', 'lulw'], 'lineno': 3508}
+{'time': 437, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 3513}
+{'time': 444, 'text': ['predicted', 'vloggers', 'omegalul'], 'lineno': 3551}
+{'time': 447, 'text': ['free', 'content', 'pogu'], 'lineno': 3569}
+{'time': 448, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3572}
+{'time': 449, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3592}
+{'time': 449, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 3596}
+{'time': 450, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3607}
+{'time': 451, 'text': ['cx', 'fuck', 'dood', 'widehardo'], 'lineno': 3615}
+{'time': 451, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3618}
+{'time': 453, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3628}
+{'time': 455, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3633}
+{'time': 455, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3643}
+{'time': 455, 'text': ['premiumpain', 'stop', 'weird'], 'lineno': 3646}
+{'time': 456, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3651}
+{'time': 457, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3658}
+{'time': 457, 'text': ['na', 'parents', 'lulw'], 'lineno': 3661}
+{'time': 458, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3667}
+{'time': 459, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3674}
+{'time': 459, 'text': ['youtube', 'vlogger', 'lulw'], 'lineno': 3675}
+{'time': 460, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3692}
+{'time': 461, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3709}
+{'time': 463, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3722}
+{'time': 463, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 3727}
+{'time': 463, 'text': ['na', 'parents', 'lulw'], 'lineno': 3728}
+{'time': 464, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3730}
+{'time': 464, 'text': ['lsf', 'content', 'pogu'], 'lineno': 3731}
+{'time': 464, 'text': ['actual', 'livestrimmer', 'lulw'], 'lineno': 3735}
+{'time': 465, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3743}
+{'time': 465, 'text': ['lsf', 'clippers', 'lulw'], 'lineno': 3744}
+{'time': 466, 'text': ['stan', 'lsf', 'lulw'], 'lineno': 3753}
+{'time': 466, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3759}
+{'time': 467, 'text': ['pogu', 'corona', 'cured'], 'lineno': 3773}
+{'time': 467, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 3774}
+{'time': 468, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 3777}
+{'time': 469, 'text': ['c', 'pogu', 'n', 'e', 'n'], 'lineno': 3788}
+{'time': 470, 'text': ['trainwreckstv', 'stream', 'audio', 'comes', 'mid', 'speaker'], 'lineno': 3797}
+{'time': 470, 'text': ['lsf', 'clippers', 'lulw', 'trainwreckstv'], 'lineno': 3800}
+{'time': 472, 'text': ['farming', 'lsf', 'lulw'], 'lineno': 3804}
+{'time': 475, 'text': ['lsf', 'content', 'omegalul'], 'lineno': 3818}
+{'time': 477, 'text': ['kkonaw', 'nuke', 'em'], 'lineno': 3825}
+{'time': 480, 'text': ['farming', 'drama', 'scuffed', 'podcast', 'lulw'], 'lineno': 3841}
+{'time': 480, 'text': ['flu', 'te', 'gone', 'pogu'], 'lineno': 3846}
+{'time': 483, 'text': ['nuke', 'peru', 'pogu'], 'lineno': 3860}
+{'time': 485, 'text': ['kkonaw', 'nuke', 'em'], 'lineno': 3869}
+{'time': 485, 'text': ['kkonaw', 'democracy', 'time'], 'lineno': 3870}
+{'time': 485, 'text': ['quote', 'eating', 'kfc', 'pogu'], 'lineno': 3873}
+{'time': 494, 'text': ['nuke', 'em', 'kkonaw'], 'lineno': 3934}
+{'time': 495, 'text': ['na', 'education', 'lulw'], 'lineno': 3944}
+{'time': 497, 'text': ['kkonaw', 'hell', 'yea'], 'lineno': 3971}
+{'time': 499, 'text': ['jesus', 'christ', 'lulw'], 'lineno': 3987}
+{'time': 502, 'text': ['lulw', 'na', 'education'], 'lineno': 4029}
+{'time': 503, 'text': ['na', 'education', 'lulw'], 'lineno': 4046}
+{'time': 506, 'text': ['kkonaw', 'china', 'virus'], 'lineno': 4075}
+{'time': 508, 'text': ['china', 'virus', 'lulw'], 'lineno': 4101}
+{'time': 508, 'text': ['na', 'education', 'lulw'], 'lineno': 4105}
+{'time': 510, 'text': ['china', 'virus', 'kkonaw'], 'lineno': 4116}
+{'time': 511, 'text': ['na', 'education', 'lulw'], 'lineno': 4121}
+{'time': 511, 'text': ['na', 'geography', 'omegalul'], 'lineno': 4122}
+{'time': 512, 'text': ['kill', 'em', 'kkonaw'], 'lineno': 4129}
+{'time': 515, 'text': ['kkonaw', 'whats', 'peru'], 'lineno': 4149}
+{'time': 516, 'text': ['even', 'know', 'lulw'], 'lineno': 4152}
+{'time': 516, 'text': ['guinea', 'pig', 'monkaw'], 'lineno': 4153}
+{'time': 518, 'text': ['south', 'park', 'called', 'omegalul'], 'lineno': 4164}
+{'time': 518, 'text': ['kkonaw', 'nuke', 'em'], 'lineno': 4165}
+{'time': 520, 'text': ['weird', 'shut', 'starting', 'region', 'wars'], 'lineno': 4168}
+{'time': 520, 'text': ['trainwreckstv', 'stream', 'audio', 'comes', 'mid', 'speaker', 'idea', 'would', 'thing'], 'lineno': 4170}
+{'time': 521, 'text': ['peru', 'virus', 'kkonaw'], 'lineno': 4174}
+{'time': 522, 'text': ['kkonaw', 'nuke', 'em'], 'lineno': 4182}
+{'time': 524, 'text': ['peruvian', 'puff', 'pepper', 'pogu'], 'lineno': 4189}
+{'time': 525, 'text': ['bernie', 'smart', 'guy', 'pogu'], 'lineno': 4192}
+{'time': 529, 'text': ['kkonaw', 'nuke', 'em'], 'lineno': 4201}
+{'time': 531, 'text': ['oh', 'remember', 'episode', 'lulw'], 'lineno': 4205}
+{'time': 531, 'text': ['omegatooyew', 'name', 'comes', 'omegalul', 'weird'], 'lineno': 4206}
+{'time': 533, 'text': ['monkaw', 'wait', 'chi'], 'lineno': 4210}
+{'time': 539, 'text': ['twitter', 'com', 'trainwreckstv'], 'lineno': 4218}
+{'time': 545, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 4226}
+{'time': 559, 'text': ['kkona', 'clap', 'nice'], 'lineno': 4303}
+{'time': 560, 'text': ['kkona', 'clap', 'nice'], 'lineno': 4313}
+{'time': 567, 'text': ['kkonaw', 'damn', 'right'], 'lineno': 4347}
+{'time': 574, 'text': ['schrodingers', 'cat', 'monkaw'], 'lineno': 4368}
+{'time': 581, 'text': ['kkonaw', 'one', 'us'], 'lineno': 4405}
+{'time': 589, 'text': ['lulw', 'na', 'racists'], 'lineno': 4455}
+{'time': 592, 'text': ['monkaw', 'hybrid', 'sars'], 'lineno': 4472}
+{'time': 596, 'text': ['na', 'racists', 'lulw'], 'lineno': 4489}
+{'time': 604, 'text': ['cartmans', 'mom', 'lulw'], 'lineno': 4518}
+{'time': 614, 'text': ['craig', 'ok', 'weird'], 'lineno': 4612}
+{'time': 620, 'text': ['lulw', 'actually', 'true'], 'lineno': 4672}
+{'time': 621, 'text': ['sounds', 'fun', 'lulw'], 'lineno': 4681}
+{'time': 622, 'text': ['real', 'omegalul', 'hyperclap'], 'lineno': 4689}
+{'time': 623, 'text': ['weird', 'craig', 'weird'], 'lineno': 4707}
+{'time': 626, 'text': ['kinda', 'weird', 'craig', 'weird'], 'lineno': 4734}
+{'time': 627, 'text': ['far', 'craig', 'weird'], 'lineno': 4739}
+{'time': 628, 'text': ['craig', 'spitting', 'fax', 'lulw'], 'lineno': 4744}
+{'time': 629, 'text': ['negative', 'nancy', 'weird'], 'lineno': 4750}
+{'time': 630, 'text': ['truth', 'negative', 'lulw'], 'lineno': 4753}
+{'time': 632, 'text': ['cartman', 'trolling', 'omegalul'], 'lineno': 4756}
+{'time': 635, 'text': ['train', 'n', 'hate', 'watcher', 'lul'], 'lineno': 4760}
+{'time': 640, 'text': ['craig', 'guy', 'weird'], 'lineno': 4773}
+{'time': 651, 'text': ['train', 'would', 'love', 'peru'], 'lineno': 4803}
+{'time': 655, 'text': ['one', 'man', 'spam', 'waytoodank'], 'lineno': 4841}
+{'time': 659, 'text': ['cartman', 'chat', 'omegalul'], 'lineno': 4861}
+{'time': 659, 'text': ['indiana', 'jones', 'lulw'], 'lineno': 4864}
+{'time': 662, 'text': ['oh', 'indiana', 'jones', 'omegalul'], 'lineno': 4880}
+{'time': 664, 'text': ['indiana', 'jones', 'monkaw'], 'lineno': 4885}
+{'time': 672, 'text': ['kkonaw', 'speak', 'american'], 'lineno': 4903}
+{'time': 677, 'text': ['kkonaw', 'u', 'cant', 'pass'], 'lineno': 4922}
+{'time': 679, 'text': ['kkonaw', 'squil', 'like', 'piggy'], 'lineno': 4930}
+{'time': 684, 'text': ['kkonaw', 'speak', 'american'], 'lineno': 4961}
+{'time': 685, 'text': ['shit', 'accent', 'lulw'], 'lineno': 4965}
+{'time': 687, 'text': ['x', 'monkaw', 'combo', 'kappa'], 'lineno': 4983}
+{'time': 688, 'text': ['monkaw', 'la', 'muerte', 'peluda'], 'lineno': 4998}
+{'time': 688, 'text': ['monkaw', 'el', 'goblino'], 'lineno': 5005}
+{'time': 690, 'text': ['monkaw', 'la', 'muerte'], 'lineno': 5009}
+{'time': 690, 'text': ['monkaw', 'la', 'muerte'], 'lineno': 5020}
+{'time': 691, 'text': ['monkaw', 'el', 'goblino'], 'lineno': 5035}
+{'time': 692, 'text': ['furry', 'death', 'monkaw'], 'lineno': 5041}
+{'time': 694, 'text': ['furry', 'death', 'monkaw'], 'lineno': 5096}
+{'time': 697, 'text': ['trainwreckstv', 'furry', 'monkaw'], 'lineno': 5117}
+{'time': 697, 'text': ['omegalul', 'hyperclap', 'u'], 'lineno': 5122}
+{'time': 700, 'text': ['trainwreckstv', 'furry', 'death', 'lul'], 'lineno': 5138}
+{'time': 700, 'text': ['squadq', 'proted', 'train'], 'lineno': 5139}
+{'time': 701, 'text': ['monkaw', 'la', 'muerte', 'paluda'], 'lineno': 5166}
+{'time': 701, 'text': ['monkaw', 'la', 'muerta', 'peluda'], 'lineno': 5167}
+{'time': 701, 'text': ['monkaw', 'squadd', 'domer'], 'lineno': 5173}
+{'time': 701, 'text': ['el', 'goblino', 'monkaw'], 'lineno': 5180}
+{'time': 701, 'text': ['train', 'subs', 'monkaw'], 'lineno': 5184}
+{'time': 702, 'text': ['train', 'death', 'omegalul'], 'lineno': 5194}
+{'time': 703, 'text': ['train', 'lulw', 'trainwreckstv'], 'lineno': 5196}
+{'time': 704, 'text': ['death', 'furries', 'pogu'], 'lineno': 5216}
+{'time': 705, 'text': ['fake', 'news', 'kkonaw'], 'lineno': 5226}
+{'time': 706, 'text': ['train', 'ep', 'lulw'], 'lineno': 5241}
+{'time': 707, 'text': ['fake', 'news', 'kkonaw'], 'lineno': 5245}
+{'time': 707, 'text': ['fake', 'news', 'kkonaw'], 'lineno': 5248}
+{'time': 707, 'text': ['furweird', 'trainwreckstv', 'furweird'], 'lineno': 5249}
+{'time': 708, 'text': ['monkaw', 'werewolf', 'andy'], 'lineno': 5274}
+{'time': 709, 'text': ['furweird', 'trainwreckstv', 'furweird'], 'lineno': 5279}
+{'time': 709, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 5281}
+{'time': 710, 'text': ['xqcfurry', 'xqcfurry', 'xqcfurry', 'xqcfurry', 'xqcfurry', 'xqcfurry', 'wtf'], 'lineno': 5289}
+{'time': 710, 'text': ['protecting', 'us', 'train', 'furweird'], 'lineno': 5290}
+{'time': 710, 'text': ['oh', 'episode', 'lulw'], 'lineno': 5296}
+{'time': 711, 'text': ['kkonaw', 'fake', 'news'], 'lineno': 5302}
+{'time': 711, 'text': ['oh', 'furry', 'lulw'], 'lineno': 5311}
+{'time': 712, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 5319}
+{'time': 713, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 5328}
+{'time': 714, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 5343}
+{'time': 714, 'text': ['teen', 'wolf', 'monkaw'], 'lineno': 5351}
+{'time': 715, 'text': ['la', 'muerte', 'puta', 'lulw'], 'lineno': 5361}
+{'time': 715, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 5364}
+{'time': 715, 'text': ['monkaw', 'le', 'muerta', 'peluda'], 'lineno': 5367}
+{'time': 718, 'text': ['trainwreckstv', 'furry', 'doug', 'lulw'], 'lineno': 5382}
+{'time': 718, 'text': ['good', 'one', 'wolfie', 'lulw'], 'lineno': 5394}
+{'time': 718, 'text': ['weird', 'admiting', 'furry'], 'lineno': 5397}
+{'time': 718, 'text': ['protector', 'doug', 'weird'], 'lineno': 5398}
+{'time': 719, 'text': ['weird', 'fuck', 'furry'], 'lineno': 5401}
+{'time': 721, 'text': ['trains', 'chat', 'monkaw', 'hybrids'], 'lineno': 5415}
+{'time': 721, 'text': ['weird', 'ok', 'dougy'], 'lineno': 5416}
+{'time': 722, 'text': ['trainwreckstv', 'furry', 'weirdchamp'], 'lineno': 5431}
+{'time': 723, 'text': ['train', 'furry', 'confirmed'], 'lineno': 5437}
+{'time': 723, 'text': ['la', 'muerte', 'peluda', 'monkaw'], 'lineno': 5438}
+{'time': 723, 'text': ['trainwreckstv', 'episode', 'came'], 'lineno': 5439}
+{'time': 726, 'text': ['fucking', 'furry', 'weird', 'trainwreckstv'], 'lineno': 5462}
+{'time': 728, 'text': ['train', 'perurian', 'monkaw'], 'lineno': 5494}
+{'time': 733, 'text': ['la', 'muerte', 'peluda', 'monkaw'], 'lineno': 5564}
+{'time': 733, 'text': ['fuull', 'moon', 'monkaw'], 'lineno': 5565}
+{'time': 734, 'text': ['guinea', 'pigs', 'lulw'], 'lineno': 5570}
+{'time': 734, 'text': ['teen', 'wolf', 'monkaw'], 'lineno': 5575}
+{'time': 735, 'text': ['pogu', 'camera', 'man'], 'lineno': 5584}
+{'time': 735, 'text': ['furry', 'omegalul', 'trainwreckstv'], 'lineno': 5592}
+{'time': 736, 'text': ['monkaw', 'la', 'muerte', 'peluda'], 'lineno': 5598}
+{'time': 738, 'text': ['monkaw', 'la', 'muerta', 'peluda'], 'lineno': 5622}
+{'time': 739, 'text': ['monkaw', 'train', 'monkaw'], 'lineno': 5631}
+{'time': 739, 'text': ['clover', 'field', 'omegalul'], 'lineno': 5635}
+{'time': 740, 'text': ['monkaw', 'end', 'world'], 'lineno': 5642}
+{'time': 741, 'text': ['la', 'muerte', 'peluda', 'lulw'], 'lineno': 5657}
+{'time': 742, 'text': ['monkaw', 'guinea', 'pigs'], 'lineno': 5673}
+{'time': 743, 'text': ['monkaw', 'la', 'muerte', 'peluda'], 'lineno': 5676}
+{'time': 744, 'text': ['clover', 'field', 'pogu'], 'lineno': 5687}
+{'time': 746, 'text': ['monkaw', 'holy', 'shit'], 'lineno': 5698}
+{'time': 746, 'text': ['run', 'el', 'goblino'], 'lineno': 5699}
+{'time': 747, 'text': ['monkaw', 'la', 'domer'], 'lineno': 5710}
+{'time': 748, 'text': ['im', 'scared', 'train', 'pepes'], 'lineno': 5717}
+{'time': 750, 'text': ['something', 'randy', 'film', 'pogu'], 'lineno': 5733}
+{'time': 751, 'text': ['el', 'goblino', 'monkas'], 'lineno': 5755}
+{'time': 751, 'text': ['el', 'goblino', 'monkaw'], 'lineno': 5757}
+{'time': 752, 'text': ['la', 'muerte', 'peluda', 'monkaw'], 'lineno': 5773}
+{'time': 752, 'text': ['c', 'l', 'omegalul', 'v', 'e', 'r', 'f', 'e', 'l'], 'lineno': 5780}
+{'time': 753, 'text': ['pointing', 'train', 'lulw'], 'lineno': 5782}
+{'time': 759, 'text': ['pointing', 'train', 'lulw'], 'lineno': 5798}
+{'time': 759, 'text': ['train', 'coke', 'withdrawl', 'runnn', 'monkaw'], 'lineno': 5812}
+{'time': 759, 'text': ['monkaw', 'furries', 'coming'], 'lineno': 5824}
+{'time': 759, 'text': ['pointing', 'train', 'lulw'], 'lineno': 5831}
+{'time': 759, 'text': ['full', 'form', 'monkaw'], 'lineno': 5838}
+{'time': 759, 'text': ['monkaw', 'la', 'muerte', 'paluda'], 'lineno': 5840}
+{'time': 760, 'text': ['pointing', 'train', 'lulw'], 'lineno': 5858}
+{'time': 760, 'text': ['el', 'goblino', 'farting', 'slamming'], 'lineno': 5871}
+{'time': 760, 'text': ['el', 'domer', 'monkaw'], 'lineno': 5874}
+{'time': 760, 'text': ['monkax', 'el', 'gorillo'], 'lineno': 5878}
+{'time': 762, 'text': ['train', 'watch', 'mexican', 'joker', 'episode'], 'lineno': 5881}
+{'time': 763, 'text': ['monkaw', 'top', 'left'], 'lineno': 5898}
+{'time': 763, 'text': ['way', 'go', 'dough', 'weird'], 'lineno': 5900}
+{'time': 763, 'text': ['el', 'domer', 'monkax'], 'lineno': 5904}
+{'time': 764, 'text': ['top', 'left', 'lulw'], 'lineno': 5906}
+{'time': 765, 'text': ['chat', 'train', 'starts', 'timing', 'us', 'omegalul'], 'lineno': 5925}
+{'time': 768, 'text': ['dansgame', 'god', 'damn', 'furries'], 'lineno': 5959}
+{'time': 771, 'text': ['top', 'left', 'omegalul'], 'lineno': 5976}
+{'time': 771, 'text': ['train', 'stop', 'monkaw'], 'lineno': 5979}
+{'time': 771, 'text': ['el', 'gorilla', 'monkaw'], 'lineno': 5980}
+{'time': 771, 'text': ['literally', 'pointing', 'train', 'lmao'], 'lineno': 5984}
+{'time': 771, 'text': ['fast', 'chat', 'moon'], 'lineno': 5986}
+{'time': 772, 'text': ['furry', 'death', 'monkaw'], 'lineno': 5988}
+{'time': 775, 'text': ['monkaw', 'ape', 'gang'], 'lineno': 6020}
+{'time': 776, 'text': ['show', 'us', 'wtf', 'lul'], 'lineno': 6031}
+{'time': 779, 'text': ['el', 'traino', 'loco', 'monkaw'], 'lineno': 6060}
+{'time': 781, 'text': ['monkaw', 'holy', 'shit'], 'lineno': 6090}
+{'time': 782, 'text': ['dansgame', 'trainwreckstv', 'lulw'], 'lineno': 6095}
+{'time': 788, 'text': ['la', 'muerte', 'peluda', 'lulw'], 'lineno': 6128}
+{'time': 788, 'text': ['inside', 'train', 'nose', 'minik'], 'lineno': 6132}
+{'time': 789, 'text': ['train', 'banning', 'people', 'lulw'], 'lineno': 6135}
+{'time': 789, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 6137}
+{'time': 790, 'text': ['la', 'muerte', 'peluda', 'monkaw'], 'lineno': 6143}
+{'time': 793, 'text': ['la', 'muerte', 'domer', 'monkaw'], 'lineno': 6153}
+{'time': 793, 'text': ['trainwreckstv', 'dougzilla', 'monkaw'], 'lineno': 6157}
+{'time': 794, 'text': ['train', 'guest', 'starred'], 'lineno': 6163}
+{'time': 794, 'text': ['craig', 'ok', 'weird'], 'lineno': 6165}
+{'time': 798, 'text': ['el', 'domer', 'monkaw'], 'lineno': 6180}
+{'time': 806, 'text': ['weird', 'craig', 'quit', 'hating'], 'lineno': 6228}
+{'time': 807, 'text': ['weird', 'ok', 'craig', 'get'], 'lineno': 6239}
+{'time': 809, 'text': ['kenny', 'parachute', 'lulw'], 'lineno': 6255}
+{'time': 809, 'text': ['weird', 'craig', 'quit', 'hating'], 'lineno': 6256}
+{'time': 811, 'text': ['el', 'tren', 'monkaw'], 'lineno': 6273}
+{'time': 812, 'text': ['going', 'watch', 'doug', 'trainwreckstv'], 'lineno': 6281}
+{'time': 812, 'text': ['weird', 'far', 'craig'], 'lineno': 6283}
+{'time': 814, 'text': ['weird', 'craig', 'weird'], 'lineno': 6295}
+{'time': 815, 'text': ['weird', 'stfu', 'craig'], 'lineno': 6306}
+{'time': 815, 'text': ['love', 'craig', 'lulw'], 'lineno': 6308}
+{'time': 816, 'text': ['craig', 'spitting', 'fax', 'lulw'], 'lineno': 6313}
+{'time': 816, 'text': ['shut', 'craig', 'weird'], 'lineno': 6317}
+{'time': 817, 'text': ['weird', 'stfu', 'craig'], 'lineno': 6318}
+{'time': 817, 'text': ['el', 'domerzilla', 'clap'], 'lineno': 6323}
+{'time': 817, 'text': ['stfu', 'craig', 'weird'], 'lineno': 6324}
+{'time': 818, 'text': ['weird', 'kinda', 'negative', 'craig'], 'lineno': 6328}
+{'time': 820, 'text': ['sup', 'train', 'man'], 'lineno': 6341}
+{'time': 821, 'text': ['el', 'douglino', 'monkaw'], 'lineno': 6348}
+{'time': 821, 'text': ['weird', 'kinda', 'weird', 'craig'], 'lineno': 6357}
+{'time': 822, 'text': ['craig', 'spitting', 'fax', 'lul'], 'lineno': 6361}
+{'time': 822, 'text': ['craig', 'omegalul', 'true'], 'lineno': 6364}
+{'time': 823, 'text': ['craig', 'top', 'tier', 'character', 'omegalul'], 'lineno': 6368}
+{'time': 823, 'text': ['weird', 'kinda', 'weird', 'craig'], 'lineno': 6369}
+{'time': 824, 'text': ['weird', 'shut', 'craig'], 'lineno': 6375}
+{'time': 824, 'text': ['supposed', 'know', 'craig', 'weird'], 'lineno': 6377}
+{'time': 825, 'text': ['stfu', 'craig', 'weird'], 'lineno': 6382}
+{'time': 825, 'text': ['weird', 'craig', 'weird', 'kinda', 'weird', 'weird'], 'lineno': 6384}
+{'time': 826, 'text': ['kick', 'craig', 'plane', 'weird'], 'lineno': 6386}
+{'time': 827, 'text': ['lulw', 'spitting', 'facts'], 'lineno': 6393}
+{'time': 829, 'text': ['wrap', 'craig', 'weird'], 'lineno': 6400}
+{'time': 829, 'text': ['dougzilla', 'monkaw', 'clap'], 'lineno': 6401}
+{'time': 834, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 6427}
+{'time': 836, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 6440}
+{'time': 836, 'text': ['warzone', 'looking', 'scene', 'lulw'], 'lineno': 6441}
+{'time': 837, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 6446}
+{'time': 837, 'text': ['stfu', 'craig', 'weird'], 'lineno': 6448}
+{'time': 839, 'text': ['yes', 'craig', 'weird'], 'lineno': 6465}
+{'time': 842, 'text': ['trainwreckstv', 'thanks', 'streaming', 'us', 'hope', 'friends', 'family', 'fine', 'squadw'], 'lineno': 6499}
+{'time': 842, 'text': ['weird', 'stop', 'moaning', 'craig'], 'lineno': 6505}
+{'time': 844, 'text': ['warzone', 'drop', 'pogu'], 'lineno': 6513}
+{'time': 845, 'text': ['dougzilla', 'monkaw', 'clap'], 'lineno': 6523}
+{'time': 846, 'text': ['yes', 'craig', 'weirdf'], 'lineno': 6526}
+{'time': 851, 'text': ['weird', 'negative', 'nancy'], 'lineno': 6556}
+{'time': 855, 'text': ['craig', 'negative', 'nancy', 'weird'], 'lineno': 6561}
+{'time': 856, 'text': ['weird', 'fuck', 'craig'], 'lineno': 6565}
+{'time': 858, 'text': ['wierd', 'stfu', 'craig'], 'lineno': 6569}
+{'time': 861, 'text': ['trainwreckstv', 'craig', 'chat', 'train'], 'lineno': 6573}
+{'time': 866, 'text': ['craig', 'gay', 'squadr'], 'lineno': 6580}
+{'time': 872, 'text': ['chat', 'leave', 'craig', 'alone', 'weird'], 'lineno': 6600}
+{'time': 881, 'text': ['offline', 'tv', 'lulw'], 'lineno': 6643}
+{'time': 885, 'text': ['shut', 'graig', 'weird'], 'lineno': 6673}
+{'time': 887, 'text': ['monkaw', 'la', 'muerte', 'peluda'], 'lineno': 6707}
+{'time': 891, 'text': ['monkaw', 'el', 'domer'], 'lineno': 6760}
+{'time': 891, 'text': ['squadhyperw', 'el', 'muerte', 'domer', 'squadhyperw'], 'lineno': 6765}
+{'time': 891, 'text': ['literally', 'cloverfield', 'lulw'], 'lineno': 6767}
+{'time': 893, 'text': ['craig', 'logical', 'veiwer', 'sea', 'hell', 'pepelaugh'], 'lineno': 6788}
+{'time': 894, 'text': ['irl', 'randy', 'lulw'], 'lineno': 6795}
+{'time': 894, 'text': ['found', 'footage', 'monkaw'], 'lineno': 6796}
+{'time': 895, 'text': ['monkaw', 'holy', 'fuck'], 'lineno': 6809}
+{'time': 895, 'text': ['monkaw', 'el', 'goblino'], 'lineno': 6810}
+{'time': 901, 'text': ['cl', 'omegalul', 'verfield'], 'lineno': 6858}
+{'time': 903, 'text': ['el', 'domer', 'monkaw'], 'lineno': 6875}
+{'time': 904, 'text': ['monkaw', 'stop', 'train'], 'lineno': 6883}
+{'time': 904, 'text': ['monkaw', 'el', 'domer'], 'lineno': 6888}
+{'time': 904, 'text': ['wutface', 'wutface', 'wutface', 'train'], 'lineno': 6889}
+{'time': 905, 'text': ['monkaw', 'la', 'muerte', 'peluda'], 'lineno': 6895}
+{'time': 905, 'text': ['c', 'l', 'omegalul', 'v', 'e', 'r', 'f', 'e', 'l'], 'lineno': 6896}
+{'time': 906, 'text': ['monkaw', 'el', 'gorila'], 'lineno': 6900}
+{'time': 908, 'text': ['get', 'gun', 'monkaw'], 'lineno': 6918}
+{'time': 909, 'text': ['wtf', 'doug', 'came', 'back'], 'lineno': 6926}
+{'time': 913, 'text': ['dougzilla', 'monkaw', 'clap'], 'lineno': 6974}
+{'time': 916, 'text': ['dansgame', 'god', 'damn', 'furries'], 'lineno': 7009}
+{'time': 921, 'text': ['monkaw', 'im', 'startled'], 'lineno': 7072}
+{'time': 922, 'text': ['guinea', 'pigs', 'monkaw'], 'lineno': 7084}
+{'time': 922, 'text': ['wutfacew', 'train', 'wutfacew'], 'lineno': 7086}
+{'time': 927, 'text': ['im', 'done', 'monkaw'], 'lineno': 7163}
+{'time': 927, 'text': ['fucking', 'hamster', 'lulw'], 'lineno': 7167}
+{'time': 927, 'text': ['im', 'startled', 'monkaw'], 'lineno': 7169}
+{'time': 931, 'text': ['guinea', 'pigs', 'lulw'], 'lineno': 7226}
+{'time': 931, 'text': ['sliker', 'lulw', 'trainwreckstv'], 'lineno': 7230}
+{'time': 933, 'text': ['lulw', 'fucking', 'hamster'], 'lineno': 7254}
+{'time': 934, 'text': ['dougzilla', 'im', 'fuckin', 'done', 'omegalul'], 'lineno': 7256}
+{'time': 936, 'text': ['im', 'startled', 'monkaw'], 'lineno': 7267}
+{'time': 936, 'text': ['left', 'wife', 'kid', 'omegalul'], 'lineno': 7268}
+{'time': 939, 'text': ['la', 'muerte', 'peluda', 'monkaw'], 'lineno': 7295}
+{'time': 940, 'text': ['guinea', 'pig', 'lulw'], 'lineno': 7313}
+{'time': 948, 'text': ['guinea', 'pig', 'lulw'], 'lineno': 7398}
+{'time': 949, 'text': ['monkaw', 'oh', 'god'], 'lineno': 7400}
+{'time': 951, 'text': ['monkas', 'oh', 'god'], 'lineno': 7416}
+{'time': 956, 'text': ['started', 'running', 'insted', 'going', 'inside', 'house', 'hahahah', 'good', 'content', 'trainwreckstv'], 'lineno': 7462}
+{'time': 957, 'text': ['monkaw', 'im', 'startled'], 'lineno': 7474}
+{'time': 958, 'text': ['twitter', 'com', 'trainwreckstv'], 'lineno': 7479}
+{'time': 960, 'text': ['pogu', 'best', 'irl', 'stream'], 'lineno': 7501}
+{'time': 960, 'text': ['la', 'muerte', 'peluda', 'monkaw'], 'lineno': 7506}
+{'time': 961, 'text': ['world', 'worlds', 'lulw'], 'lineno': 7516}
+{'time': 962, 'text': ['react', 'andies', 'lulw'], 'lineno': 7526}
+{'time': 964, 'text': ['guinea', 'pig', 'pogu'], 'lineno': 7546}
+{'time': 965, 'text': ['monkaw', 'holy', 'shit'], 'lineno': 7565}
+{'time': 966, 'text': ['el', 'domer', 'monkaw'], 'lineno': 7573}
+{'time': 967, 'text': ['guinea', 'pig', 'lulw', 'hamster'], 'lineno': 7577}
+{'time': 970, 'text': ['domers', 'hair', 'lulw'], 'lineno': 7598}
+{'time': 971, 'text': ['monkaw', 'startled', 'chat'], 'lineno': 7600}
+{'time': 982, 'text': ['hes', 'one', 'themm'], 'lineno': 7637}
+{'time': 987, 'text': ['monkaw', 'hes', 'one'], 'lineno': 7680}
+{'time': 990, 'text': ['monkaw', 'oh', 'god'], 'lineno': 7708}
+{'time': 990, 'text': ['xi', 'jin', 'ping', 'monkaw'], 'lineno': 7709}
+{'time': 998, 'text': ['train', 'love', 'politics', 'much', 'trainwreckstv'], 'lineno': 7777}
+{'time': 999, 'text': ['monkaw', 'uh', 'oh'], 'lineno': 7786}
+{'time': 1001, 'text': ['furry', 'goverment', 'monkaw'], 'lineno': 7802}
+{'time': 1002, 'text': ['alex', 'jones', 'right', 'monkaw'], 'lineno': 7807}
+{'time': 1002, 'text': ['peruvians', 'eat', 'guinea', 'pigs', 'monkaw'], 'lineno': 7811}
+{'time': 1005, 'text': ['dougzilla', 'monkaw', 'clap'], 'lineno': 7825}
+{'time': 1005, 'text': ['hold', 'chat', 'monkaw'], 'lineno': 7828}
+{'time': 1007, 'text': ['el', 'goblino', 'monkaw'], 'lineno': 7841}
+{'time': 1007, 'text': ['furries', 'goverment', 'monkaw'], 'lineno': 7844}
+{'time': 1009, 'text': ['monkaw', 'hold', 'chat'], 'lineno': 7855}
+{'time': 1011, 'text': ['monkaw', 'holy', 'shit'], 'lineno': 7878}
+{'time': 1015, 'text': ['monkaw', 'lizard', 'people'], 'lineno': 7942}
+{'time': 1017, 'text': ['monkaw', 'holy', 'shit'], 'lineno': 7967}
+{'time': 1018, 'text': ['monkaw', 'oh', 'shit'], 'lineno': 7981}
+{'time': 1025, 'text': ['monkaw', 'holy', 'shit'], 'lineno': 8060}
+{'time': 1027, 'text': ['baddra', 'wtf', 'monkax'], 'lineno': 8076}
+{'time': 1033, 'text': ['lizard', 'people', 'monkaw'], 'lineno': 8118}
+{'time': 1034, 'text': ['actual', 'lizard', 'monkaw'], 'lineno': 8123}
+{'time': 1034, 'text': ['monkaw', 'lizard', 'people'], 'lineno': 8124}
+{'time': 1039, 'text': ['joe', 'biden', 'omegalul'], 'lineno': 8185}
+{'time': 1042, 'text': ['weird', 'next', 'one'], 'lineno': 8220}
+{'time': 1043, 'text': ['u', 'go', 'next', 'lulw'], 'lineno': 8221}
+{'time': 1043, 'text': ['play', 'part', 'weird'], 'lineno': 8240}
+{'time': 1043, 'text': ['next', 'one', 'peepoclap'], 'lineno': 8242}
+{'time': 1047, 'text': ['next', 'episode', 'pogu'], 'lineno': 8266}
+{'time': 1047, 'text': ['watch', 'next', 'one'], 'lineno': 8271}
+{'time': 1048, 'text': ['next', 'one', 'pogu'], 'lineno': 8275}
+{'time': 1053, 'text': ['trainwreckstv', 'turn', 'shit', 'man', 'gonna', 'get', 'restreaming', 'banned', 'twitch'], 'lineno': 8338}
+{'time': 1053, 'text': ['zoomers', 'get', 'lulw'], 'lineno': 8346}
+{'time': 1054, 'text': ['play', 'part', 'weird'], 'lineno': 8352}
+{'time': 1055, 'text': ['im', 'mautre', 'weird'], 'lineno': 8364}
+{'time': 1056, 'text': ['next', 'episode', 'weird'], 'lineno': 8372}
+{'time': 1062, 'text': ['leave', 'chat', 'kids'], 'lineno': 8426}
+{'time': 1066, 'text': ['ty', 'one', 'twainy', 'widepeepohappy', 'trainwrecks', 'stalling', 'room'], 'lineno': 8441}
+{'time': 1067, 'text': ['love', 'craig', 'lulw'], 'lineno': 8446}
+{'time': 1068, 'text': ['watch', 'part', 'weird'], 'lineno': 8450}
+{'time': 1070, 'text': ['ty', 'one', 'twainy', 'widepeepohappy', 'trainwreckstv'], 'lineno': 8461}
+{'time': 1074, 'text': ['ty', 'one', 'twainy', 'widepeepohappy', 'trainwreckstv'], 'lineno': 8486}
+{'time': 1075, 'text': ['trainwreckstv', 'love', 'u', 'dude', 'cant', 'watching', 'much', 'next', 'months', 'ill', 'back', 'soon', 'squadl', 'greekl'], 'lineno': 8492}
+{'time': 1077, 'text': ['u', 'missed', 'sub', 'pepehands', 'trainwreckstv'], 'lineno': 8515}
+{'time': 1081, 'text': ['god', 'dam', 'kreygasm'], 'lineno': 8554}
+{'time': 1083, 'text': ['trainwreckstv', 'got', 'recap', 'part'], 'lineno': 8568}
+{'time': 1085, 'text': ['trainwreckstv', 'sry', 'cant', 'watch', 'train', 'im'], 'lineno': 8583}
+{'time': 1088, 'text': ['u', 'missed', 'sub', 'pepehands', 'trainwreckstv'], 'lineno': 8600}
+{'time': 1092, 'text': ['u', 'missed', 'sub', 'pepehands', 'trainwreckstv'], 'lineno': 8628}
+{'time': 1095, 'text': ['u', 'missed', 'sub', 'pepehands', 'trainwreckstv'], 'lineno': 8646}
+{'time': 1098, 'text': ['kreygasm', 'kreygasm', 'wtf'], 'lineno': 8660}
+{'time': 1119, 'text': ['monkaw', 'la', 'muerte', 'peluda'], 'lineno': 8762}
+{'time': 1133, 'text': ['squadcozy', 'love', 'u', 'twain', 'trainwreckstv'], 'lineno': 8827}
+{'time': 1139, 'text': ['te', 'one', 'craig'], 'lineno': 8871}
+{'time': 1139, 'text': ['monkaw', 'monkas', 'bois', 'startled'], 'lineno': 8878}
+{'time': 1140, 'text': ['weird', 'craig', 'weird'], 'lineno': 8899}
+{'time': 1152, 'text': ['sounds', 'like', 'young', 'pepega', 'trump', 'lulw'], 'lineno': 9006}
+{'time': 1155, 'text': ['weird', 'still', 'bitching'], 'lineno': 9029}
+{'time': 1159, 'text': ['trains', 'friends', 'telling', 'invest', 'lulw'], 'lineno': 9044}
+{'time': 1163, 'text': ['weird', 'get', 'craig'], 'lineno': 9059}
+{'time': 1168, 'text': ['kkonaw', 'deport', 'em'], 'lineno': 9074}
+{'time': 1168, 'text': ['weird', 'wrap', 'craig'], 'lineno': 9076}
+{'time': 1169, 'text': ['kkonaw', 'fake', 'news'], 'lineno': 9079}
+{'time': 1180, 'text': ['weird', 'ok', 'whatever', 'craig'], 'lineno': 9129}
+{'time': 1181, 'text': ['weird', 'ok', 'craig'], 'lineno': 9131}
+{'time': 1186, 'text': ['fuck', 'craig', 'weird'], 'lineno': 9148}
+{'time': 1191, 'text': ['fuck', 'craig', 'weird'], 'lineno': 9159}
+{'time': 1191, 'text': ['fucking', 'craig', 'pepelaugh'], 'lineno': 9160}
+{'time': 1206, 'text': ['monkaw', 'la', 'muerte', 'peluda'], 'lineno': 9217}
+{'time': 1214, 'text': ['monkaw', 'guinea', 'pigs'], 'lineno': 9296}
+{'time': 1222, 'text': ['furry', 'virus', 'pogu'], 'lineno': 9332}
+{'time': 1229, 'text': ['monkaw', 'trains', 'army'], 'lineno': 9376}
+{'time': 1231, 'text': ['guinea', 'pigs', 'mean', 'hasan', 'lulw'], 'lineno': 9404}
+{'time': 1237, 'text': ['lost', 'peanuts', 'lulw'], 'lineno': 9464}
+{'time': 1239, 'text': ['monkaw', 'oh', 'shit'], 'lineno': 9480}
+{'time': 1242, 'text': ['lost', 'peanut', 'lulw'], 'lineno': 9496}
+{'time': 1250, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 9530}
+{'time': 1250, 'text': ['monkaw', 'chat', 'im', 'scared'], 'lineno': 9531}
+{'time': 1252, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 9544}
+{'time': 1255, 'text': ['lost', 'nut', 'lulw'], 'lineno': 9554}
+{'time': 1274, 'text': ['live', 'streamers', 'lulw'], 'lineno': 9636}
+{'time': 1277, 'text': ['fake', 'news', 'lulw'], 'lineno': 9641}
+{'time': 1278, 'text': ['always', 'asshole', 'fucking', 'camera', 'lulw'], 'lineno': 9645}
+{'time': 1283, 'text': ['kkonaw', 'fake', 'news'], 'lineno': 9654}
+{'time': 1286, 'text': ['monkaw', 'oh', 'god'], 'lineno': 9664}
+{'time': 1287, 'text': ['oh', 'god', 'monkas'], 'lineno': 9678}
+{'time': 1289, 'text': ['im', 'startled', 'squadlul', 'trainwreckstv'], 'lineno': 9689}
+{'time': 1290, 'text': ['corona', 'future', 'monkaw'], 'lineno': 9695}
+{'time': 1291, 'text': ['oh', 'god', 'monkas'], 'lineno': 9699}
+{'time': 1295, 'text': ['cucci', 'store', 'lulw'], 'lineno': 9737}
+{'time': 1303, 'text': ['monkaw', 'el', 'guinea'], 'lineno': 9812}
+{'time': 1313, 'text': ['pepes', 'holy', 'fuck'], 'lineno': 9853}
+{'time': 1315, 'text': ['na', 'houses', 'lulw'], 'lineno': 9855}
+{'time': 1337, 'text': ['happening', 'real', 'life', 'chat', 'case', 'get', 'train', 'humour'], 'lineno': 9892}
+{'time': 1340, 'text': ['army', 'dumbasses', 'lulw'], 'lineno': 9911}
+{'time': 1342, 'text': ['ludwigxanbeethoven', 'monkaw', 'true'], 'lineno': 9916}
+{'time': 1342, 'text': ['na', 'pilots', 'omegalul'], 'lineno': 9920}
+{'time': 1351, 'text': ['kkona', 'stfu', 'im', 'smart'], 'lineno': 9932}
+{'time': 1353, 'text': ['army', 'bucket', 'heads', 'lulw'], 'lineno': 9938}
+{'time': 1357, 'text': ['true', 'irl', 'omegalul'], 'lineno': 9948}
+{'time': 1358, 'text': ['weird', 'stfu', 'craig'], 'lineno': 9954}
+{'time': 1361, 'text': ['feelsweirdman', 'shut', 'craig'], 'lineno': 9956}
+{'time': 1361, 'text': ['feelsweirdman', 'shut', 'craig'], 'lineno': 9962}
+{'time': 1362, 'text': ['feelsweirdman', 'shut', 'craig'], 'lineno': 9968}
+{'time': 1364, 'text': ['craig', 'moon', 'ph'], 'lineno': 9974}
+{'time': 1364, 'text': ['alexander', 'emerick', 'jones', 'monkaw'], 'lineno': 9976}
+{'time': 1365, 'text': ['imagine', 'hating', 'craig', 'liking', 'cartman', 'lulw'], 'lineno': 9977}
+{'time': 1365, 'text': ['weird', 'stfu', 'craig'], 'lineno': 9978}
+{'time': 1369, 'text': ['stfu', 'craig', 'weird'], 'lineno': 9992}
+{'time': 1370, 'text': ['weird', 'stfu', 'craig'], 'lineno': 9996}
+{'time': 1371, 'text': ['fuck', 'craig', 'weird'], 'lineno': 10006}
+{'time': 1372, 'text': ['weird', 'ok', 'craig'], 'lineno': 10007}
+{'time': 1372, 'text': ['weird', 'negative', 'nancy'], 'lineno': 10012}
+{'time': 1372, 'text': ['weird', 'shut', 'craig'], 'lineno': 10014}
+{'time': 1372, 'text': ['weird', 'shut', 'craig'], 'lineno': 10015}
+{'time': 1374, 'text': ['weird', 'stfu', 'craig'], 'lineno': 10029}
+{'time': 1374, 'text': ['weird', 'chill', 'craig'], 'lineno': 10030}
+{'time': 1375, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 10031}
+{'time': 1376, 'text': ['weird', 'craig', 'stfu'], 'lineno': 10042}
+{'time': 1376, 'text': ['negative', 'nancy', 'weird'], 'lineno': 10044}
+{'time': 1376, 'text': ['weird', 'get', 'craig'], 'lineno': 10046}
+{'time': 1376, 'text': ['shut', 'craig', 'weird'], 'lineno': 10048}
+{'time': 1376, 'text': ['weird', 'stfu', 'craig'], 'lineno': 10051}
+{'time': 1378, 'text': ['yes', 'weird', 'true'], 'lineno': 10056}
+{'time': 1378, 'text': ['weird', 'fuck', 'craig'], 'lineno': 10059}
+{'time': 1378, 'text': ['weird', 'stfu', 'craig'], 'lineno': 10060}
+{'time': 1378, 'text': ['twitter', 'com', 'trainwreckstv'], 'lineno': 10062}
+{'time': 1378, 'text': ['shut', 'craig', 'weird'], 'lineno': 10065}
+{'time': 1379, 'text': ['weird', 'complaining', 'craig'], 'lineno': 10070}
+{'time': 1381, 'text': ['weird', 'stfu', 'craig'], 'lineno': 10084}
+{'time': 1384, 'text': ['weird', 'stfu', 'craig'], 'lineno': 10098}
+{'time': 1386, 'text': ['weirdchamp', 'stfu', 'creg'], 'lineno': 10102}
+{'time': 1389, 'text': ['monkaw', 'nesting', 'grounds'], 'lineno': 10126}
+{'time': 1389, 'text': ['cranky', 'craig', 'weirdchamp'], 'lineno': 10132}
+{'time': 1390, 'text': ['craig', 'weirdit', 'craig', 'weirdit', 'craig', 'weird'], 'lineno': 10140}
+{'time': 1391, 'text': ['craig', 'hate', 'watcher'], 'lineno': 10147}
+{'time': 1391, 'text': ['craig', 'chat', 'stfu'], 'lineno': 10148}
+{'time': 1391, 'text': ['craig', 'weird', 'heelmipray'], 'lineno': 10153}
+{'time': 1391, 'text': ['weird', 'wrap', 'graig'], 'lineno': 10155}
+{'time': 1391, 'text': ['monkaw', 'el', 'guinea'], 'lineno': 10157}
+{'time': 1394, 'text': ['mother', 'fucken', 'craig', 'fucken', 'npc', 'stfu', 'man'], 'lineno': 10169}
+{'time': 1396, 'text': ['monkaw', 'el', 'guinea'], 'lineno': 10183}
+{'time': 1398, 'text': ['weird', 'watchin', 'hug', 'trainwreckstv'], 'lineno': 10190}
+{'time': 1407, 'text': ['peru', 'lulw', 'fake', 'colombia'], 'lineno': 10222}
+{'time': 1408, 'text': ['hold', 'chat', 'monkaw'], 'lineno': 10227}
+{'time': 1408, 'text': ['craig', 'hate', 'watcher'], 'lineno': 10229}
+{'time': 1420, 'text': ['weird', 'playing', 'warzone'], 'lineno': 10246}
+{'time': 1429, 'text': ['spoonygod', 'stfu', 'amerimutt', 'lul'], 'lineno': 10266}
+{'time': 1437, 'text': ['vissx', 'awoo', 'monkaw'], 'lineno': 10303}
+{'time': 1448, 'text': ['south', 'park', 'best', 'lulw'], 'lineno': 10401}
+{'time': 1449, 'text': ['hell', 'yeah', 'kkonaw'], 'lineno': 10412}
+{'time': 1452, 'text': ['train', 'banning', 'people', 'pepehands'], 'lineno': 10419}
+{'time': 1452, 'text': ['jj', 'abrams', 'lulw'], 'lineno': 10421}
+{'time': 1453, 'text': ['irl', 'streamer', 'lulw'], 'lineno': 10422}
+{'time': 1461, 'text': ['monkaw', 'la', 'muerta', 'peluda'], 'lineno': 10466}
+{'time': 1467, 'text': ['monkaw', 'la', 'muerte', 'peluda'], 'lineno': 10497}
+{'time': 1467, 'text': ['im', 'startled', 'monkaw'], 'lineno': 10499}
+{'time': 1474, 'text': ['still', 'vlogging', 'lulw'], 'lineno': 10563}
+{'time': 1476, 'text': ['nakazzy', 'cute', 'lulw'], 'lineno': 10571}
+{'time': 1476, 'text': ['wave', 'camera', 'omegalul'], 'lineno': 10574}
+{'time': 1477, 'text': ['lulw', 'irl', 'streamers'], 'lineno': 10576}
+{'time': 1481, 'text': ['monkaw', 'im', 'scared'], 'lineno': 10598}
+{'time': 1484, 'text': ['monkaw', 'im', 'startled'], 'lineno': 10616}
+{'time': 1484, 'text': ['monkaw', 'im', 'startled'], 'lineno': 10618}
+{'time': 1497, 'text': ['monkaw', 'im', 'startled'], 'lineno': 10676}
+{'time': 1500, 'text': ['lulw', 'irl', 'streamer'], 'lineno': 10705}
+{'time': 1501, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 10718}
+{'time': 1502, 'text': ['cx', 'streamer', 'lulw'], 'lineno': 10722}
+{'time': 1504, 'text': ['holy', 'shit', 'woke', 'fuck'], 'lineno': 10734}
+{'time': 1505, 'text': ['randy', 'best', 'character', 'lulw'], 'lineno': 10740}
+{'time': 1507, 'text': ['content', 'homie', 'fuck', 'duud'], 'lineno': 10761}
+{'time': 1507, 'text': ['every', 'found', 'footage', 'horror', 'film', 'lulw'], 'lineno': 10762}
+{'time': 1509, 'text': ['pogu', 'risking', 'life', 'content'], 'lineno': 10780}
+{'time': 1514, 'text': ['cx', 'fuck', 'dood'], 'lineno': 10828}
+{'time': 1518, 'text': ['content', 'randy', 'pogu'], 'lineno': 10855}
+{'time': 1521, 'text': ['pogu', 'randys', 'got', 'movement'], 'lineno': 10872}
+{'time': 1527, 'text': ['weird', 'randy', 'content'], 'lineno': 10890}
+{'time': 1528, 'text': ['take', 'notes', 'domie', 'weird'], 'lineno': 10891}
+{'time': 1532, 'text': ['lul', 'good', 'one'], 'lineno': 10916}
+{'time': 1535, 'text': ['lulw', 'good', 'one'], 'lineno': 10952}
+{'time': 1537, 'text': ['good', 'one', 'head'], 'lineno': 10979}
+{'time': 1538, 'text': ['good', 'one', 'head'], 'lineno': 10985}
+{'time': 1541, 'text': ['monkaw', 'pig', 'nest'], 'lineno': 11002}
+{'time': 1552, 'text': ['monkaw', 'giant', 'bees'], 'lineno': 11065}
+{'time': 1553, 'text': ['monkaw', 'giant', 'bees'], 'lineno': 11069}
+{'time': 1555, 'text': ['monkas', 'get', 'fuck'], 'lineno': 11072}
+{'time': 1557, 'text': ['monkaw', 'guinea', 'bees'], 'lineno': 11086}
+{'time': 1558, 'text': ['monkaw', 'guinea', 'bees'], 'lineno': 11089}
+{'time': 1559, 'text': ['feelsweirdman', 'shut', 'craig'], 'lineno': 11097}
+{'time': 1559, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11099}
+{'time': 1559, 'text': ['craig', 'com', 'eon'], 'lineno': 11100}
+{'time': 1560, 'text': ['weird', 'chill', 'craig'], 'lineno': 11102}
+{'time': 1560, 'text': ['feelsweirdman', 'shut', 'craig'], 'lineno': 11108}
+{'time': 1561, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11115}
+{'time': 1561, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11117}
+{'time': 1562, 'text': ['feelsweirdman', 'shut', 'craig'], 'lineno': 11118}
+{'time': 1562, 'text': ['craig', 'hate', 'watcher'], 'lineno': 11127}
+{'time': 1563, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11136}
+{'time': 1564, 'text': ['shut', 'craig', 'weird'], 'lineno': 11142}
+{'time': 1564, 'text': ['fuck', 'craig', 'feelsweirdman'], 'lineno': 11149}
+{'time': 1565, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11150}
+{'time': 1565, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11152}
+{'time': 1566, 'text': ['nakazzy', 'shock', 'weird'], 'lineno': 11157}
+{'time': 1566, 'text': ['king', 'kong', 'movie', 'monkaw'], 'lineno': 11158}
+{'time': 1566, 'text': ['stfu', 'craig', 'painschamp'], 'lineno': 11159}
+{'time': 1566, 'text': ['weird', 'ok', 'craig'], 'lineno': 11160}
+{'time': 1567, 'text': ['weird', 'craig', 'andy'], 'lineno': 11163}
+{'time': 1568, 'text': ['fuck', 'craig', 'weird'], 'lineno': 11171}
+{'time': 1568, 'text': ['land', 'lost', 'movie', 'lulw'], 'lineno': 11174}
+{'time': 1568, 'text': ['yeah', 'craig', 'weird'], 'lineno': 11175}
+{'time': 1569, 'text': ['shut', 'craig', 'weird'], 'lineno': 11177}
+{'time': 1569, 'text': ['craig', 'stfu', 'feelsweirdman'], 'lineno': 11184}
+{'time': 1570, 'text': ['yeah', 'craig', 'weird'], 'lineno': 11188}
+{'time': 1571, 'text': ['craig', 'land', 'giant', 'peach'], 'lineno': 11191}
+{'time': 1572, 'text': ['weird', 'shut', 'fuck', 'craig'], 'lineno': 11192}
+{'time': 1572, 'text': ['weird', 'complaining', 'craig'], 'lineno': 11195}
+{'time': 1573, 'text': ['stfu', 'craig', 'painschamp'], 'lineno': 11197}
+{'time': 1573, 'text': ['craig', 'chat', 'lulw'], 'lineno': 11201}
+{'time': 1573, 'text': ['weirdchamp', 'stfu', 'craig'], 'lineno': 11204}
+{'time': 1574, 'text': ['weird', 'deal', 'craig', 'stuff', 'happens'], 'lineno': 11207}
+{'time': 1575, 'text': ['craig', 'hate', 'watcher'], 'lineno': 11214}
+{'time': 1575, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11220}
+{'time': 1576, 'text': ['jinnytweird', 'stfu', 'craig'], 'lineno': 11222}
+{'time': 1576, 'text': ['stfu', 'craig', 'weird'], 'lineno': 11225}
+{'time': 1576, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11226}
+{'time': 1577, 'text': ['weird', 'fuck', 'craig'], 'lineno': 11227}
+{'time': 1577, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11229}
+{'time': 1578, 'text': ['weird', 'craig', 'stop'], 'lineno': 11230}
+{'time': 1578, 'text': ['weird', 'stop', 'complaining', 'craig'], 'lineno': 11234}
+{'time': 1580, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 11240}
+{'time': 1581, 'text': ['wrap', 'craig', 'weird'], 'lineno': 11246}
+{'time': 1582, 'text': ['stfu', 'craig', 'weird'], 'lineno': 11249}
+{'time': 1582, 'text': ['weird', 'fuck', 'craig'], 'lineno': 11250}
+{'time': 1582, 'text': ['shut', 'craig', 'weird'], 'lineno': 11254}
+{'time': 1583, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 11255}
+{'time': 1583, 'text': ['weird', 'shut', 'craig'], 'lineno': 11257}
+{'time': 1584, 'text': ['trainwreckstv', 'craig', 'bring', 'new', 'person', 'onto', 'podcast'], 'lineno': 11258}
+{'time': 1584, 'text': ['weird', 'craig', 'stfu'], 'lineno': 11262}
+{'time': 1584, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11263}
+{'time': 1585, 'text': ['true', 'lulw', 'hahaha'], 'lineno': 11267}
+{'time': 1586, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 11269}
+{'time': 1586, 'text': ['craig', 'hate', 'watcher'], 'lineno': 11273}
+{'time': 1588, 'text': ['weird', 'stuff', 'happens', 'craig'], 'lineno': 11286}
+{'time': 1589, 'text': ['stfu', 'craig', 'weird'], 'lineno': 11291}
+{'time': 1590, 'text': ['stfu', 'craig', 'painschamp'], 'lineno': 11294}
+{'time': 1590, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 11297}
+{'time': 1590, 'text': ['painschamp', 'craig', 'weird', 'still', 'bitching', 'weird', 'still', 'bitching', 'weird', 'still', 'bitching', 'weird', 'still', 'bitching', 'weird', 'still', 'bitching', 'weird', 'still', 'bitching', 'weird', 'still', 'bitching', 'weird', 'still', 'bitching', 'weird', 'still', 'bitching'], 'lineno': 11300}
+{'time': 1590, 'text': ['supposed', 'know', 'craig', 'weird'], 'lineno': 11301}
+{'time': 1591, 'text': ['lulw', 'fun', 'andy'], 'lineno': 11305}
+{'time': 1593, 'text': ['craig', 'stfu', 'feelsweirdman'], 'lineno': 11324}
+{'time': 1593, 'text': ['stfu', 'craig', 'painschamp'], 'lineno': 11329}
+{'time': 1595, 'text': ['supposed', 'know', 'craig', 'weird'], 'lineno': 11337}
+{'time': 1595, 'text': ['weird', 'stfu', 'craig'], 'lineno': 11338}
+{'time': 1596, 'text': ['stfu', 'craig', 'weird', 'simp'], 'lineno': 11348}
+{'time': 1596, 'text': ['complaining', 'andy', 'weird'], 'lineno': 11349}
+{'time': 1600, 'text': ['weird', 'fuck', 'craig'], 'lineno': 11391}
+{'time': 1603, 'text': ['fuckin', 'craig', 'dude'], 'lineno': 11410}
+{'time': 1604, 'text': ['craig', 'simmer', 'buddu'], 'lineno': 11419}
+{'time': 1605, 'text': ['craig', 'hand', 'weird'], 'lineno': 11420}
+{'time': 1615, 'text': ['craig', 'using', 'logic', 'unlogical', 'world', 'pepelaugh'], 'lineno': 11453}
+{'time': 1618, 'text': ['wave', 'camera', 'domer', 'weird'], 'lineno': 11463}
+{'time': 1620, 'text': ['lulw', 'best', 'buy'], 'lineno': 11474}
+{'time': 1628, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 11536}
+{'time': 1632, 'text': ['monkaw', 'giant', 'bees'], 'lineno': 11565}
+{'time': 1634, 'text': ['pogu', 'erobs', 'teeth'], 'lineno': 11583}
+{'time': 1640, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 11626}
+{'time': 1647, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 11673}
+{'time': 1648, 'text': ['monkaw', 'giant', 'bees', 'wtf'], 'lineno': 11680}
+{'time': 1648, 'text': ['widehardo', 'wanna', 'start', 'scam', 'train'], 'lineno': 11681}
+{'time': 1650, 'text': ['monkaw', 'guinea', 'bees'], 'lineno': 11695}
+{'time': 1654, 'text': ['burself', 'ban', 'burself', 'one', 'burself', 'bee', 'burself', 'burself', 'burself', 'get', 'burself', 'burself', 'swarm', 'burself'], 'lineno': 11717}
+{'time': 1654, 'text': ['nakazzy', 'nice', 'movie', 'lulw'], 'lineno': 11725}
+{'time': 1655, 'text': ['cozoo', 'one', 'main'], 'lineno': 11730}
+{'time': 1655, 'text': ['monkaw', 'guinea', 'bees'], 'lineno': 11731}
+{'time': 1656, 'text': ['burself', 'ban', 'burself', 'one', 'burself', 'bee', 'burself', 'burself', 'burself', 'get', 'burself', 'burself', 'swarm', 'burself'], 'lineno': 11733}
+{'time': 1656, 'text': ['pepelaugh', 'comes', 'chat'], 'lineno': 11739}
+{'time': 1657, 'text': ['burself', 'ban', 'burself', 'one', 'burself', 'bee', 'burself', 'burself', 'burself', 'get', 'burself', 'burself', 'swarm', 'burself'], 'lineno': 11747}
+{'time': 1658, 'text': ['wonder', 'people', 'chat', 'knows', 'trains', 'laughing', 'bleedpurple'], 'lineno': 11749}
+{'time': 1669, 'text': ['burself', 'ban', 'burself', 'one', 'burself', 'bee', 'burself', 'burself', 'burself', 'get', 'burself', 'burself', 'swarm'], 'lineno': 11872}
+{'time': 1683, 'text': ['monkaw', 'giant', 'bees'], 'lineno': 12010}
+{'time': 1683, 'text': ['omegalul', 'fcuking', 'cute'], 'lineno': 12016}
+{'time': 1685, 'text': ['omegalul', 'fcuking', 'cute'], 'lineno': 12026}
+{'time': 1687, 'text': ['monkaw', 'shit', 'scary'], 'lineno': 12034}
+{'time': 1698, 'text': ['im', 'startled', 'chat', 'monkaw'], 'lineno': 12086}
+{'time': 1701, 'text': ['anele', 'zulul', 'clap'], 'lineno': 12099}
+{'time': 1707, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 12122}
+{'time': 1708, 'text': ['shut', 'craig', 'weird'], 'lineno': 12126}
+{'time': 1708, 'text': ['weird', 'ok', 'craig'], 'lineno': 12135}
+{'time': 1708, 'text': ['feelsweirdman', 'stfu', 'craig'], 'lineno': 12138}
+{'time': 1708, 'text': ['stfu', 'craig', 'painschamp'], 'lineno': 12139}
+{'time': 1708, 'text': ['stfu', 'craig', 'weird'], 'lineno': 12140}
+{'time': 1710, 'text': ['weird', 'craig', 'stop'], 'lineno': 12156}
+{'time': 1711, 'text': ['shut', 'craig', 'weird'], 'lineno': 12167}
+{'time': 1711, 'text': ['weird', 'stfu', 'craig'], 'lineno': 12168}
+{'time': 1711, 'text': ['stfu', 'craig', 'painschamp'], 'lineno': 12171}
+{'time': 1711, 'text': ['fuck', 'craig', 'weird'], 'lineno': 12174}
+{'time': 1712, 'text': ['weird', 'craig', 'stfu'], 'lineno': 12177}
+{'time': 1712, 'text': ['holy', 'shit', 'weird'], 'lineno': 12178}
+{'time': 1712, 'text': ['shut', 'craig', 'weird'], 'lineno': 12181}
+{'time': 1712, 'text': ['stfu', 'craig', 'weird'], 'lineno': 12182}
+{'time': 1714, 'text': ['stfu', 'craig', 'weird'], 'lineno': 12198}
+{'time': 1715, 'text': ['weird', 'wrap', 'craig'], 'lineno': 12217}
+{'time': 1715, 'text': ['stfu', 'craig', 'weird'], 'lineno': 12221}
+{'time': 1715, 'text': ['weird', 'fuck', 'craig'], 'lineno': 12229}
+{'time': 1715, 'text': ['shut', 'fuck', 'train'], 'lineno': 12231}
+{'time': 1717, 'text': ['stfu', 'craig', 'painschamp'], 'lineno': 12232}
+{'time': 1718, 'text': ['craig', 'hate', 'watcher'], 'lineno': 12242}
+{'time': 1718, 'text': ['holy', 'shit', 'weird', 'get', 'back'], 'lineno': 12246}
+{'time': 1720, 'text': ['stfu', 'craig', 'weird'], 'lineno': 12266}
+{'time': 1720, 'text': ['weird', 'fucking', 'craig'], 'lineno': 12271}
+{'time': 1721, 'text': ['weirdchamp', 'stop', 'craig'], 'lineno': 12275}
+{'time': 1721, 'text': ['weird', 'literally', 'reacting'], 'lineno': 12276}
+{'time': 1721, 'text': ['weird', 'complaining', 'pants'], 'lineno': 12278}
+{'time': 1721, 'text': ['get', 'craig', 'destiny', 'lulw'], 'lineno': 12279}
+{'time': 1722, 'text': ['symbolic', 'time', 'chat', 'coolcat', 'darkmode', 'coolcat'], 'lineno': 12286}
+{'time': 1722, 'text': ['stfu', 'craig', 'weird'], 'lineno': 12288}
+{'time': 1722, 'text': ['weird', 'craig', 'shut', 'fuck'], 'lineno': 12293}
+{'time': 1723, 'text': ['still', 'bitchin', 'weird'], 'lineno': 12296}
+{'time': 1723, 'text': ['zulul', 'wtf', 'craig'], 'lineno': 12301}
+{'time': 1723, 'text': ['craig', 'right', 'tho', 'lulw'], 'lineno': 12302}
+{'time': 1725, 'text': ['director', 'must', 'really', 'fucking', 'hate', 'cloverfield', 'lulw'], 'lineno': 12306}
+{'time': 1726, 'text': ['weird', 'mr', 'complainypants'], 'lineno': 12310}
+{'time': 1726, 'text': ['craig', 'trains', 'son', 'weird'], 'lineno': 12311}
+{'time': 1727, 'text': ['weird', 'fuck', 'doug'], 'lineno': 12312}
+{'time': 1731, 'text': ['craig', 'right', 'tho', 'lulw'], 'lineno': 12315}
+{'time': 1731, 'text': ['craig', 'bad', 'vibes', 'squadbrug'], 'lineno': 12316}
+{'time': 1733, 'text': ['squad', 'fk', 'u', 'craig'], 'lineno': 12319}
+{'time': 1735, 'text': ['fuckin', 'craig', 'dud', 'squadr'], 'lineno': 12326}
+{'time': 1741, 'text': ['fuck', 'craig', 'weird'], 'lineno': 12345}
+{'time': 1743, 'text': ['craig', 'every', 'weird', 'spammer', 'trainwreckstv'], 'lineno': 12358}
+{'time': 1749, 'text': ['pogu', 'oh', 'fuck'], 'lineno': 12385}
+{'time': 1752, 'text': ['corona', 'cure', 'pogu'], 'lineno': 12395}
+{'time': 1755, 'text': ['pogu', 'prophecy', 'fortold'], 'lineno': 12406}
+{'time': 1757, 'text': ['craig', 'speaking', 'truth', 'though', 'lulw'], 'lineno': 12428}
+{'time': 1760, 'text': ['god', 'war', 'lulw'], 'lineno': 12456}
+{'time': 1767, 'text': ['pogu', 'chosen', 'one'], 'lineno': 12527}
+{'time': 1767, 'text': ['weird', 'explain', 'craig'], 'lineno': 12528}
+{'time': 1776, 'text': ['fuckin', 'craig', 'dud', 'squadr'], 'lineno': 12577}
+{'time': 1778, 'text': ['chosen', 'one', 'pogu'], 'lineno': 12582}
+{'time': 1780, 'text': ['pogu', 'chat', 'hero'], 'lineno': 12589}
+{'time': 1780, 'text': ['wrap', 'fuck', 'craig', 'weird'], 'lineno': 12591}
+{'time': 1781, 'text': ['weird', 'dont', 'know'], 'lineno': 12596}
+{'time': 1782, 'text': ['wtf', 'craig', 'weird'], 'lineno': 12599}
+{'time': 1782, 'text': ['craig', 'guinea', 'master', 'pogu'], 'lineno': 12601}
+{'time': 1785, 'text': ['zulul', 'craig', 'u', 'coming'], 'lineno': 12611}
+{'time': 1786, 'text': ['pogu', 'chosen', 'one'], 'lineno': 12615}
+{'time': 1786, 'text': ['pogu', 'chosen', 'one'], 'lineno': 12617}
+{'time': 1788, 'text': ['pogu', 'chosen', 'one'], 'lineno': 12628}
+{'time': 1789, 'text': ['monkaw', 'oh', 'god'], 'lineno': 12631}
+{'time': 1793, 'text': ['yo', 'craig', 'squadr'], 'lineno': 12651}
+{'time': 1794, 'text': ['chinese', 'virus', 'kkonaw'], 'lineno': 12652}
+{'time': 1798, 'text': ['twitter', 'com', 'trainwreckstv'], 'lineno': 12679}
+{'time': 1810, 'text': ['weird', 'still', 'hate', 'craig'], 'lineno': 12803}
+{'time': 1810, 'text': ['craig', 'deep', 'voice', 'years', 'old'], 'lineno': 12804}
+{'time': 1813, 'text': ['monkaw', 'uuuuuh', 'sir'], 'lineno': 12828}
+{'time': 1819, 'text': ['tell', 'us', 'weird'], 'lineno': 12847}
+{'time': 1828, 'text': ['trainwreckstv', 'thats', 'weird'], 'lineno': 12870}
+{'time': 1834, 'text': ['randy', 'content', 'pogu'], 'lineno': 12888}
+{'time': 1837, 'text': ['oh', 'episode', 'lulw'], 'lineno': 12892}
+{'time': 1842, 'text': ['weird', 'come', 'back', 'doug'], 'lineno': 12907}
+{'time': 1845, 'text': ['squadf', 'train', 'even'], 'lineno': 12928}
+{'time': 1845, 'text': ['monkaw', 'guinea', 'spiders'], 'lineno': 12934}
+{'time': 1846, 'text': ['weird', 'get', 'back', 'domehead'], 'lineno': 12940}
+{'time': 1847, 'text': ['trainwreckstv', 'thats', 'trump', 'controlls', 'america'], 'lineno': 12942}
+{'time': 1848, 'text': ['monkaw', 'moon', 'gums'], 'lineno': 12954}
+{'time': 1848, 'text': ['guinea', 'spiders', 'monkaw'], 'lineno': 12956}
+{'time': 1849, 'text': ['guinea', 'spiders', 'monkaw'], 'lineno': 12970}
+{'time': 1857, 'text': ['irl', 'stream', 'lulw'], 'lineno': 13065}
+{'time': 1857, 'text': ['lulw', 'irl', 'streamer'], 'lineno': 13072}
+{'time': 1858, 'text': ['cx', 'streamer', 'omegalul'], 'lineno': 13083}
+{'time': 1860, 'text': ['irl', 'streamer', 'pogu'], 'lineno': 13096}
+{'time': 1861, 'text': ['lulw', 'react', 'content'], 'lineno': 13101}
+{'time': 1862, 'text': ['irl', 'randy', 'lulw'], 'lineno': 13113}
+{'time': 1863, 'text': ['irl', 'streamers', 'lulw'], 'lineno': 13117}
+{'time': 1865, 'text': ['weird', 'get', 'back', 'domerhead'], 'lineno': 13127}
+{'time': 1866, 'text': ['guinea', 'rabbits', 'lulw'], 'lineno': 13142}
+{'time': 1870, 'text': ['guinea', 'rabbits', 'lulw'], 'lineno': 13187}
+{'time': 1873, 'text': ['thats', 'fucking', 'adorable', 'lulw'], 'lineno': 13209}
+{'time': 1876, 'text': ['irl', 'stream', 'pogu'], 'lineno': 13234}
+{'time': 1876, 'text': ['spooder', 'leaving', 'monkaw'], 'lineno': 13240}
+{'time': 1878, 'text': ['vloggers', 'societal', 'collapse', 'omegalul'], 'lineno': 13265}
+{'time': 1880, 'text': ['monkaw', 'guinea', 'rabbits'], 'lineno': 13279}
+{'time': 1888, 'text': ['content', 'dud', 'pogu'], 'lineno': 13351}
+{'time': 1893, 'text': ['thats', 'cute', 'wtf'], 'lineno': 13389}
+{'time': 1893, 'text': ['cute', 'dangerous', 'monkaw'], 'lineno': 13394}
+{'time': 1909, 'text': ['im', 'startled', 'monkaw'], 'lineno': 13466}
+{'time': 1927, 'text': ['youtube', 'randy', 'lulw'], 'lineno': 13615}
+{'time': 1929, 'text': ['w', 'omegalul', 'w'], 'lineno': 13623}
+{'time': 1935, 'text': ['w', 'omegalul', 'w'], 'lineno': 13667}
+{'time': 1935, 'text': ['w', 'omegalul', 'w'], 'lineno': 13668}
+{'time': 1937, 'text': ['pogu', 'legendary', 'cave'], 'lineno': 13687}
+{'time': 1943, 'text': ['inner', 'earth', 'pogu'], 'lineno': 13730}
+{'time': 1943, 'text': ['pogu', 'temple', 'stage'], 'lineno': 13743}
+{'time': 1943, 'text': ['stfu', 'craig', 'weird'], 'lineno': 13745}
+{'time': 1946, 'text': ['weird', 'stfu', 'craig'], 'lineno': 13764}
+{'time': 1946, 'text': ['weird', 'craig', 'wtf'], 'lineno': 13767}
+{'time': 1947, 'text': ['weird', 'craig', 'youre', 'chosen', 'one'], 'lineno': 13775}
+{'time': 1947, 'text': ['weird', 'fuck', 'craig', 'really'], 'lineno': 13780}
+{'time': 1947, 'text': ['weird', 'craig', 'wtf'], 'lineno': 13782}
+{'time': 1947, 'text': ['weird', 'wtf', 'craig'], 'lineno': 13787}
+{'time': 1948, 'text': ['weird', 'craig', 'quit', 'bein', 'bitch'], 'lineno': 13795}
+{'time': 1948, 'text': ['x', 'weird', 'combo', 'kappa'], 'lineno': 13799}
+{'time': 1949, 'text': ['weird', 'still', 'hate', 'chosen', 'one'], 'lineno': 13800}
+{'time': 1949, 'text': ['weird', 'craig', 'wtf'], 'lineno': 13809}
+{'time': 1950, 'text': ['weird', 'stfu', 'craig'], 'lineno': 13811}
+{'time': 1950, 'text': ['wtf', 'craig', 'weird'], 'lineno': 13813}
+{'time': 1950, 'text': ['stfu', 'craig', 'weird'], 'lineno': 13815}
+{'time': 1951, 'text': ['weird', 'craig', 'wtf'], 'lineno': 13823}
+{'time': 1951, 'text': ['stfu', 'craig', 'weird'], 'lineno': 13827}
+{'time': 1952, 'text': ['weird', 'stfu', 'craig'], 'lineno': 13837}
+{'time': 1952, 'text': ['weird', 'craig', 'wtf'], 'lineno': 13839}
+{'time': 1952, 'text': ['weird', 'fucking', 'craig'], 'lineno': 13843}
+{'time': 1953, 'text': ['weird', 'craig', 'wtf'], 'lineno': 13847}
+{'time': 1954, 'text': ['weird', 'dude', 'youre', 'prophecy'], 'lineno': 13852}
+{'time': 1955, 'text': ['weird', 'ive', 'enough', 'craig', 'stfu'], 'lineno': 13858}
+{'time': 1956, 'text': ['weird', 'dude', 'youre', 'prophecy'], 'lineno': 13860}
+{'time': 1957, 'text': ['weird', 'stfu', 'craig'], 'lineno': 13864}
+{'time': 1957, 'text': ['stfu', 'craig', 'painschamp'], 'lineno': 13869}
+{'time': 1958, 'text': ['weird', 'dude', 'youre', 'prophecy'], 'lineno': 13872}
+{'time': 1959, 'text': ['fuck', 'craig', 'weird'], 'lineno': 13875}
+{'time': 1959, 'text': ['weirdchamp', 'stfu', 'craig'], 'lineno': 13876}
+{'time': 1960, 'text': ['stfu', 'craig', 'weird'], 'lineno': 13884}
+{'time': 1961, 'text': ['weird', 'dude', 'youre', 'prophecy'], 'lineno': 13890}
+{'time': 1967, 'text': ['craig', 'chat', 'stfu'], 'lineno': 13917}
+{'time': 1967, 'text': ['shut', 'fuck', 'craig', 'weird'], 'lineno': 13918}
+{'time': 1968, 'text': ['stfu', 'craig', 'painschamp'], 'lineno': 13921}
+{'time': 1971, 'text': ['weird', 'butt', 'wipe'], 'lineno': 13940}
+{'time': 1971, 'text': ['even', 'reacting', 'free', 'content', 'weird'], 'lineno': 13942}
+{'time': 1971, 'text': ['im', 'done', 'lulw'], 'lineno': 13943}
+{'time': 1972, 'text': ['weird', 'im', 'done'], 'lineno': 13951}
+{'time': 1973, 'text': ['dont', 'care', 'lulw'], 'lineno': 13952}
+{'time': 1973, 'text': ['said', 'left', 'omegalul'], 'lineno': 13953}
+{'time': 1976, 'text': ['stfu', 'craig', 'holy', 'shit'], 'lineno': 13960}
+{'time': 1976, 'text': ['weird', 'fuck', 'craig'], 'lineno': 13966}
+{'time': 1977, 'text': ['feelsweirdman', 'fuck', 'craig'], 'lineno': 13970}
+{'time': 1977, 'text': ['weird', 'really', 'dude'], 'lineno': 13974}
+{'time': 1978, 'text': ['classic', 'craig', 'painschamp'], 'lineno': 13985}
+{'time': 1978, 'text': ['feelsweirdman', 'fuck', 'craig'], 'lineno': 13986}
+{'time': 1978, 'text': ['every', 'weirder', 'chat', 'literally', 'craig', 'trainwreckstv'], 'lineno': 13987}
+{'time': 1978, 'text': ['trainwreckstv', 'u', 'r', 'craig', 'squad', 'squad'], 'lineno': 13990}
+{'time': 1979, 'text': ['bully', 'chat', 'peeposad'], 'lineno': 13991}
+{'time': 1980, 'text': ['feelsweirdman', 'fuck', 'craig'], 'lineno': 14004}
+{'time': 1981, 'text': ['bully', 'chat', 'peeposad'], 'lineno': 14018}
+{'time': 1981, 'text': ['weird', 'craig', 'pls'], 'lineno': 14020}
+{'time': 1982, 'text': ['said', 'n', 'omegalul', 'left'], 'lineno': 14024}
+{'time': 1987, 'text': ['fuck', 'craig', 'weird'], 'lineno': 14051}
+{'time': 1987, 'text': ['monkaw', 'xqccmonkaw', 'xqccmonkaw', 'xqccmonkaw', 'xqccmonkaw', 'xqcc'], 'lineno': 14054}
+{'time': 1988, 'text': ['omg', 'train', 'lulw', 'trainwreckstv'], 'lineno': 14059}
+{'time': 1990, 'text': ['weird', 'cmon', 'dude'], 'lineno': 14070}
+{'time': 1990, 'text': ['weird', 'missed', 'rabbits'], 'lineno': 14075}
+{'time': 1991, 'text': ['weird', 'get', 'ur', 'ass', 'back'], 'lineno': 14081}
+{'time': 1993, 'text': ['fucking', 'craig', 'dood', 'squadr'], 'lineno': 14093}
+{'time': 1994, 'text': ['said', 'n', 'omegalul', 'left'], 'lineno': 14099}
+{'time': 1994, 'text': ['weird', 'get', 'back', 'craig'], 'lineno': 14100}
+{'time': 1995, 'text': ['eroism', 'ruined', 'content', 'weird'], 'lineno': 14106}
+{'time': 1996, 'text': ['n', 'omegalul', 'left'], 'lineno': 14111}
+{'time': 2002, 'text': ['n', 'omegalul', 'pe'], 'lineno': 14153}
+{'time': 2003, 'text': ['n', 'omegalul', 'pe'], 'lineno': 14154}
+{'time': 2003, 'text': ['thats', 'ditching', 'trainwreckstv'], 'lineno': 14156}
+{'time': 2004, 'text': ['weird', 'kinda', 'weird', 'craig'], 'lineno': 14162}
+{'time': 2005, 'text': ['n', 'omegalul', 'pe'], 'lineno': 14170}
+{'time': 2005, 'text': ['said', 'left', 'lulw'], 'lineno': 14177}
+{'time': 2005, 'text': ['n', 'omegalul', 'pe'], 'lineno': 14179}
+{'time': 2005, 'text': ['n', 'omegalul', 'pe'], 'lineno': 14180}
+{'time': 2008, 'text': ['craig', 'bitch', 'weird'], 'lineno': 14196}
+{'time': 2009, 'text': ['squadq', 'fbblock', 'mizkifcorona'], 'lineno': 14197}
+{'time': 2011, 'text': ['go', 'back', 'wtf'], 'lineno': 14203}
+{'time': 2012, 'text': ['said', 'left', 'lulw'], 'lineno': 14213}
+{'time': 2014, 'text': ['craig', 'train', 'kekw'], 'lineno': 14228}
+{'time': 2016, 'text': ['domerwalk', 'n', 'omegalul'], 'lineno': 14242}
+{'time': 2016, 'text': ['weird', 'ok', 'dude'], 'lineno': 14247}
+{'time': 2017, 'text': ['weird', 'fuck', 'domer'], 'lineno': 14252}
+{'time': 2018, 'text': ['weird', 'good', 'one'], 'lineno': 14262}
+{'time': 2019, 'text': ['fucking', 'craig', 'dood', 'squadr'], 'lineno': 14270}
+{'time': 2020, 'text': ['ok', 'trainwreckstv', 'painschamp'], 'lineno': 14276}
+{'time': 2021, 'text': ['painschamp', 'stfu', 'doug'], 'lineno': 14279}
+{'time': 2022, 'text': ['painschamp', 'stfu', 'doug'], 'lineno': 14289}
+{'time': 2029, 'text': ['come', 'bro', 'whats', 'temple', 'doom', 'lulw'], 'lineno': 14313}
+{'time': 2029, 'text': ['one', 'liners', 'funny', 'painschamp'], 'lineno': 14314}
+{'time': 2031, 'text': ['watch', 'show', 'trainwreckstv'], 'lineno': 14324}
+{'time': 2033, 'text': ['true', 'friends', 'right', 'leaving', 'one', 'behind'], 'lineno': 14332}
+{'time': 2033, 'text': ['silence', 'doug', 'weird'], 'lineno': 14333}
+{'time': 2038, 'text': ['monkaw', 'guineasaurus', 'rex'], 'lineno': 14358}
+{'time': 2043, 'text': ['monkaw', 'holy', 'fucking', 'shit'], 'lineno': 14411}
+{'time': 2044, 'text': ['craig', 'zoomers', 'nutshell', 'painschamp'], 'lineno': 14434}
+{'time': 2044, 'text': ['pepes', 'mother', 'god'], 'lineno': 14442}
+{'time': 2046, 'text': ['every', 'youtuber', 'lulw'], 'lineno': 14457}
+{'time': 2049, 'text': ['monkaw', 'oh', 'god'], 'lineno': 14501}
+{'time': 2049, 'text': ['widepeepohappy', 'clap', 'cute'], 'lineno': 14504}
+{'time': 2049, 'text': ['craig', 'train', 'kekw'], 'lineno': 14506}
+{'time': 2058, 'text': ['squad', 'wipe', 'pogu'], 'lineno': 14575}
+{'time': 2061, 'text': ['kkonaw', 'fuck', 'yeah'], 'lineno': 14612}
+{'time': 2061, 'text': ['kkonaw', 'hell', 'yea'], 'lineno': 14613}
+{'time': 2063, 'text': ['america', 'fuck', 'yea'], 'lineno': 14629}
+{'time': 2065, 'text': ['kkonaw', 'oh', 'shit'], 'lineno': 14643}
+{'time': 2073, 'text': ['kkonaw', 'fuck', 'yea'], 'lineno': 14694}
+{'time': 2075, 'text': ['pogu', 'good', 'angle'], 'lineno': 14701}
+{'time': 2076, 'text': ['lulw', 'fucking', 'blows', 'enable', 'kek', 'cokey', 'weird'], 'lineno': 14709}
+{'time': 2079, 'text': ['lulw', 'irl', 'streamers'], 'lineno': 14740}
+{'time': 2086, 'text': ['content', 'randy', 'lulw'], 'lineno': 14801}
+{'time': 2100, 'text': ['recording', 'randy', 'pogu'], 'lineno': 14909}
+{'time': 2101, 'text': ['monkaw', 'stream', 'offline'], 'lineno': 14911}
+{'time': 2136, 'text': ['boss', 'battle', 'pogu'], 'lineno': 15097}
+{'time': 2141, 'text': ['kkonaw', 'shoot', 'em'], 'lineno': 15123}
+{'time': 2150, 'text': ['weird', 'shooy', 'craig'], 'lineno': 15134}
+{'time': 2151, 'text': ['kkonaw', 'shoot', 'em'], 'lineno': 15136}
+{'time': 2160, 'text': ['chat', 'youre', 'bunch', 'little', 'kids'], 'lineno': 15148}
+{'time': 2161, 'text': ['cxic', 'shhooot', 'em', 'kkonaw'], 'lineno': 15151}
+{'time': 2165, 'text': ['kkonaw', 'hell', 'yeah'], 'lineno': 15216}
+{'time': 2168, 'text': ['weird', 'craig', 'u', 'never', 'stop'], 'lineno': 15239}
+{'time': 2171, 'text': ['go', 'craig', 'peepoclap'], 'lineno': 15250}
+{'time': 2179, 'text': ['go', 'craig', 'peepoclap'], 'lineno': 15277}
+{'time': 2187, 'text': ['nice', 'craig', 'lulw'], 'lineno': 15292}
+{'time': 2198, 'text': ['pogu', 'go', 'craig'], 'lineno': 15354}
+{'time': 2201, 'text': ['monkaw', 'oh', 'god'], 'lineno': 15381}
+{'time': 2206, 'text': ['monkaw', 'holy', 'shit'], 'lineno': 15417}
+{'time': 2207, 'text': ['monkaw', 'guinea', 'human'], 'lineno': 15433}
+{'time': 2209, 'text': ['monkaw', 'guinea', 'pirate'], 'lineno': 15469}
+{'time': 2213, 'text': ['monkaw', 'boss', 'battle'], 'lineno': 15532}
+{'time': 2217, 'text': ['monkaw', 'guinea', 'pirate'], 'lineno': 15578}
+{'time': 2217, 'text': ['monkaw', 'holy', 'shit'], 'lineno': 15579}
+{'time': 2218, 'text': ['twitter', 'com', 'trainwreckstv'], 'lineno': 15588}
+{'time': 2220, 'text': ['widepeepohappy', 'deth', 'clap'], 'lineno': 15608}
+{'time': 2222, 'text': ['monkaw', 'guinea', 'pirate'], 'lineno': 15628}
+{'time': 2226, 'text': ['monkaw', 'uh', 'oh'], 'lineno': 15657}
+{'time': 2231, 'text': ['lulw', 'good', 'one', 'craig'], 'lineno': 15724}
+{'time': 2243, 'text': ['pogu', 'craig', 'pogu'], 'lineno': 15875}
+{'time': 2247, 'text': ['pogu', 'chosen', 'one'], 'lineno': 15908}
+{'time': 2247, 'text': ['r', 'curse', 'ye', 'craig'], 'lineno': 15909}
+{'time': 2248, 'text': ['balloons', 'tower', 'defense', 'eyes', 'pogu'], 'lineno': 15923}
+{'time': 2249, 'text': ['go', 'craig', 'peepoclap'], 'lineno': 15930}
+{'time': 2250, 'text': ['curse', 'ye', 'craig'], 'lineno': 15953}
+{'time': 2252, 'text': ['curse', 'ye', 'craig'], 'lineno': 15976}
+{'time': 2254, 'text': ['pogu', 'craig', 'clap'], 'lineno': 15998}
+{'time': 2260, 'text': ['pogu', 'god', 'craig'], 'lineno': 16039}
+{'time': 2261, 'text': ['craig', 'pogu', 'clap'], 'lineno': 16049}
+{'time': 2264, 'text': ['ez', 'clap', 'craig'], 'lineno': 16077}
+{'time': 2269, 'text': ['un', 'known', 'lulw'], 'lineno': 16098}
+{'time': 2271, 'text': ['weird', 'still', 'shit'], 'lineno': 16144}
+{'time': 2271, 'text': ['weird', 'ok', 'craig'], 'lineno': 16146}
+{'time': 2276, 'text': ['curse', 'ye', 'craig'], 'lineno': 16181}
+{'time': 2277, 'text': ['didnt', 'ask', 'weird'], 'lineno': 16185}
+{'time': 2283, 'text': ['holy', 'shit', 'actually', 'craig'], 'lineno': 16253}
+{'time': 2288, 'text': ['gary', 'newmann', 'pogu'], 'lineno': 16285}
+{'time': 2293, 'text': ['trainwreckstv', 'better', 'gordo', 'lulw'], 'lineno': 16323}
+{'time': 2294, 'text': ['recognize', 'song', 'pogu'], 'lineno': 16350}
+{'time': 2297, 'text': ['weird', 'im', 'craig'], 'lineno': 16394}
+{'time': 2305, 'text': ['gta', 'vice', 'city', 'soundtrack', 'pogu'], 'lineno': 16451}
+{'time': 2310, 'text': ['vod', 'deleted', 'lulw'], 'lineno': 16477}
+{'time': 2322, 'text': ['chickenm', 'fia', 'normies', 'weird'], 'lineno': 16521}
+{'time': 2325, 'text': ['craig', 'saved', 'world', 'white', 'knight', 'wierdchamp'], 'lineno': 16528}
+{'time': 2326, 'text': ['peepoclap', 'good', 'job', 'craig'], 'lineno': 16536}
+{'time': 2332, 'text': ['feelsstrongman', 'craig', 'right'], 'lineno': 16580}
+{'time': 2336, 'text': ['casa', 'bonita', 'pogu'], 'lineno': 16618}
+{'time': 2338, 'text': ['weird', 'craig', 'doug'], 'lineno': 16630}
+{'time': 2340, 'text': ['train', 'subs', 'donators', 'lulw'], 'lineno': 16645}
+{'time': 2341, 'text': ['eroism', 'true', 'lulw'], 'lineno': 16660}
+{'time': 2342, 'text': ['weird', 'fuck', 'craig'], 'lineno': 16666}
+{'time': 2342, 'text': ['asking', 'subs', 'lulw'], 'lineno': 16667}
+{'time': 2343, 'text': ['fuck', 'craig', 'weird'], 'lineno': 16670}
+{'time': 2343, 'text': ['weird', 'ask', 'money'], 'lineno': 16673}
+{'time': 2344, 'text': ['assh', 'omegalul', 'le'], 'lineno': 16681}
+{'time': 2345, 'text': ['vhris', 'hanson', 'chat', 'sit', 'roght'], 'lineno': 16684}
+{'time': 2347, 'text': ['train', 'one', 'prophecy'], 'lineno': 16686}
+{'time': 2348, 'text': ['monkaw', 'el', 'guinea'], 'lineno': 16691}
+{'time': 2348, 'text': ['oil', 'princes', 'chat'], 'lineno': 16692}
+{'time': 2350, 'text': ['weird', 'ask', 'money', 'domer'], 'lineno': 16695}
+{'time': 2376, 'text': ['obama', 'episode', 'pogu'], 'lineno': 16893}
+{'time': 2377, 'text': ['last', 'night', 'pogu'], 'lineno': 16903}
+{'time': 2377, 'text': ['pokiw', 'nymncorn', 'next', 'one'], 'lineno': 16905}
+{'time': 2378, 'text': ['another', 'one', 'weird'], 'lineno': 16911}
+{'time': 2379, 'text': ['next', 'one', 'good'], 'lineno': 16926}
+{'time': 2380, 'text': ['weird', 'one', 'weird'], 'lineno': 16931}
+{'time': 2383, 'text': ['obama', 'episode', 'pogu'], 'lineno': 16966}
+{'time': 2385, 'text': ['uno', 'mas', 'pogu'], 'lineno': 16983}
+{'time': 2385, 'text': ['uno', 'mas', 'pogu'], 'lineno': 16987}
+{'time': 2385, 'text': ['one', 'domer', 'weird'], 'lineno': 16994}
+{'time': 2386, 'text': ['watch', 'next', 'one'], 'lineno': 17001}
+{'time': 2386, 'text': ['watch', 'obama', 'episode', 'pogu'], 'lineno': 17003}
+{'time': 2387, 'text': ['uno', 'mas', 'pogu'], 'lineno': 17011}
+{'time': 2388, 'text': ['uno', 'mas', 'pogu'], 'lineno': 17014}
+{'time': 2389, 'text': ['uno', 'mas', 'pogu'], 'lineno': 17024}
+{'time': 2394, 'text': ['chat', 'isnt', 'part', 'lul'], 'lineno': 17077}
+{'time': 2396, 'text': ['trainwreckstv', 'weird', 'one', 'weird', 'one', 'weird', 'one', 'weird', 'one', 'weird', 'one', 'weird', 'one', 'weird', 'one', 'weird', 'one', 'weird', 'one', 'weird', 'one', 'weird', 'one', 'weird', 'one'], 'lineno': 17092}
+{'time': 2397, 'text': ['ohhh', 'man', 'squadr', 'one', 'boys', 'squadr', 'pretty', 'late', 'squadr'], 'lineno': 17100}
+{'time': 2399, 'text': ['one', 'domeshit', 'weird'], 'lineno': 17117}
+{'time': 2400, 'text': ['im', 'scared', 'train', 'monkaw'], 'lineno': 17126}
+{'time': 2400, 'text': ['ohhh', 'man', 'squadr', 'one', 'boys', 'squadr', 'pretty', 'late', 'squadr'], 'lineno': 17132}
+{'time': 2400, 'text': ['casa', 'bonita', 'pogu'], 'lineno': 17134}
+{'time': 2404, 'text': ['trainwreckstv', 'play', 'obama', 'one'], 'lineno': 17172}
+{'time': 2405, 'text': ['trainwreckstv', 'obama', 'one', 'since', 'near', 'voting'], 'lineno': 17175}
+{'time': 2409, 'text': ['one', 'domefuck', 'weird'], 'lineno': 17218}
+{'time': 2412, 'text': ['okaychamp', 'thanks', 'train'], 'lineno': 17233}
+{'time': 2412, 'text': ['weird', 'weird', 'weird', 'weird', 'weird', 'weird', 'weird', 'weird', 'weird', 'trainwreckstv'], 'lineno': 17235}
+{'time': 2412, 'text': ['whiteknightsworkattwitch', 'simp', 'weird'], 'lineno': 17243}
+{'time': 2414, 'text': ['play', 'stop', 'baiting', 'weird'], 'lineno': 17259}
+{'time': 2419, 'text': ['pogu', 'thanks', 'doug'], 'lineno': 17304}
+{'time': 2420, 'text': ['weird', 'e', 'girls'], 'lineno': 17316}
+{'time': 2421, 'text': ['start', 'recap', 'weird'], 'lineno': 17319}
+{'time': 2428, 'text': ['e', 'girls', 'pogu'], 'lineno': 17368}
+{'time': 2429, 'text': ['eyemassstirbait', 'south', 'park', 'made', 'men', 'weird'], 'lineno': 17376}
+{'time': 2431, 'text': ['adblocker', 'lulw', 'trainwreckstv'], 'lineno': 17396}
+{'time': 2439, 'text': ['maybe', 'ur', 'egirl', 'domer', 'trainwreckstv'], 'lineno': 17432}
+{'time': 2441, 'text': ['dont', 'show', 'face', 'anyway', 'trainwreckstv'], 'lineno': 17443}
+{'time': 2443, 'text': ['come', 'get', 'away', 'thots', 'play', 'weird'], 'lineno': 17445}
+{'time': 2445, 'text': ['trainwreckstv', 'ctrl', 'r'], 'lineno': 17458}
+{'time': 2447, 'text': ['havent', 'done', 'weird'], 'lineno': 17468}
+{'time': 2450, 'text': ['stop', 'stalling', 'weird'], 'lineno': 17484}
+{'time': 2453, 'text': ['trainwreckstv', 'ctrl', 'shift', 'r'], 'lineno': 17499}
+{'time': 2456, 'text': ['whiteknightsworkattwitch', 'watched', 'simps', 'weird'], 'lineno': 17509}
+{'time': 2470, 'text': ['weird', 'stalling', 'already'], 'lineno': 17588}
+{'time': 2472, 'text': ['eyemassstirbait', 'weird', 'sure', 'bud'], 'lineno': 17602}
+{'time': 2476, 'text': ['trainwreckstv', 'refreshes', 'cache'], 'lineno': 17620}
+{'time': 2479, 'text': ['dude', 'stop', 'want', 'south', 'park', 'chat', 'makes', 'feel', 'nice'], 'lineno': 17638}
+{'time': 2480, 'text': ['cntrl', 'w', 'trainwreckstv'], 'lineno': 17646}
+{'time': 2483, 'text': ['tell', 'chat', 'log'], 'lineno': 17655}
+{'time': 2487, 'text': ['ctrl', 'shift', 'w', 'trainwreckstv'], 'lineno': 17668}
+{'time': 2491, 'text': ['trainwreckstv', 'rn', 'checked'], 'lineno': 17684}
+{'time': 2492, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17685}
+{'time': 2492, 'text': ['tell', 'chat', 'stop', 'dos'], 'lineno': 17686}
+{'time': 2494, 'text': ['whiteknightsworkattwitch', 'even', 'sub', 'weird'], 'lineno': 17693}
+{'time': 2495, 'text': ['alt', 'shift', 'ctrl', 'z', 'f', 'trainwreckstv', 'f'], 'lineno': 17699}
+{'time': 2497, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17703}
+{'time': 2497, 'text': ['pepelaugh', 'listening', 'chat'], 'lineno': 17704}
+{'time': 2499, 'text': ['trainwreckstv', 'might', 'clear', 'browsing', 'history', 'cache'], 'lineno': 17709}
+{'time': 2501, 'text': ['yo', 'big', 'shoutout', 'mods', 'keeping', 'chat', 'copypasta', 'free', 'poooound', 'poooound', 'poooound', 'cannot', 'stand', 'loser', 'copy', 'paste', 'messages', 'panicbasket', 'panicbasket', 'panicbasket', 'keep', 'good', 'work', 'mods', 'seemsgood', 'seemsgood', 'seemsgood', 'seemsgood', 'seemsgood', 'seemsgood', 'seemsgood', 'fbcatch', 'fbcatch', 'fbcatch', 'fbcatch', 'heyguys', 'heyguys'], 'lineno': 17717}
+{'time': 2503, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17726}
+{'time': 2504, 'text': ['alt', 'shift', 'ctrl', 'z', 'f', 'trainwreckstv'], 'lineno': 17727}
+{'time': 2507, 'text': ['train', 'youre', 'adorable'], 'lineno': 17736}
+{'time': 2509, 'text': ['ctrl', 'shift', 'w', 'trainwreckstv'], 'lineno': 17742}
+{'time': 2510, 'text': ['ctrl', 'w', 'trainwreckstv'], 'lineno': 17747}
+{'time': 2511, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17754}
+{'time': 2512, 'text': ['updated', 'site', 'maybe', 'trainwreckstv'], 'lineno': 17758}
+{'time': 2513, 'text': ['fuck', 'egirl', 'website', 'theyre', 'trash', 'talk', 'sanme', 'anime', 'voices', 'weird'], 'lineno': 17762}
+{'time': 2513, 'text': ['yo', 'big', 'shoutout', 'mods', 'keeping', 'chat', 'copypasta', 'free', 'poooound', 'poooound', 'poooound', 'cannot', 'stand', 'loser', 'copy', 'paste', 'messages', 'panicbasket', 'panicbasket', 'panicbasket', 'keep', 'good', 'work', 'mods', 'seemsgood', 'seemsgood', 'seemsgood', 'seemsgood', 'seemsgood', 'seemsgood', 'seemsgood', 'fbcatch', 'fbcatch', 'fbcatch', 'fbcatch', 'heyguys', 'heyguys'], 'lineno': 17763}
+{'time': 2514, 'text': ['chat', 'type', 'ctrl', 'win', 'pogu'], 'lineno': 17764}
+{'time': 2514, 'text': ['trainwreckstv', 'alt', 'f'], 'lineno': 17768}
+{'time': 2515, 'text': ['south', 'park', 'pogu'], 'lineno': 17772}
+{'time': 2517, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17783}
+{'time': 2518, 'text': ['trainwreckstv', 'ahh', 'work', 'either', 'broken', 'lulw'], 'lineno': 17791}
+{'time': 2518, 'text': ['lulw', 'good', 'one'], 'lineno': 17794}
+{'time': 2519, 'text': ['chat', 'ddosing', 'b'], 'lineno': 17800}
+{'time': 2520, 'text': ['clear', 'browser', 'cache', 'trainwreckstv'], 'lineno': 17804}
+{'time': 2520, 'text': ['trainwreckstv', 'shadowban', 'people'], 'lineno': 17805}
+{'time': 2521, 'text': ['updated', 'site', 'maybe', 'trainwreckstv'], 'lineno': 17806}
+{'time': 2522, 'text': ['view', 'console', 'trainwreckstv'], 'lineno': 17813}
+{'time': 2523, 'text': ['eyemassstirbait', 'even', 'chad', 'weird'], 'lineno': 17815}
+{'time': 2523, 'text': ['delete', 'furry', 'porn', 'weird'], 'lineno': 17816}
+{'time': 2524, 'text': ['updated', 'site', 'maybe', 'trainwreckstv'], 'lineno': 17819}
+{'time': 2524, 'text': ['trainwreckstv', 'alt', 'f'], 'lineno': 17821}
+{'time': 2526, 'text': ['trainwreckstv', 'open', 'inconginity'], 'lineno': 17826}
+{'time': 2526, 'text': ['trainwreckstv', 'shift', 'f'], 'lineno': 17829}
+{'time': 2528, 'text': ['fuck', 'egirl', 'website', 'theyre', 'trash', 'talk', 'sanme', 'anime', 'voices', 'weird'], 'lineno': 17831}
+{'time': 2529, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17837}
+{'time': 2531, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17839}
+{'time': 2532, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17845}
+{'time': 2532, 'text': ['trainwreckstv', 'clear', 'cookies', 'site'], 'lineno': 17847}
+{'time': 2533, 'text': ['next', 'ep', 'apechief', 'weird'], 'lineno': 17851}
+{'time': 2534, 'text': ['part', 'script', 'weird'], 'lineno': 17855}
+{'time': 2534, 'text': ['trainwreckstv', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w'], 'lineno': 17857}
+{'time': 2534, 'text': ['hardware', 'banned', 'omegalul'], 'lineno': 17858}
+{'time': 2536, 'text': ['ctrl', 'shift', 'w', 'trainwreckstv', 'pepelaugh'], 'lineno': 17872}
+{'time': 2537, 'text': ['weird', 'stalling', 'already'], 'lineno': 17875}
+{'time': 2539, 'text': ['updated', 'site', 'maybe', 'trainwreckstv'], 'lineno': 17880}
+{'time': 2540, 'text': ['eazy', 'bruh', 'weird'], 'lineno': 17882}
+{'time': 2540, 'text': ['clear', 'browser', 'cache', 'trainwreckstv'], 'lineno': 17883}
+{'time': 2541, 'text': ['trainwreckstv', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w'], 'lineno': 17886}
+{'time': 2542, 'text': ['whiteknightsworkattwitch', 'go', 'watch', 'amouranth', 'white', 'knight', 'weird'], 'lineno': 17890}
+{'time': 2546, 'text': ['part', 'script', 'weird'], 'lineno': 17912}
+{'time': 2547, 'text': ['updated', 'site', 'maybe', 'trainwreckstv'], 'lineno': 17918}
+{'time': 2548, 'text': ['one', 'south', 'park', 'episode', 'little', 'man'], 'lineno': 17919}
+{'time': 2548, 'text': ['ip', 'banned', 'lulw'], 'lineno': 17922}
+{'time': 2549, 'text': ['try', 'deleting', 'twitch', 'account', 'squad'], 'lineno': 17927}
+{'time': 2549, 'text': ['l', 'omegalul', 'l'], 'lineno': 17929}
+{'time': 2549, 'text': ['trainwreckstv', 'work', 'either', 'broken'], 'lineno': 17931}
+{'time': 2552, 'text': ['weird', 'want', 'douglas'], 'lineno': 17942}
+{'time': 2552, 'text': ['clear', 'history', 'lulw'], 'lineno': 17945}
+{'time': 2553, 'text': ['view', 'console', 'trainwreckstv'], 'lineno': 17946}
+{'time': 2555, 'text': ['delete', 'cookies', 'trainwreckstv'], 'lineno': 17950}
+{'time': 2555, 'text': ['weird', 'dont', 'care'], 'lineno': 17955}
+{'time': 2555, 'text': ['trainwreckstv', 'shift', 'f'], 'lineno': 17959}
+{'time': 2557, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17962}
+{'time': 2557, 'text': ['clear', 'cache', 'trainwreckstv'], 'lineno': 17967}
+{'time': 2558, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 17972}
+{'time': 2558, 'text': ['turn', 'adblock', 'train'], 'lineno': 17975}
+{'time': 2559, 'text': ['flush', 'dns', 'trainwreckstv'], 'lineno': 17979}
+{'time': 2559, 'text': ['trainwreckstv', 'servers', 'heavy', 'load'], 'lineno': 17980}
+{'time': 2560, 'text': ['eyemassstirbait', 'tell', 'mom', 'said', 'hi', 'weird'], 'lineno': 17983}
+{'time': 2560, 'text': ['trainwreckstv', 'dark', 'mode', 'think'], 'lineno': 17984}
+{'time': 2560, 'text': ['one', 'south', 'park', 'episode', 'little', 'man', 'weird'], 'lineno': 17985}
+{'time': 2560, 'text': ['fuck', 'egirl', 'website', 'theyre', 'trash', 'talk', 'sanme', 'anime', 'voices', 'weird'], 'lineno': 17989}
+{'time': 2561, 'text': ['ctrl', 'shift', 'w', 'trainwreckstv', 'pepelaugh'], 'lineno': 17991}
+{'time': 2563, 'text': ['trainwreckstv', 'try', 'different', 'browser'], 'lineno': 18002}
+{'time': 2563, 'text': ['trainwreckstv', 'hardware', 'banned', 'lulw'], 'lineno': 18004}
+{'time': 2564, 'text': ['try', 'different', 'browser', 'trainwreckstv'], 'lineno': 18008}
+{'time': 2564, 'text': ['trainwreckstv', 'try', 'turning', 'pc'], 'lineno': 18012}
+{'time': 2564, 'text': ['next', 'ep', 'apechief', 'weird'], 'lineno': 18016}
+{'time': 2565, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18019}
+{'time': 2565, 'text': ['trainwreckstv', 'try', 'different', 'browser'], 'lineno': 18020}
+{'time': 2565, 'text': ['updated', 'site', 'maybe', 'trainwreckstv', 'weird'], 'lineno': 18021}
+{'time': 2566, 'text': ['ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'trainwreckstv'], 'lineno': 18025}
+{'time': 2566, 'text': ['use', 'different', 'browser', 'trainwreckstv'], 'lineno': 18030}
+{'time': 2566, 'text': ['trainwreckstv', 'use', 'ur', 'phone'], 'lineno': 18032}
+{'time': 2566, 'text': ['trainwreckstv', 'images', 'return', 'status', 'something', 'wrong', 'permissions', 'problem', 'side'], 'lineno': 18034}
+{'time': 2566, 'text': ['trainwreckstv', 'switch', 'ublock'], 'lineno': 18035}
+{'time': 2568, 'text': ['try', 'looking', 'private', 'browsing'], 'lineno': 18042}
+{'time': 2568, 'text': ['trainwreckstv', 'dark', 'reader'], 'lineno': 18047}
+{'time': 2572, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18050}
+{'time': 2572, 'text': ['try', 'different', 'browser', 'trainwreckstv'], 'lineno': 18051}
+{'time': 2572, 'text': ['trainwreckstv', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w', 'ctrl', 'w'], 'lineno': 18057}
+{'time': 2572, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18059}
+{'time': 2572, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18063}
+{'time': 2572, 'text': ['ip', 'banned', 'lulw'], 'lineno': 18064}
+{'time': 2573, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18069}
+{'time': 2574, 'text': ['trainwreckstv', 'incognito', 'mode'], 'lineno': 18072}
+{'time': 2574, 'text': ['trainwreckstv', 'cntrl', 'w'], 'lineno': 18073}
+{'time': 2575, 'text': ['trainwreckstv', 'use', 'another', 'browser'], 'lineno': 18075}
+{'time': 2577, 'text': ['wait', 'let', 'fuck', 'ur', 'mom', 'ill', 'fix'], 'lineno': 18081}
+{'time': 2578, 'text': ['delete', 'cookies', 'trainwreckstv'], 'lineno': 18084}
+{'time': 2580, 'text': ['trainwreckstv', 'probably', 'servers', 'heavy', 'load'], 'lineno': 18088}
+{'time': 2580, 'text': ['weird', 'hurry', 'fuck'], 'lineno': 18092}
+{'time': 2581, 'text': ['try', 'different', 'browser', 'trainwreckstv'], 'lineno': 18095}
+{'time': 2582, 'text': ['whiteknightsworkattwitch', 'okay', 'simp', 'weird'], 'lineno': 18098}
+{'time': 2583, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18103}
+{'time': 2584, 'text': ['enable', 'cookies', 'trainwreckstv'], 'lineno': 18107}
+{'time': 2585, 'text': ['try', 'different', 'browser', 'ez'], 'lineno': 18109}
+{'time': 2585, 'text': ['gods', 'way', 'tell', 'watch', 'part', 'episode', 'trainwreckstv'], 'lineno': 18110}
+{'time': 2586, 'text': ['try', 'different', 'browser', 'trainwreckstv'], 'lineno': 18111}
+{'time': 2586, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18113}
+{'time': 2586, 'text': ['trainwreckstv', 'clear', 'drives'], 'lineno': 18114}
+{'time': 2587, 'text': ['trainwreckstv', 'try', 'turning', 'pc'], 'lineno': 18120}
+{'time': 2588, 'text': ['trainwreckstv', 'restart', 'browser', 'clear', 'cookies', 'etc'], 'lineno': 18122}
+{'time': 2588, 'text': ['part', 'script', 'weird'], 'lineno': 18125}
+{'time': 2588, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18126}
+{'time': 2590, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18131}
+{'time': 2590, 'text': ['trainwreckstv', 'shift', 'f'], 'lineno': 18133}
+{'time': 2591, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18136}
+{'time': 2592, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18139}
+{'time': 2594, 'text': ['trainwreckstv', 'restart', 'browser', 'clear', 'cookies', 'etc'], 'lineno': 18147}
+{'time': 2594, 'text': ['view', 'console', 'trainwreckstv'], 'lineno': 18149}
+{'time': 2595, 'text': ['try', 'private', 'browsing', 'trainwreckstv'], 'lineno': 18155}
+{'time': 2596, 'text': ['eyemassstirbait', 'u', 'got', 'good', 'one', 'weird'], 'lineno': 18159}
+{'time': 2597, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18163}
+{'time': 2598, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18169}
+{'time': 2598, 'text': ['trainwreckstv', 'dont', 'use', 'chrome'], 'lineno': 18170}
+{'time': 2598, 'text': ['pogu', 'become', 'e', 'girl'], 'lineno': 18171}
+{'time': 2598, 'text': ['trainwreckstv', 'ctrl', 'shift', 'del', 'delete', 'cache', 'dont', 'show', 'screen'], 'lineno': 18172}
+{'time': 2599, 'text': ['weird', 'stalling', 'south', 'park'], 'lineno': 18175}
+{'time': 2599, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18176}
+{'time': 2599, 'text': ['hackermans', 'one', 'step'], 'lineno': 18178}
+{'time': 2600, 'text': ['one', 'south', 'park', 'episode', 'little', 'man', 'weird'], 'lineno': 18180}
+{'time': 2601, 'text': ['bcuz', 'ur', 'mo', 'fat', 'trainwreckstv'], 'lineno': 18182}
+{'time': 2602, 'text': ['wasnt', 'script', 'weird'], 'lineno': 18185}
+{'time': 2603, 'text': ['trainwreckstv', 'change', 'browser', 'dude'], 'lineno': 18188}
+{'time': 2603, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18192}
+{'time': 2604, 'text': ['trainwreckstv', 'switch', 'ublock', 'adblock', 'sucks', 'ass'], 'lineno': 18194}
+{'time': 2605, 'text': ['ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'trainwreckstv'], 'lineno': 18200}
+{'time': 2606, 'text': ['ctrl', 'shift', 'w', 'trainwreckstv', 'pepelaugh'], 'lineno': 18201}
+{'time': 2608, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18205}
+{'time': 2608, 'text': ['trainwreckstv', 'dont', 'use', 'client', 'website'], 'lineno': 18206}
+{'time': 2609, 'text': ['delete', 'system', 'weird'], 'lineno': 18207}
+{'time': 2609, 'text': ['weird', 'stalling', 'south', 'park'], 'lineno': 18208}
+{'time': 2609, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18209}
+{'time': 2610, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18212}
+{'time': 2610, 'text': ['good', 'fuck', 'sitew'], 'lineno': 18213}
+{'time': 2611, 'text': ['trainwreckstv', 'images', 'return', 'error', 'something', 'permissions', 'side'], 'lineno': 18219}
+{'time': 2612, 'text': ['happens', 'try', 'different', 'browser', 'trainwreckstv'], 'lineno': 18220}
+{'time': 2612, 'text': ['inspect', 'element', 'check', 'console', 'see', 'errors', 'trainwreckstv'], 'lineno': 18225}
+{'time': 2614, 'text': ['trainwreckstv', 'think', 'need', 'turn', 'adblock', 'refresh'], 'lineno': 18234}
+{'time': 2615, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18245}
+{'time': 2616, 'text': ['weird', 'dud', 'squadr'], 'lineno': 18246}
+{'time': 2616, 'text': ['wasnt', 'script', 'weird'], 'lineno': 18248}
+{'time': 2618, 'text': ['try', 'plugging', 'pc'], 'lineno': 18251}
+{'time': 2618, 'text': ['weird', 'dont', 'care', 'start', 'southpark'], 'lineno': 18252}
+{'time': 2618, 'text': ['trainwreckstv', 'ctrl', 'f'], 'lineno': 18253}
+{'time': 2618, 'text': ['thing', 'must', 'website', 'trainwreckstv'], 'lineno': 18255}
+{'time': 2619, 'text': ['site', 'crashed', 'lulw', 'trainwreckstv'], 'lineno': 18259}
+{'time': 2620, 'text': ['trainwreckstv', 'site', 'broken', 'like', 'everyone'], 'lineno': 18264}
+{'time': 2621, 'text': ['play', 'south', 'park', 'weird'], 'lineno': 18267}
+{'time': 2621, 'text': ['weird', 'dud', 'squadr'], 'lineno': 18268}
+{'time': 2622, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18270}
+{'time': 2622, 'text': ['watch', 'south', 'park', 'episodes', 'trainwreckstv'], 'lineno': 18271}
+{'time': 2623, 'text': ['watch', 'ep', 'sp', 'maybe', 'fixed', 'weird'], 'lineno': 18276}
+{'time': 2623, 'text': ['trainwreckstv', 'ctrl', 'w', 'okaychamp'], 'lineno': 18277}
+{'time': 2624, 'text': ['try', 'different', 'browser', 'trainwreckstv'], 'lineno': 18279}
+{'time': 2625, 'text': ['whiteknightsworkattwitch', 'okay', 'simp', 'weird'], 'lineno': 18282}
+{'time': 2625, 'text': ['watch', 'ep', 'sp', 'maybe', 'fixed', 'weird'], 'lineno': 18285}
+{'time': 2625, 'text': ['trainwreckstv', 'turn', 'adblock'], 'lineno': 18286}
+{'time': 2626, 'text': ['weird', 'stalling', 'already'], 'lineno': 18288}
+{'time': 2627, 'text': ['chat', 'crashing', 'site'], 'lineno': 18289}
+{'time': 2627, 'text': ['weird', 'dud', 'squadr', 'squadr'], 'lineno': 18290}
+{'time': 2627, 'text': ['watch', 'ep', 'sp', 'maybe', 'fixed', 'weird'], 'lineno': 18291}
+{'time': 2629, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18298}
+{'time': 2630, 'text': ['use', 'microsoft', 'edge', 'weird'], 'lineno': 18302}
+{'time': 2631, 'text': ['try', 'different', 'browser'], 'lineno': 18306}
+{'time': 2631, 'text': ['weird', 'south', 'park', 'douggie'], 'lineno': 18308}
+{'time': 2632, 'text': ['nobody', 'cares', 'egirl', 'website', 'weird'], 'lineno': 18310}
+{'time': 2633, 'text': ['even', 'time', 'weird'], 'lineno': 18313}
+{'time': 2635, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18317}
+{'time': 2637, 'text': ['dont', 'show', 'face', 'anyway', 'trainwreckstv'], 'lineno': 18322}
+{'time': 2639, 'text': ['cant', 'see', 'wtf', 'hapeend'], 'lineno': 18327}
+{'time': 2639, 'text': ['inspect', 'element', 'check', 'console', 'see', 'errors', 'trainwreckstv'], 'lineno': 18329}
+{'time': 2641, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18335}
+{'time': 2643, 'text': ['one', 'cares', 'weird'], 'lineno': 18340}
+{'time': 2643, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18343}
+{'time': 2643, 'text': ['try', 'different', 'browser'], 'lineno': 18345}
+{'time': 2644, 'text': ['trainwreckstv', 'use', 'diffrent', 'browser'], 'lineno': 18347}
+{'time': 2644, 'text': ['trainwreckstv', 'worry', 'southpark', 'least', 'try', 'watching', 'please'], 'lineno': 18348}
+{'time': 2645, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18352}
+{'time': 2645, 'text': ['sites', 'broken', 'lulw'], 'lineno': 18353}
+{'time': 2646, 'text': ['trainwreckstv', 'open', 'incognito'], 'lineno': 18357}
+{'time': 2646, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18359}
+{'time': 2647, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18365}
+{'time': 2648, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18368}
+{'time': 2649, 'text': ['view', 'console', 'trainwreckstv'], 'lineno': 18370}
+{'time': 2651, 'text': ['tardbas', 'stfu', 'pussy'], 'lineno': 18378}
+{'time': 2652, 'text': ['dont', 'care', 'man', 'weird'], 'lineno': 18381}
+{'time': 2652, 'text': ['trainwreckstv', 'try', 'internet', 'explorer'], 'lineno': 18384}
+{'time': 2653, 'text': ['try', 'incognito', 'mode', 'trainwreckstv'], 'lineno': 18387}
+{'time': 2653, 'text': ['trainwreckstv', 'try', 'microsoft', 'edge', 'pogu', 'try', 'microsoft', 'edge', 'pogu', 'try', 'microsoft', 'edge', 'pogu', 'try', 'microsoft', 'edge', 'pogu', 'try', 'microsoft', 'edge', 'pogu', 'try', 'microsoft', 'edge', 'pogu'], 'lineno': 18389}
+{'time': 2653, 'text': ['clear', 'cache', 'deleting', 'history', 'trainwreckstv'], 'lineno': 18392}
+{'time': 2654, 'text': ['one', 'cares', 'simp'], 'lineno': 18397}
+{'time': 2654, 'text': ['god', 'stopping', 'dumb', 'shit'], 'lineno': 18399}
+{'time': 2655, 'text': ['updated', 'site', 'maybe', 'trainwreckstv', 'weird'], 'lineno': 18400}
+{'time': 2655, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18404}
+{'time': 2656, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18407}
+{'time': 2656, 'text': ['wrap', 'weird', 'wrap', 'bud'], 'lineno': 18408}
+{'time': 2656, 'text': ['trainwreckstv', 'images', 'return', 'error', 'something', 'permissions', 'side'], 'lineno': 18409}
+{'time': 2656, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18413}
+{'time': 2657, 'text': ['trainwreckstv', 'try', 'turning', 'adblock', 'refresh', 'page'], 'lineno': 18416}
+{'time': 2659, 'text': ['ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'ctrl', 'w', 'okaychamp', 'trainwreckstv'], 'lineno': 18424}
+{'time': 2659, 'text': ['trainwreckstv', 'close', 'browsers', 'clear', 'drives', 'dude'], 'lineno': 18425}
+{'time': 2659, 'text': ['yes', 'use', 'brain', 'weird'], 'lineno': 18427}
+{'time': 2661, 'text': ['w', 'h', 'omegalul', 'cares'], 'lineno': 18436}
+{'time': 2662, 'text': ['thenordish', 'cc', 'cleaner', 'omegalul'], 'lineno': 18441}
+{'time': 2663, 'text': ['nobody', 'cares', 'egirl', 'website', 'weird'], 'lineno': 18443}
+{'time': 2663, 'text': ['weird', 'start', 'south', 'park'], 'lineno': 18445}
+{'time': 2664, 'text': ['chat', 'broke', 'site'], 'lineno': 18446}
+{'time': 2664, 'text': ['empty', 'cache', 'hard', 'reload', 'trainwreckstv'], 'lineno': 18449}
+{'time': 2667, 'text': ['yeahhhhhhhhhhhhhh', 'try', 'hours'], 'lineno': 18469}
+{'time': 2669, 'text': ['watch', 'ep', 'sp', 'maybe', 'fixed', 'weird'], 'lineno': 18485}
+{'time': 2669, 'text': ['trainwreckstv', 'hi', 'traffic', 'chat', 'broke'], 'lineno': 18488}
+{'time': 2669, 'text': ['trainwreckstv', 'download', 'lol', 'failfish'], 'lineno': 18489}
+{'time': 2671, 'text': ['weird', 'im', 'checking'], 'lineno': 18500}
+{'time': 2671, 'text': ['trainwreckstv', 'site', 'broken'], 'lineno': 18507}
+{'time': 2672, 'text': ['n', 'omegalul', 'dont', 'use', 'chrome'], 'lineno': 18512}
+{'time': 2673, 'text': ['idk', 'dont', 'use', 'lulw'], 'lineno': 18516}
+{'time': 2673, 'text': ['atleast', 'cock', 'big', 'face', 'pretty', 'trainwreckstv'], 'lineno': 18520}
+{'time': 2675, 'text': ['trainwreckstv', 'im', 'thinking', 'send', 'check', 'u', 'made', 'site', 'mainstream'], 'lineno': 18529}
+{'time': 2675, 'text': ['yes', 'move', 'weird'], 'lineno': 18534}
+{'time': 2679, 'text': ['sure', 'k', 'people', 'hitting', 'help', 'lulw'], 'lineno': 18550}
+{'time': 2681, 'text': ['trainwreckstv', 'try', 'using', 'firefox'], 'lineno': 18555}
+{'time': 2681, 'text': ['trainwreckstv', 'works', 'fine'], 'lineno': 18557}
+{'time': 2682, 'text': ['trainwreckstv', 'hosting', 'must', 'working', 'like', 'shit', 'overload'], 'lineno': 18560}
+{'time': 2683, 'text': ['get', 'sp', 'weird'], 'lineno': 18565}
+{'time': 2685, 'text': ['site', 'dead', 'weird'], 'lineno': 18570}
+{'time': 2686, 'text': ['still', 'stalling', 'weird'], 'lineno': 18573}
+{'time': 2686, 'text': ['nobody', 'cares', 'play', 'game', 'trainwreckstv'], 'lineno': 18574}
+{'time': 2699, 'text': ['twitter', 'com', 'trainwreckstv'], 'lineno': 18628}
+{'time': 2699, 'text': ['dont', 'good', 'servers', 'chat', 'ddos', 'basically'], 'lineno': 18635}
+{'time': 2699, 'text': ['chat', 'want', 'log'], 'lineno': 18637}
+{'time': 2703, 'text': ['weird', 'back', 'southpark'], 'lineno': 18677}
+{'time': 2712, 'text': ['trainwreckstv', 'use', 'incognito', 'window'], 'lineno': 18734}
+{'time': 2713, 'text': ['trainwreckstv', 'find', 'girl', 'better', 'rank', 'carry'], 'lineno': 18739}
+{'time': 2717, 'text': ['blind', 'date', 'pogu'], 'lineno': 18759}
+{'time': 2732, 'text': ['fuck', 'dude', 'trainwreckstv'], 'lineno': 18821}
+{'time': 2732, 'text': ['try', 'open', 'site', 'different', 'browser'], 'lineno': 18825}
+{'time': 2735, 'text': ['weird', 'next', 'episode'], 'lineno': 18847}
+{'time': 2735, 'text': ['still', 'stalling', 'weird'], 'lineno': 18849}
+{'time': 2740, 'text': ['one', 'sp', 'instead', 'pogu'], 'lineno': 18879}
+{'time': 2741, 'text': ['trainwreckstv', 'watch', 'sp', 'screen'], 'lineno': 18882}
+{'time': 2742, 'text': ['weird', 'south', 'park'], 'lineno': 18883}
+{'time': 2744, 'text': ['trainwreckstv', 'listen', 'audio', 'clips'], 'lineno': 18894}
+{'time': 2746, 'text': ['trainwreckstv', 'check', 'dms'], 'lineno': 18899}
+{'time': 2747, 'text': ['trainwreckstv', 'try', 'using', 'incognito'], 'lineno': 18902}
+{'time': 2748, 'text': ['blind', 'dating', 'pogu'], 'lineno': 18908}
+{'time': 2752, 'text': ['trainwreckstv', 'pick', 'someone', 'stream', 'cuz', 'everyone', 'chat', 'gonna', 'pick', 'person'], 'lineno': 18923}
+{'time': 2753, 'text': ['use', 'different', 'browser', 'trainwreckstv'], 'lineno': 18931}
+{'time': 2754, 'text': ['sounds', 'fucking', 'shit', 'weird'], 'lineno': 18939}
+{'time': 2763, 'text': ['weird', 'god', 'im', 'pissed'], 'lineno': 18983}
+{'time': 2763, 'text': ['get', 'someone', 'expensive', 'cheap', 'fuck', 'squad'], 'lineno': 18984}
+{'time': 2765, 'text': ['trainwreckstv', 'yo', 'chat', 'telling', 'website', 'works', 'fine'], 'lineno': 18993}
+{'time': 2765, 'text': ['weird', 'god', 'im', 'pissed'], 'lineno': 18995}
+{'time': 2767, 'text': ['free', 'play', 'lulw'], 'lineno': 19001}
+{'time': 2771, 'text': ['trainwreckstv', 'try', 'using', 'incognito'], 'lineno': 19022}
+{'time': 2779, 'text': ['trainwreckstv', 'pick', 'someone', 'stream', 'cuz', 'everyone', 'chat', 'gonna', 'pick', 'person'], 'lineno': 19073}
+{'time': 2781, 'text': ['leaving', 'yet', 'pogu'], 'lineno': 19085}
+{'time': 2782, 'text': ['war', 'zone', 'killing', 'stream', 'weird'], 'lineno': 19091}
+{'time': 2789, 'text': ['get', 'site', 'simps', 'chat', 'weird'], 'lineno': 19106}
+{'time': 2791, 'text': ['turn', 'subtitles', 'weird'], 'lineno': 19109}
+{'time': 2796, 'text': ['squadcozy', 'thanks', 'train', 'squadl'], 'lineno': 19121}
+{'time': 2806, 'text': ['weird', 'thanks', 'domey'], 'lineno': 19133}
+{'time': 2814, 'text': ['trainwreckstv', 'order', 'train', 'gachihyper'], 'lineno': 19171}
+{'time': 2817, 'text': ['hour', 'intro', 'weird'], 'lineno': 19184}
+{'time': 2820, 'text': ['trainwreckstv', 'site', 'part'], 'lineno': 19191}
+{'time': 2824, 'text': ['trainwreckstv', 'open', 'whispers', 'ill', 'whisper', 'u', 'people'], 'lineno': 19203}
+{'time': 2825, 'text': ['pogu', 'clap', 'good', 'one', 'domer'], 'lineno': 19208}
+{'time': 2829, 'text': ['weird', 'ur', 'ok', 'domer', 'guess'], 'lineno': 19227}
+{'time': 2835, 'text': ['want', 'see', 'skins', 'got', 'podcast', 'lulw'], 'lineno': 19253}
+{'time': 2838, 'text': ['th', 'grade', 'pogu'], 'lineno': 19276}
+{'time': 2838, 'text': ['old', 'seaons', 'weird'], 'lineno': 19278}
+{'time': 2839, 'text': ['trainwreckstv', 'site', 'works', 'incognito'], 'lineno': 19281}
+{'time': 2857, 'text': ['viel', 'farm', 'weird'], 'lineno': 19338}
+{'time': 2883, 'text': ['oh', 'god', 'one'], 'lineno': 19505}
+{'time': 2888, 'text': ['christopher', 'reeve', 'omegalul'], 'lineno': 19524}
+{'time': 2893, 'text': ['ths', 'one', 'lol'], 'lineno': 19541}
+{'time': 2895, 'text': ['one', 'controversial', 'lul'], 'lineno': 19551}
+{'time': 2896, 'text': ['fucking', 'love', 'one'], 'lineno': 19553}
+{'time': 2901, 'text': ['trainwreckstv', 'use', 'hair'], 'lineno': 19572}
+{'time': 2902, 'text': ['fuck', 'planned', 'parenthood'], 'lineno': 19575}
+{'time': 2907, 'text': ['oh', 'god', 'episode', 'lulw'], 'lineno': 19586}
+{'time': 2909, 'text': ['love', 'one', 'lulw'], 'lineno': 19595}
+{'time': 2911, 'text': ['shakeys', 'pizza', 'pogu'], 'lineno': 19606}
+{'time': 2914, 'text': ['weird', 'selling', 'stem', 'cells'], 'lineno': 19628}
+{'time': 2917, 'text': ['weird', 'pay', 'attention', 'domey'], 'lineno': 19661}
+{'time': 2929, 'text': ['trainwreckstv', 'pick', 'pick', 'someone', 'stream', 'cuz', 'everyone', 'chat', 'gonna', 'pick', 'person'], 'lineno': 19749}
+{'time': 2933, 'text': ['episode', 'kardashians', 'chat'], 'lineno': 19801}
+{'time': 2968, 'text': ['retarded', 'driver', 'lulw'], 'lineno': 20094}
+{'time': 2992, 'text': ['zulul', 'wtf', 'thas', 'meal'], 'lineno': 20236}
+{'time': 3037, 'text': ['premiumpain', 'painschamp', 'jesus', 'dude', 'shut', 'fuck'], 'lineno': 20621}
+{'time': 3044, 'text': ['thats', 'big', 'pogu'], 'lineno': 20706}
+{'time': 3044, 'text': ['pogu', 'holy', 'shit'], 'lineno': 20713}
+{'time': 3049, 'text': ['tax', 'free', 'omegalul'], 'lineno': 20751}
+{'time': 3049, 'text': ['pogu', 'holy', 'shit', 'mint', 'condition'], 'lineno': 20753}
+{'time': 3049, 'text': ['tax', 'free', 'lulw'], 'lineno': 20755}
+{'time': 3049, 'text': ['cha', 'ching', 'pogu'], 'lineno': 20757}
+{'time': 3052, 'text': ['pogu', 'oh', 'god', 'wtf', 'cool'], 'lineno': 20773}
+{'time': 3055, 'text': ['factory', 'new', 'pogu'], 'lineno': 20781}
+{'time': 3056, 'text': ['mint', 'edition', 'omegalul'], 'lineno': 20782}
+{'time': 3057, 'text': ['lulw', 'tax', 'free'], 'lineno': 20787}
+{'time': 3058, 'text': ['twitter', 'com', 'trainwreckstv'], 'lineno': 20792}
+{'time': 3059, 'text': ['pogu', 'stem', 'cells'], 'lineno': 20795}
+{'time': 3063, 'text': ['mint', 'condition', 'pogu'], 'lineno': 20803}
+{'time': 3068, 'text': ['pogu', 'stat', 'trak'], 'lineno': 20820}
+{'time': 3077, 'text': ['pogu', 'carambit', 'fade', 'aboted', 'fetus'], 'lineno': 20847}
+{'time': 3094, 'text': ['squadq', 'fbblock', 'kenny'], 'lineno': 20962}
+{'time': 3099, 'text': ['breaking', 'balls', 'lulw'], 'lineno': 20982}
+{'time': 3101, 'text': ['stop', 'watching', 'chat', 'peepoweird'], 'lineno': 20989}
+{'time': 3104, 'text': ['cartman', 'ez', 'clap'], 'lineno': 20993}
+{'time': 3117, 'text': ['painschamp', 'one', 'man', 'joy'], 'lineno': 21023}
+{'time': 3125, 'text': ['primo', 'fetuses', 'lulw'], 'lineno': 21049}
+{'time': 3126, 'text': ['geniusideasboy', 'weird', 'cease'], 'lineno': 21052}
+{'time': 3130, 'text': ['breaking', 'balls', 'omegalul'], 'lineno': 21067}
+{'time': 3137, 'text': ['lulw', 'oh', 'god'], 'lineno': 21117}
+{'time': 3139, 'text': ['holy', 'shit', 'omegalul'], 'lineno': 21136}
+{'time': 3140, 'text': ['lulw', 'holy', 'shit'], 'lineno': 21147}
+{'time': 3140, 'text': ['lulw', 'good', 'one'], 'lineno': 21151}
+{'time': 3150, 'text': ['lulw', 'good', 'one'], 'lineno': 21221}
+{'time': 3152, 'text': ['okay', 'dude', 'lulw'], 'lineno': 21231}
+{'time': 3152, 'text': ['fetal', 'mistake', 'lulw'], 'lineno': 21245}
+{'time': 3154, 'text': ['shamless', 'writing', 'lulw'], 'lineno': 21260}
+{'time': 3156, 'text': ['good', 'one', 'kromiasmug'], 'lineno': 21279}
+{'time': 3158, 'text': ['lulw', 'good', 'one'], 'lineno': 21285}
+{'time': 3160, 'text': ['wasnt', 'born', 'yesterday', 'either', 'omegalul'], 'lineno': 21317}
+{'time': 3162, 'text': ['pogu', 'th', 'wall'], 'lineno': 21334}
+{'time': 3200, 'text': ['kkona', 'clap', 'damn', 'right'], 'lineno': 21432}
+{'time': 3206, 'text': ['kkonaw', 'research', 'ba'], 'lineno': 21454}
+{'time': 3208, 'text': ['kkonaw', 'research', 'bad'], 'lineno': 21461}
+{'time': 3210, 'text': ['kkonaw', 'research', 'bad'], 'lineno': 21477}
+{'time': 3211, 'text': ['kkonaw', 'get', 'fucked'], 'lineno': 21480}
+{'time': 3212, 'text': ['kkonaw', 'research', 'bad'], 'lineno': 21492}
+{'time': 3213, 'text': ['fuck', 'science', 'kkonaw'], 'lineno': 21502}
+{'time': 3213, 'text': ['promoting', 'abortion', 'sell', 'lulw'], 'lineno': 21505}
+{'time': 3217, 'text': ['banned', 'road', 'omegalul'], 'lineno': 21520}
+{'time': 3224, 'text': ['wait', 'chat', 'watching'], 'lineno': 21561}
+{'time': 3234, 'text': ['chocks', 'dick', 'omegalul'], 'lineno': 21620}
+{'time': 3270, 'text': ['pepehands', 'oh', 'god', 'terminal'], 'lineno': 21900}
+{'time': 3280, 'text': ['squadf', 'squadf', 'squadq'], 'lineno': 21984}
+{'time': 3281, 'text': ['suck', 'bs', 'lulw'], 'lineno': 21999}
+{'time': 3296, 'text': ['pogu', 'lucky', 'kenny'], 'lineno': 22125}
+{'time': 3298, 'text': ['dies', 'every', 'episode', 'omegalul'], 'lineno': 22143}
+{'time': 3306, 'text': ['weird', 'fuck', 'corona'], 'lineno': 22223}
+{'time': 3311, 'text': ['trainwreckstv', 'site', 'msg', 'chat', 'breaks', 'mods', 'forward', 'msg'], 'lineno': 22257}
+{'time': 3311, 'text': ['xqcarm', 'weird', 'xqcarm'], 'lineno': 22267}
+{'time': 3312, 'text': ['squadq', 'squads', 'squadf'], 'lineno': 22274}
+{'time': 3318, 'text': ['oh', 'yeah', 'top', 'left', 'lulw'], 'lineno': 22312}
+{'time': 3322, 'text': ['wont', 'respawn', 'always', 'lulw'], 'lineno': 22321}
+{'time': 3324, 'text': ['dont', 'worry', 'chat', 'kenny', 'immortal'], 'lineno': 22328}
+{'time': 3337, 'text': ['holy', 'shit', 'lulw'], 'lineno': 22400}
+{'time': 3340, 'text': ['seafood', 'restaurant', 'lulw'], 'lineno': 22430}
+{'time': 3343, 'text': ['lulw', 'holy', 'shit'], 'lineno': 22451}
+{'time': 3370, 'text': ['russel', 'fat', 'true', 'lulw'], 'lineno': 22524}
+{'time': 3388, 'text': ['breaking', 'balls', 'lulw'], 'lineno': 22608}
+{'time': 3412, 'text': ['weird', 'fuck', 'corona'], 'lineno': 22757}
+{'time': 3422, 'text': ['hells', 'pass', 'lulw'], 'lineno': 22799}
+{'time': 3444, 'text': ['kennnyyyy', 'nooo', 'squadq'], 'lineno': 22938}
+{'time': 3446, 'text': ['feelsbadman', 'fuck', 'man'], 'lineno': 22951}
+{'time': 3463, 'text': ['feelsstrongman', 'fuck', 'duud'], 'lineno': 23059}
+{'time': 3472, 'text': ['weird', 'stay', 'strong', 'apes'], 'lineno': 23105}
+{'time': 3480, 'text': ['twitter', 'com', 'trainwreckstv'], 'lineno': 23133}
+{'time': 3480, 'text': ['weird', 'kenny', 'needs', 'u'], 'lineno': 23143}
+{'time': 3481, 'text': ['peeposad', 'wtf', 'stan'], 'lineno': 23147}
+{'time': 3483, 'text': ['soap', 'opera', 'lulw'], 'lineno': 23152}
+{'time': 3484, 'text': ['weird', 'stay', 'strong', 'stan'], 'lineno': 23157}
+{'time': 3485, 'text': ['peeposad', 'wtf', 'stan'], 'lineno': 23165}
+{'time': 3487, 'text': ['im', 'crying', 'chat', 'peeposad'], 'lineno': 23188}
+{'time': 3494, 'text': ['trainwreckstv', 'one', 'hella', 'sad'], 'lineno': 23253}
+{'time': 3497, 'text': ['far', 'stan', 'weird'], 'lineno': 23270}
+{'time': 3507, 'text': ['weird', 'fuck', 'disease'], 'lineno': 23358}
+{'time': 3508, 'text': ['even', 'watching', 'lulw'], 'lineno': 23360}
+{'time': 3517, 'text': ['trainwreckstv', 'came', 'laugh', 'cry', 'peeposad'], 'lineno': 23421}
+{'time': 3529, 'text': ['hes', 'even', 'watching', 'lulw'], 'lineno': 23531}
+{'time': 3532, 'text': ['jew', 'boy', 'lulw'], 'lineno': 23558}
+{'time': 3537, 'text': ['jew', 'boy', 'lulw'], 'lineno': 23588}
+{'time': 3543, 'text': ['pepehands', 'im', 'crying', 'cry', 'chat'], 'lineno': 23623}
+{'time': 3546, 'text': ['lulw', 'piano', 'sting'], 'lineno': 23655}
+{'time': 3552, 'text': ['theyre', 'hugging', 'chat', 'weird'], 'lineno': 23717}
+{'time': 3562, 'text': ['domie', 'many', 'subs', 'one', 'epiosde'], 'lineno': 23771}
+{'time': 3565, 'text': ['stop', 'typing', 'domey', 'weird'], 'lineno': 23781}
+{'time': 3571, 'text': ['pay', 'attention', 'weird', 'trainwreckstv'], 'lineno': 23797}
+{'time': 3571, 'text': ['insaynwow', 'saw', 'lips', 'weird'], 'lineno': 23801}
+{'time': 3573, 'text': ['brain', 'cells', 'lulw'], 'lineno': 23811}
+{'time': 3575, 'text': ['hackermans', 'stop', 'typing', 'train'], 'lineno': 23822}
+{'time': 3577, 'text': ['brain', 'cells', 'lulw', 'sure', 'bud'], 'lineno': 23832}
+{'time': 3579, 'text': ['chat', 'insensitive', 'jerk'], 'lineno': 23843}
+{'time': 3591, 'text': ['pay', 'attention', 'weird', 'trainwreckstv'], 'lineno': 23901}
+{'time': 3593, 'text': ['mitch', 'jones', 'lulw'], 'lineno': 23902}
+{'time': 3594, 'text': ['actually', 'true', 'lulw'], 'lineno': 23908}
+{'time': 3600, 'text': ['pepege', 'clap', 'ah', 'yes'], 'lineno': 23939}
+{'time': 3603, 'text': ['nanomachines', 'son', 'kkonaw', 'clap'], 'lineno': 23957}
+{'time': 3607, 'text': ['pogu', 'wait', 'thats', 'actualy', 'read'], 'lineno': 23973}
+{'time': 3609, 'text': ['monkaw', 'power', 'god'], 'lineno': 23978}
+{'time': 3610, 'text': ['chris', 'omegalul', 'pher', 'r', 'e', 'e', 'v', 'e'], 'lineno': 23984}
+{'time': 3612, 'text': ['pogu', 'wait', 'thats', 'actualy', 'real'], 'lineno': 23992}
+{'time': 3613, 'text': ['cant', 'even', 'react', 'lulw'], 'lineno': 24002}
+{'time': 3614, 'text': ['stop', 'watching', 'chat', 'peepoweird'], 'lineno': 24005}
+{'time': 3621, 'text': ['aw', 'shit', 'pogu'], 'lineno': 24037}
+{'time': 3634, 'text': ['lulw', 'true', 'banned'], 'lineno': 24125}
+{'time': 3660, 'text': ['going', 'hell', 'lulw'], 'lineno': 24327}
+{'time': 3667, 'text': ['ok', 'go', 'lulw'], 'lineno': 24419}
+{'time': 3667, 'text': ['good', 'luck', 'lulw'], 'lineno': 24430}
+{'time': 3674, 'text': ['pay', 'attention', 'weird', 'trainwreckstv'], 'lineno': 24501}
+{'time': 3693, 'text': ['chat', 'high', 'actually', 'crying'], 'lineno': 24609}
+{'time': 3700, 'text': ['weird', 'stan', 'wtf'], 'lineno': 24635}
+{'time': 3704, 'text': ['watch', 'episode', 'weird'], 'lineno': 24656}
+{'time': 3704, 'text': ['pogu', 'make', 'wish'], 'lineno': 24658}
+{'time': 3705, 'text': ['make', 'wish', 'monkaw'], 'lineno': 24660}
+{'time': 3707, 'text': ['weird', 'fuck', 'guys', 'want', 'stan'], 'lineno': 24670}
+{'time': 3710, 'text': ['pepelaugh', 'hold', 'chat'], 'lineno': 24687}
+{'time': 3711, 'text': ['make', 'wish', 'lulw'], 'lineno': 24690}
+{'time': 3713, 'text': ['fuck', 'stan', 'wtf', 'peepowtf'], 'lineno': 24700}
+{'time': 3715, 'text': ['monkaw', 'make', 'wish'], 'lineno': 24709}
+{'time': 3716, 'text': ['friend', 'dying', 'weird'], 'lineno': 24715}
+{'time': 3716, 'text': ['lulw', 'scamming', 'make', 'wish'], 'lineno': 24718}
+{'time': 3717, 'text': ['monkaw', 'see', 'spiderman', 'walk'], 'lineno': 24723}
+{'time': 3718, 'text': ['get', 'laid', 'pogu'], 'lineno': 24725}
+{'time': 3721, 'text': ['squadq', 'wh', 'omegalul'], 'lineno': 24735}
+{'time': 3725, 'text': ['make', 'scam', 'lulw'], 'lineno': 24752}
+{'time': 3732, 'text': ['oh', 'fuck', 'feelsbadman'], 'lineno': 24842}
+{'time': 3732, 'text': ['lulw', 'oh', 'fuck'], 'lineno': 24847}
+{'time': 3737, 'text': ['head', 'ez', 'clap'], 'lineno': 24902}
+{'time': 3740, 'text': ['bugged', 'ai', 'lulw'], 'lineno': 24936}
+{'time': 3747, 'text': ['w', 'h', 'omegalul'], 'lineno': 24995}
+{'time': 3749, 'text': ['mad', 'omegalul', 'nna'], 'lineno': 25001}
+{'time': 3750, 'text': ['oh', 'god', 'omegalul'], 'lineno': 25010}
+{'time': 3752, 'text': ['w', 'h', 'omegalul'], 'lineno': 25024}
+{'time': 3769, 'text': ['true', 'today', 'lulw'], 'lineno': 25277}
+{'time': 3770, 'text': ['speaking', 'facts', 'omegalul'], 'lineno': 25282}
+{'time': 3780, 'text': ['omegalul', 'good', 'one', 'kenny'], 'lineno': 25347}
+{'time': 3794, 'text': ['blessrng', 'blaming', 'god', 'wtf'], 'lineno': 25451}
+{'time': 3802, 'text': ['far', 'god', 'feelsweirdman'], 'lineno': 25529}
+{'time': 3804, 'text': ['far', 'god', 'feelsweirdman'], 'lineno': 25544}
+{'time': 3805, 'text': ['god', 'weirdchamp', 'get', 'fucker'], 'lineno': 25550}
+{'time': 3806, 'text': ['weird', 'wrap', 'god'], 'lineno': 25562}
+{'time': 3806, 'text': ['wtf', 'thats', 'wut', 'scriptures', 'say'], 'lineno': 25564}
+{'time': 3806, 'text': ['kappa', 'god', 'isnt', 'real'], 'lineno': 25569}
+{'time': 3807, 'text': ['god', 'weirdchamp', 'get', 'fucker'], 'lineno': 25572}
+{'time': 3807, 'text': ['far', 'god', 'feelsweirdman'], 'lineno': 25576}
+{'time': 3808, 'text': ['god', 'weirdchamp', 'get', 'fucker'], 'lineno': 25586}
+{'time': 3810, 'text': ['god', 'weirdchamp', 'get', 'fucker'], 'lineno': 25607}
+{'time': 3814, 'text': ['far', 'god', 'feelsweirdman'], 'lineno': 25628}
+{'time': 3816, 'text': ['weird', 'far', 'god'], 'lineno': 25636}
+{'time': 3817, 'text': ['blessrng', 'wtf', 'man'], 'lineno': 25644}
+{'time': 3818, 'text': ['weirdchamp', 'god', 'wtf'], 'lineno': 25651}
+{'time': 3819, 'text': ['jinnytweird', 'god', 'kinda', 'lame'], 'lineno': 25659}
+{'time': 3819, 'text': ['hey', 'god', 'far', 'weird'], 'lineno': 25661}
+{'time': 3825, 'text': ['god', 'far', 'weird'], 'lineno': 25710}
+{'time': 3826, 'text': ['believing', 'book', 'lulw'], 'lineno': 25728}
+{'time': 3829, 'text': ['weird', 'far', 'god'], 'lineno': 25748}
+{'time': 3832, 'text': ['weirdchamp', 'wtf', 'god'], 'lineno': 25779}
+{'time': 3838, 'text': ['far', 'god', 'weird'], 'lineno': 25833}
+{'time': 3839, 'text': ['god', 'weird', 'move', 'fuck'], 'lineno': 25841}
+{'time': 3839, 'text': ['god', 'talking', 'lol'], 'lineno': 25845}
+{'time': 3840, 'text': ['god', 'weird', 'fuck', 'man'], 'lineno': 25853}
+{'time': 3841, 'text': ['god', 'loves', 'human', 'pain'], 'lineno': 25859}
+{'time': 3841, 'text': ['weird', 'chat', 'experience'], 'lineno': 25862}
+{'time': 3842, 'text': ['fuck', 'god', 'pepehands'], 'lineno': 25868}
+{'time': 3844, 'text': ['weird', 'wtf', 'god'], 'lineno': 25882}
+{'time': 3844, 'text': ['lighting', 'cow', 'shit', 'fire', 'pogu'], 'lineno': 25884}
+{'time': 3845, 'text': ['far', 'god', 'weirdchamp'], 'lineno': 25890}
+{'time': 3845, 'text': ['monkaw', 'oh', 'god'], 'lineno': 25894}
+{'time': 3847, 'text': ['weirdchamp', 'kinda', 'weird', 'god'], 'lineno': 25905}
+{'time': 3847, 'text': ['athiests', 'chat', 'omegalul'], 'lineno': 25910}
+{'time': 3849, 'text': ['religious', 'frogs', 'mad', 'lulw'], 'lineno': 25921}
+{'time': 3850, 'text': ['chat', 'really', 'believe'], 'lineno': 25933}
+{'time': 3851, 'text': ['tipps', 'fedora', 'lulw'], 'lineno': 25937}
+{'time': 3851, 'text': ['people', 'chat', 'got', 'triggered', 'lulw'], 'lineno': 25940}
+{'time': 136, 'text': ['top', 'one', 'hundred', 'percent'], 'lineno': 234}
+{'time': 443, 'text': ['oh', 'god'], 'lineno': 894}
+{'time': 570, 'text': ['one', 'movies'], 'lineno': 1046}
+{'time': 949, 'text': ['that s', 'one'], 'lineno': 1530}

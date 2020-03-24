@@ -1,0 +1,1166 @@
+{'time': 0, 'text': ['ok', 'dude', 'lmao', 'kekw'], 'lineno': 3}
+{'time': 0, 'text': ['movie', 'night', 'homie', 'spumoni'], 'lineno': 5}
+{'time': 2, 'text': ['alergic', 'water', 'lulw'], 'lineno': 16}
+{'time': 3, 'text': ['kekw', 'drink', 'water'], 'lineno': 20}
+{'time': 3, 'text': ['fucking', 'movie', 'kekw'], 'lineno': 22}
+{'time': 3, 'text': ['holy', 'shit', 'love', 'mooney'], 'lineno': 23}
+{'time': 4, 'text': ['still', 'stuck', 'even', 'drink', 'water', 'kekw'], 'lineno': 26}
+{'time': 4, 'text': ['hasanabi', 'funniest', 'pos', 'poc', 'screenwrite', 'late', 'lmao'], 'lineno': 27}
+{'time': 5, 'text': ['lul', 'cant', 'swim'], 'lineno': 31}
+{'time': 10, 'text': ['hasanabi', 'paul', 'mooney', 'gives', 'andray', 'vibes', 'fr', 'fr', 'lol'], 'lineno': 53}
+{'time': 11, 'text': ['hasanabi', 'trump', 'replaces', 'mick', 'mulvaney', 'chief', 'staff', 'https', 'www', 'cnn', 'com', 'politics', 'trump', 'mulvaney', 'index', 'html'], 'lineno': 57}
+{'time': 21, 'text': ['paul', 'mooney', 'kekw'], 'lineno': 114}
+{'time': 27, 'text': ['hear', 'movie', 'reeee'], 'lineno': 125}
+{'time': 34, 'text': ['gon', 'dola', 'italianhands'], 'lineno': 146}
+{'time': 35, 'text': ['father', 'fault', 'sexist', 'hasanabi'], 'lineno': 147}
+{'time': 36, 'text': ['paul', 'mooney', 'fucking', 'legend'], 'lineno': 153}
+{'time': 43, 'text': ['gon', 'dola', 'italianhands'], 'lineno': 170}
+{'time': 43, 'text': ['paul', 'moony', 'fucking', 'goat', 'kekw'], 'lineno': 172}
+{'time': 44, 'text': ['movie', 'good', 'kekw', 'italianhands'], 'lineno': 175}
+{'time': 45, 'text': ['gond', 'omegalul', 'la'], 'lineno': 182}
+{'time': 47, 'text': ['racial', 'stereotype', 'checklist', 'kekw'], 'lineno': 192}
+{'time': 49, 'text': ['delete', 'vod', 'hasanabi', 'pogo'], 'lineno': 203}
+{'time': 49, 'text': ['hasanabi', 'whoopi', 'became', 'rich', 'white', 'lady', 'view'], 'lineno': 209}
+{'time': 53, 'text': ['gon', 'doleah', 'italianhands'], 'lineno': 231}
+{'time': 53, 'text': ['idk', 'paul', 'mooney', 'get', 'real', 'racist', 'instant', 'lol'], 'lineno': 232}
+{'time': 63, 'text': ['gone', 'dollar', 'italianhands'], 'lineno': 267}
+{'time': 65, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 276}
+{'time': 66, 'text': ['like', 'queen', 'kekw'], 'lineno': 286}
+{'time': 69, 'text': ['pogo', 'italianhands', 'done', 'golor'], 'lineno': 301}
+{'time': 73, 'text': ['pogo', 'bada', 'boom'], 'lineno': 326}
+{'time': 82, 'text': ['movie', 'genuinely', 'hilarious'], 'lineno': 381}
+{'time': 85, 'text': ['fuck', 'kids', 'kekw'], 'lineno': 403}
+{'time': 86, 'text': ['sowing', 'dissension', 'racist', 'boomers', 'everyone', 'else', 'hasmods'], 'lineno': 408}
+{'time': 86, 'text': ['paul', 'mooney', 'hasanabi'], 'lineno': 413}
+{'time': 90, 'text': ['sliker', 'hairline', 'lul'], 'lineno': 446}
+{'time': 90, 'text': ['fuck', 'kids', 'kekw'], 'lineno': 449}
+{'time': 91, 'text': ['x', 'kekw', 'combo', 'pog'], 'lineno': 461}
+{'time': 102, 'text': ['lulw', 'blame', 'dad'], 'lineno': 505}
+{'time': 110, 'text': ['fake', 'story', 'lulw'], 'lineno': 543}
+{'time': 121, 'text': ['italian', 'weeb', 'kekw'], 'lineno': 589}
+{'time': 129, 'text': ['ok', 'whoopie', 'bunch', 'things', 'good', 'actor', 'fucking', 'liar', 'come'], 'lineno': 642}
+{'time': 133, 'text': ['hasanabi', 'exactly', 'happened', 'liz', 'warren', 'fault', 'thought', 'native'], 'lineno': 655}
+{'time': 134, 'text': ['widepeeposad', 'italianhands', 'italian'], 'lineno': 656}
+{'time': 139, 'text': ['know', 'cory', 'booker', 'actor', 'hasanabi'], 'lineno': 667}
+{'time': 141, 'text': ['hasanabi', 'whoopi', 'became', 'rich', 'white', 'lady', 'view'], 'lineno': 671}
+{'time': 142, 'text': ['pogo', 'yeah', 'ok', 'nah', 'im', 'good'], 'lineno': 673}
+{'time': 143, 'text': ['damn', 'story', 'lmao', 'fake', 'white', 'fasad', 'italian', 'story', 'hasanabi', 'lul'], 'lineno': 675}
+{'time': 145, 'text': ['widepeeposad', 'italianhands', 'italian'], 'lineno': 688}
+{'time': 149, 'text': ['italiano', 'pepehands', 'italianhands'], 'lineno': 706}
+{'time': 156, 'text': ['n', 'omegalul', 'italianhands'], 'lineno': 764}
+{'time': 158, 'text': ['hasanabi', 'lmaoo', 'someome', 'said', 'liz', 'warren'], 'lineno': 783}
+{'time': 158, 'text': ['italian', 'whole', 'time', 'widepeeposad', 'italianhands'], 'lineno': 784}
+{'time': 159, 'text': ['legit', 'story', 'pepehands', 'italianhands'], 'lineno': 786}
+{'time': 159, 'text': ['lost', 'italian', 'accent', 'lul'], 'lineno': 788}
+{'time': 160, 'text': ['hes', 'like', 'fuck', 'im', 'black'], 'lineno': 790}
+{'time': 162, 'text': ['new', 'emote', 'lulw'], 'lineno': 799}
+{'time': 164, 'text': ['kinda', 'weird', 'weirdchamp', 'italianhands'], 'lineno': 802}
+{'time': 172, 'text': ['widepeeposad', 'italianhands', 'bada', 'beep', 'ba', 'da', 'boop'], 'lineno': 842}
+{'time': 174, 'text': ['weirdw', 'italianhands', 'uhhhh', 'guys', 'dont', 'know'], 'lineno': 863}
+{'time': 184, 'text': ['safe', 'throughout', 'hasanabi'], 'lineno': 926}
+{'time': 187, 'text': ['fredo', 'dolezal', 'kekw', 'italianhands'], 'lineno': 933}
+{'time': 189, 'text': ['hasanabi', 'seeing', 'world', 'joe', 'biden', 'brain'], 'lineno': 936}
+{'time': 189, 'text': ['hasanabi', 'great', 'study', 'intersectionality', 'italian', 'african', 'jewish'], 'lineno': 937}
+{'time': 189, 'text': ['n', 'word', 'inc', 'monkaw', 'hasanabi'], 'lineno': 938}
+{'time': 193, 'text': ['kekw', 'car', 'beach'], 'lineno': 944}
+{'time': 193, 'text': ['car', 'beach', 'kekw'], 'lineno': 948}
+{'time': 196, 'text': ['drove', 'onto', 'beach', 'kekw'], 'lineno': 981}
+{'time': 200, 'text': ['broooo', 'wtf', 'lulw'], 'lineno': 1028}
+{'time': 203, 'text': ['joey', 'fatone', 'lulw'], 'lineno': 1049}
+{'time': 207, 'text': ['hasanabi', 'dude', 'philly', 'racism', 'point'], 'lineno': 1124}
+{'time': 213, 'text': ['holy', 'shit', 'kekw'], 'lineno': 1193}
+{'time': 213, 'text': ['convertible', 'beach', 'good', 'lul'], 'lineno': 1200}
+{'time': 214, 'text': ['fucking', 'movie', 'kekw'], 'lineno': 1209}
+{'time': 218, 'text': ['hasanabi', 'trying', 'get', 'banned'], 'lineno': 1247}
+{'time': 219, 'text': ['people', 'racist', 'wtf'], 'lineno': 1264}
+{'time': 223, 'text': ['im', 'crying', 'kekw'], 'lineno': 1329}
+{'time': 223, 'text': ['kekw', 'teatime', 'holy', 'shit'], 'lineno': 1331}
+{'time': 224, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 1336}
+{'time': 225, 'text': ['end', 'scene', 'lulw'], 'lineno': 1356}
+{'time': 226, 'text': ['jesus', 'christ', 'lulw'], 'lineno': 1358}
+{'time': 228, 'text': ['gets', 'even', 'racist', 'kekw'], 'lineno': 1378}
+{'time': 228, 'text': ['hasanabi', 'seeing', 'world', 'joe', 'biden', 'brain'], 'lineno': 1379}
+{'time': 229, 'text': ['movie', 'century', 'kekw'], 'lineno': 1384}
+{'time': 229, 'text': ['kekw', 'racist', 'writers'], 'lineno': 1386}
+{'time': 230, 'text': ['legendary', 'movie', 'omegalul'], 'lineno': 1392}
+{'time': 230, 'text': ['like', 'every', 'line', 'racist'], 'lineno': 1394}
+{'time': 231, 'text': ['cum', 'town', 'movie', 'ever'], 'lineno': 1396}
+{'time': 232, 'text': ['kekw', 'cover', 'bases'], 'lineno': 1403}
+{'time': 234, 'text': ['hasanabi', 'movie', 'racism', 'lul'], 'lineno': 1406}
+{'time': 235, 'text': ['hasanabi', 'people', 'normally', 'racist', 'wtf'], 'lineno': 1410}
+{'time': 235, 'text': ['im', 'crying', 'omegalul'], 'lineno': 1412}
+{'time': 235, 'text': ['holy', 'shit', 'kekw'], 'lineno': 1413}
+{'time': 236, 'text': ['ooh', 'shit', 'daughter', 'sopranos'], 'lineno': 1414}
+{'time': 237, 'text': ['biden', 'fucking', 'winning', 'god', 'damn'], 'lineno': 1418}
+{'time': 237, 'text': ['racism', 'movie', 'kekw'], 'lineno': 1421}
+{'time': 239, 'text': ['movie', 'would', 'done', 'current', 'year', 'kekw'], 'lineno': 1427}
+{'time': 239, 'text': ['pogo', 'italianhands', 'true'], 'lineno': 1429}
+{'time': 241, 'text': ['hasanabi', 'gets', 'x', 'racist', 'nd', 'hand', 'weirdw'], 'lineno': 1439}
+{'time': 246, 'text': ['movie', 'made', 'white', 'moderates'], 'lineno': 1455}
+{'time': 246, 'text': ['kekw', 'every', 'stereotype'], 'lineno': 1458}
+{'time': 249, 'text': ['xqc', 'blast', 'kekw'], 'lineno': 1490}
+{'time': 253, 'text': ['bernie', 'bro', 'movie', 'kekw'], 'lineno': 1550}
+{'time': 256, 'text': ['narcsan', 'youre', 'racist', 'kekwait'], 'lineno': 1577}
+{'time': 257, 'text': ['ayyyy', 'soprano', 'pogo', 'italianhands'], 'lineno': 1580}
+{'time': 258, 'text': ['canadian', 'fine', 'kekw'], 'lineno': 1591}
+{'time': 264, 'text': ['hasanabi', 'sickle', 'cell', 'thing', 'even', 'coherent', 'enough', 'racist'], 'lineno': 1644}
+{'time': 264, 'text': ['kekw', 'good', 'one'], 'lineno': 1647}
+{'time': 265, 'text': ['holy', 'shit', 'lmfao'], 'lineno': 1649}
+{'time': 266, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 1651}
+{'time': 270, 'text': ['fuck', 'circumcision', 'kekw'], 'lineno': 1698}
+{'time': 271, 'text': ['hasanabi', 'exactly', 'said', 'poc', 'poc', 'super', 'charming'], 'lineno': 1704}
+{'time': 273, 'text': ['stop', 'toxic', 'women', 'chat'], 'lineno': 1714}
+{'time': 274, 'text': ['let', 'reinforce', 'harmful', 'hateful', 'stereotypes', 'making', 'shitty', 'movie'], 'lineno': 1717}
+{'time': 277, 'text': ['talking', 'foreskin', 'weirdw'], 'lineno': 1741}
+{'time': 281, 'text': ['movie', 'racist', 'seems', 'like', 'madtv', 'sketch'], 'lineno': 1787}
+{'time': 283, 'text': ['oh', 'boy', 'pepela'], 'lineno': 1811}
+{'time': 287, 'text': ['hasans', 'face', 'entire', 'movie', 'pogo'], 'lineno': 1862}
+{'time': 288, 'text': ['oh', 'shit', 'nevermind'], 'lineno': 1878}
+{'time': 289, 'text': ['jesus', 'christ', 'lulw'], 'lineno': 1880}
+{'time': 290, 'text': ['datsheffy', 'holy', 'shit'], 'lineno': 1889}
+{'time': 291, 'text': ['w', 'omegalul', 'w'], 'lineno': 1902}
+{'time': 292, 'text': ['kekw', 'like', 'wtf'], 'lineno': 1923}
+{'time': 299, 'text': ['said', 'percocet', 'lulw'], 'lineno': 1983}
+{'time': 300, 'text': ['thats', 'black', 'german', 'lul'], 'lineno': 1996}
+{'time': 301, 'text': ['uh', 'oh', 'racisms'], 'lineno': 2002}
+{'time': 302, 'text': ['whole', 'movie', 'racism', 'anyway', 'kekw'], 'lineno': 2021}
+{'time': 305, 'text': ['bernie', 'fans', 'movie'], 'lineno': 2051}
+{'time': 305, 'text': ['hasanabi', 'put', 'trump', 'hat', 'kekw'], 'lineno': 2057}
+{'time': 305, 'text': ['bernie', 'bro', 'kekw'], 'lineno': 2060}
+{'time': 306, 'text': ['movie', 'makes', 'fun', 'everyone'], 'lineno': 2061}
+{'time': 306, 'text': ['kekw', 'entire', 'movie', 'one', 'long', 'racism'], 'lineno': 2063}
+{'time': 307, 'text': ['omegalul', 'bad', 'publicity'], 'lineno': 2074}
+{'time': 307, 'text': ['wear', 'hat', 'kekw'], 'lineno': 2077}
+{'time': 308, 'text': ['racist', 'bernie', 'bros', 'lulw'], 'lineno': 2079}
+{'time': 309, 'text': ['put', 'maga', 'hat', 'kkonaw', 'hasanabi'], 'lineno': 2090}
+{'time': 309, 'text': ['bernie', 'bro', 'kekw'], 'lineno': 2091}
+{'time': 311, 'text': ['bernie', 'bros', 'kekw'], 'lineno': 2105}
+{'time': 311, 'text': ['worth', 'ban', 'kekw'], 'lineno': 2107}
+{'time': 311, 'text': ['put', 'trump', 'hat', 'kekw'], 'lineno': 2110}
+{'time': 314, 'text': ['hasanabi', 'wear', 'trump', 'hat', 'pog'], 'lineno': 2130}
+{'time': 314, 'text': ['hasanabi', 'put', 'trump', 'hat', 'kekw', 'italianhands'], 'lineno': 2131}
+{'time': 315, 'text': ['kekw', 'toxic', 'bernie', 'bros'], 'lineno': 2132}
+{'time': 315, 'text': ['bernie', 'bro', 'movie', 'kekw'], 'lineno': 2136}
+{'time': 315, 'text': ['hasan', 'never', 'wear', 'beanie', 'hair', 'pretty'], 'lineno': 2138}
+{'time': 315, 'text': ['jesus', 'christ', 'dude', 'kekw'], 'lineno': 2140}
+{'time': 316, 'text': ['hasanabi', 'kkona', 'time', 'brother'], 'lineno': 2143}
+{'time': 316, 'text': ['racist', 'bernie', 'bro'], 'lineno': 2144}
+{'time': 316, 'text': ['cnk', 'hasanabi', 'delete', 'vod', 'kekw'], 'lineno': 2146}
+{'time': 317, 'text': ['bernie', 'bros', 'kekw'], 'lineno': 2153}
+{'time': 318, 'text': ['malarkey', 'bernie', 'brother', 'detected'], 'lineno': 2154}
+{'time': 320, 'text': ['wild', 'said', 'percocet', 'lulw'], 'lineno': 2165}
+{'time': 320, 'text': ['hasanabi', 'schwartzaaaa', 'kekw'], 'lineno': 2166}
+{'time': 320, 'text': ['movie', 'racist', 'circles', 'back', 'around', 'racist'], 'lineno': 2167}
+{'time': 320, 'text': ['equal', 'opportunity', 'racism', 'pogu'], 'lineno': 2170}
+{'time': 321, 'text': ['racist', 'bernie', 'bros'], 'lineno': 2173}
+{'time': 321, 'text': ['racism', 'funny', 'hahaa'], 'lineno': 2175}
+{'time': 322, 'text': ['hasanabi', 'put', 'trump', 'hat'], 'lineno': 2178}
+{'time': 323, 'text': ['bernie', 'bros', 'typical'], 'lineno': 2183}
+{'time': 323, 'text': ['wear', 'hat', 'hasanabi'], 'lineno': 2185}
+{'time': 323, 'text': ['typical', 'bernie', 'bro'], 'lineno': 2187}
+{'time': 323, 'text': ['racist', 'bernie', 'bros'], 'lineno': 2188}
+{'time': 326, 'text': ['racist', 'bernard', 'brothers'], 'lineno': 2195}
+{'time': 326, 'text': ['hasanabi', 'seeing', 'world', 'joe', 'biden', 'brain'], 'lineno': 2196}
+{'time': 326, 'text': ['racism', 'movie', 'ever'], 'lineno': 2199}
+{'time': 326, 'text': ['super', 'seducer', 'racism', 'edition'], 'lineno': 2201}
+{'time': 327, 'text': ['toxic', 'bernie', 'brooss'], 'lineno': 2202}
+{'time': 328, 'text': ['uh', 'oh', 'haskkona', 'haskkona', 'haskkona'], 'lineno': 2216}
+{'time': 328, 'text': ['kekw', 'bernie', 'bros', 'go', 'even', 'time'], 'lineno': 2217}
+{'time': 328, 'text': ['offend', 'funny', 'hasanabi'], 'lineno': 2221}
+{'time': 329, 'text': ['madtv', 'sketch', 'level', 'racism'], 'lineno': 2223}
+{'time': 330, 'text': ['typical', 'bernie', 'bro', 'kekw'], 'lineno': 2241}
+{'time': 330, 'text': ['kkonaw', 'dem', 'racist', 'folk'], 'lineno': 2243}
+{'time': 332, 'text': ['hasanabi', 'different', 'time', 'kekw', 'italianhands'], 'lineno': 2261}
+{'time': 332, 'text': ['hasanabi', 'racism', 'movie', 'context', 'mattes', 'learn', 'difference', 'comedy', 'reality'], 'lineno': 2263}
+{'time': 338, 'text': ['hasatriot', 'hasright', 'haskkona', 'hasleft', 'hasatriot'], 'lineno': 2341}
+{'time': 343, 'text': ['kkonaw', 'equal', 'opportunity', 'racism'], 'lineno': 2377}
+{'time': 345, 'text': ['wear', 'kekw', 'hasanabi'], 'lineno': 2395}
+{'time': 347, 'text': ['cant', 'win', 'kekw'], 'lineno': 2412}
+{'time': 348, 'text': ['hasanabi', 'actually', 'race', 'simulator', 'city', 'lul', 'https', 'www', 'google', 'com', 'search', 'client', 'firefox', 'b', 'sxsrf', 'alekk', 'kdy', 'pfhk', 'fqhpz', 'cb', 'lpwuwm', 'g', 'ei', 'c', 'jxq', 'heosdytmpobmssak', 'q', 'itallian', 'word', 'purple', 'moogillan', 'oq', 'itallian', 'word', 'purple', 'moogillan', 'gs', 'l', 'psy', 'ab', 'j', 'gws', 'wiz', 'j', 'j', 'akjykwymijq', 'ved', 'ahukewiv', 'dbzofoahwegxiehaecc', 'yq', 'dudcao', 'uact'], 'lineno': 2421}
+{'time': 348, 'text': ['cxic', 'weirdw', 'ujnpause'], 'lineno': 2426}
+{'time': 348, 'text': ['wear', 'hats', 'pogu', 'hasanabi'], 'lineno': 2429}
+{'time': 350, 'text': ['hasanabi', 'still', 'got', 'nyc', 'cop', 'beanie'], 'lineno': 2442}
+{'time': 351, 'text': ['hasanabi', 'quick', 'act', 'centrist'], 'lineno': 2450}
+{'time': 351, 'text': ['watch', 'hasan', 'latest', 'video', 'reacting', 'super', 'tuesday', 'w', 'k', 'chat', 'steps', 'forward', 'https', 'youtu', 'tbylhkpk'], 'lineno': 2457}
+{'time': 352, 'text': ['cxic', 'weirdw', 'unpause'], 'lineno': 2458}
+{'time': 353, 'text': ['staff', 'members', 'monkaw'], 'lineno': 2471}
+{'time': 354, 'text': ['holy', 'shit', 'dude'], 'lineno': 2474}
+{'time': 354, 'text': ['staff', 'chat', 'monkaw'], 'lineno': 2478}
+{'time': 355, 'text': ['hasanabi', 'put', 'cat', 'ears'], 'lineno': 2488}
+{'time': 356, 'text': ['pogo', 'ay', 'doin', 'racism', 'ere'], 'lineno': 2496}
+{'time': 360, 'text': ['staff', 'chat', 'monkaw'], 'lineno': 2524}
+{'time': 360, 'text': ['cxic', 'weirdw', 'unpause'], 'lineno': 2528}
+{'time': 362, 'text': ['hasanabi', 'racist', 'pocs', 'though', 'pepela', 'italianhands'], 'lineno': 2543}
+{'time': 362, 'text': ['never', 'pauses', 'movie', 'night', 'pepehands'], 'lineno': 2546}
+{'time': 363, 'text': ['hasanabi', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekw', 'watch', 'mississippi', 'burning', 'kekwwatch', 'mississippi', 'burning', 'kekw'], 'lineno': 2557}
+{'time': 363, 'text': ['play', 'video', 'weirdw'], 'lineno': 2558}
+{'time': 365, 'text': ['digging', 'bigger', 'hole', 'kekw'], 'lineno': 2572}
+{'time': 365, 'text': ['pogo', 'italianhands', 'ay', 'doin', 'racism', 'ere'], 'lineno': 2574}
+{'time': 365, 'text': ['hasanabi', 'trump', 'replaces', 'mick', 'mulvaney', 'chief', 'staff', 'https', 'www', 'cnn', 'com', 'politics', 'trump', 'mulvaney', 'index', 'html'], 'lineno': 2575}
+{'time': 366, 'text': ['unpause', 'movie', 'pogo', 'italianhands'], 'lineno': 2580}
+{'time': 367, 'text': ['pausing', 'piker', 'weirdw'], 'lineno': 2593}
+{'time': 368, 'text': ['haskkona', 'italianhands', 'unpause'], 'lineno': 2596}
+{'time': 368, 'text': ['pogo', 'u', 'wanna', 'hit', 'play', 'bro'], 'lineno': 2598}
+{'time': 370, 'text': ['racist', 'racist', 'races', 'haskkona'], 'lineno': 2609}
+{'time': 372, 'text': ['hasanabi', 'make', 'n', 'word', 'joke', 'public', 'weirdw'], 'lineno': 2622}
+{'time': 373, 'text': ['zillagod', 'oh', 'noncircumcised', 'one'], 'lineno': 2628}
+{'time': 373, 'text': ['phone', 'must', 'pretty', 'interesting', 'weirdw'], 'lineno': 2632}
+{'time': 374, 'text': ['different', 'kind', 'way', 'sounds', 'like', 'nice', 'people', 'sides', 'hasanabi'], 'lineno': 2633}
+{'time': 375, 'text': ['unpause', 'weirdw', 'italianhands'], 'lineno': 2637}
+{'time': 375, 'text': ['unpause', 'poo', 'poo', 'weirdw'], 'lineno': 2639}
+{'time': 375, 'text': ['hasanabi', 'watch', 'brstz', 'movie', 'next', 'daphblush'], 'lineno': 2644}
+{'time': 376, 'text': ['gonna', 'pause', 'btw', 'weirdw'], 'lineno': 2649}
+{'time': 377, 'text': ['looking', 'snapchat', 'kekw'], 'lineno': 2651}
+{'time': 378, 'text': ['pausing', 'piker', 'weirdw'], 'lineno': 2654}
+{'time': 379, 'text': ['central', 'park', 'hasan', 'kekwait'], 'lineno': 2658}
+{'time': 380, 'text': ['ey', 'im', 'watchin', 'ere', 'im', 'watchin', 'ere', 'italianhands'], 'lineno': 2662}
+{'time': 380, 'text': ['pausing', 'text', 'pogo'], 'lineno': 2663}
+{'time': 381, 'text': ['jekyllpark', 'lot', 'racism', 'lol'], 'lineno': 2664}
+{'time': 383, 'text': ['staff', 'chat', 'understand', 'context'], 'lineno': 2670}
+{'time': 386, 'text': ['hasanabi', 'watch', 'bratz', 'movie', 'next', 'daphblush'], 'lineno': 2693}
+{'time': 387, 'text': ['peacefulkoala', 'uh', 'oh'], 'lineno': 2697}
+{'time': 389, 'text': ['ripe', 'italy', 'kekw'], 'lineno': 2723}
+{'time': 390, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 2733}
+{'time': 392, 'text': ['staff', 'isnt', 'looks', 'like'], 'lineno': 2742}
+{'time': 394, 'text': ['dude', 'love', 'hasanabi'], 'lineno': 2756}
+{'time': 401, 'text': ['hasan', 'abi', 'selam'], 'lineno': 2796}
+{'time': 408, 'text': ['oh', 'nooo', 'pepela'], 'lineno': 2852}
+{'time': 413, 'text': ['hasanabi', 'take', 'space', 'bar', 'central', 'park', 'stop', 'paysing'], 'lineno': 2880}
+{'time': 413, 'text': ['hasanabi', 'hell', 'yeah', 'brother', 'im', 'baltimore'], 'lineno': 2884}
+{'time': 415, 'text': ['holy', 'shit', 'kekw'], 'lineno': 2904}
+{'time': 416, 'text': ['say', 'front', 'kekw'], 'lineno': 2907}
+{'time': 416, 'text': ['hasanabi', 'cuomo', 'im', 'screaming', 'https', 'twitter', 'com', 'spittingback', 'status'], 'lineno': 2908}
+{'time': 419, 'text': ['holy', 'shit', 'kekw', 'italianhands'], 'lineno': 2934}
+{'time': 423, 'text': ['stop', 'toxic', 'women', 'bernie', 'bros'], 'lineno': 2957}
+{'time': 425, 'text': ['oh', 'n', 'pepela'], 'lineno': 2975}
+{'time': 427, 'text': ['e', 'warren', 'kekw'], 'lineno': 2991}
+{'time': 428, 'text': ['always', 'baltimore', 'im', 'baltimore', 'lul'], 'lineno': 2996}
+{'time': 430, 'text': ['weirdest', 'movie', 'god'], 'lineno': 3005}
+{'time': 435, 'text': ['shit', 'bed', 'pogo', 'italianhands'], 'lineno': 3022}
+{'time': 440, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 3070}
+{'time': 443, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 3110}
+{'time': 446, 'text': ['true', 'pogo', 'italianhands'], 'lineno': 3142}
+{'time': 448, 'text': ['widepeeposad', 'im', 'sorry'], 'lineno': 3158}
+{'time': 450, 'text': ['jewish', 'princess', 'kekw'], 'lineno': 3181}
+{'time': 451, 'text': ['shes', 'victim', 'lulw'], 'lineno': 3192}
+{'time': 454, 'text': ['kekw', 'wtf', 'shit'], 'lineno': 3231}
+{'time': 454, 'text': ['cxic', 'weirdw', 'far'], 'lineno': 3234}
+{'time': 456, 'text': ['shes', 'one', 'thats', 'racist'], 'lineno': 3245}
+{'time': 456, 'text': ['widepeeposad', 'racism', 'bad'], 'lineno': 3247}
+{'time': 457, 'text': ['widepeeposad', 'oh', 'nyoooooo'], 'lineno': 3259}
+{'time': 458, 'text': ['boat', 'italy', 'italianhands'], 'lineno': 3274}
+{'time': 458, 'text': ['warren', 'supporter', 'kekw'], 'lineno': 3277}
+{'time': 459, 'text': ['pogo', 'ayy', 'broad'], 'lineno': 3287}
+{'time': 459, 'text': ['kirbynator', 'true', 'lulw'], 'lineno': 3288}
+{'time': 462, 'text': ['black', 'jewish', 'gf', 'introduces', 'parents', 'first', 'time', 'real', 'experience', 'kekw'], 'lineno': 3303}
+{'time': 463, 'text': ['hasanabi', 'shes', 'victim', 'weirdw'], 'lineno': 3312}
+{'time': 463, 'text': ['fucking', 'crying', 'kekw'], 'lineno': 3321}
+{'time': 466, 'text': ['shes', 'one', 'thats', 'racist', 'apologizing'], 'lineno': 3344}
+{'time': 467, 'text': ['fucking', 'movie', 'kekw'], 'lineno': 3361}
+{'time': 470, 'text': ['shit', 'acting', 'kekw'], 'lineno': 3394}
+{'time': 471, 'text': ['staff', 'waiting', 'strike', 'kekw'], 'lineno': 3407}
+{'time': 473, 'text': ['crying', 'found', 'baltimore', 'kekw'], 'lineno': 3422}
+{'time': 473, 'text': ['fucking', 'acting', 'god'], 'lineno': 3427}
+{'time': 474, 'text': ['mean', 'best', 'kekw'], 'lineno': 3433}
+{'time': 475, 'text': ['dog', 'shit', 'acting', 'kekw'], 'lineno': 3434}
+{'time': 477, 'text': ['pogo', 'whatsa', 'matta', 'witchu'], 'lineno': 3449}
+{'time': 477, 'text': ['best', 'movie', 'ever', 'made'], 'lineno': 3455}
+{'time': 479, 'text': ['widepeeposad', 'italianhands', 'im', 'crying'], 'lineno': 3475}
+{'time': 480, 'text': ['good', 'actors', 'lines', 'man', 'kekw'], 'lineno': 3483}
+{'time': 480, 'text': ['hasanabi', 'movie', 'created'], 'lineno': 3488}
+{'time': 482, 'text': ['mean', 'best', 'kekw'], 'lineno': 3512}
+{'time': 483, 'text': ['oh', 'noooooooo', 'kekw'], 'lineno': 3533}
+{'time': 484, 'text': ['kekw', 'oh', 'god'], 'lineno': 3539}
+{'time': 488, 'text': ['kekw', 'oh', 'nooooo'], 'lineno': 3607}
+{'time': 491, 'text': ['ghe', 'fuck', 'kekw'], 'lineno': 3632}
+{'time': 491, 'text': ['holy', 'shit', 'kekw'], 'lineno': 3640}
+{'time': 492, 'text': ['movie', 'paved', 'way', 'obama', 'whitehouse', 'dare', 'hasanabi'], 'lineno': 3656}
+{'time': 493, 'text': ['hiding', 'lips', 'kekw'], 'lineno': 3666}
+{'time': 496, 'text': ['ohhhh', 'fuckkkk', 'nooo', 'kekw'], 'lineno': 3711}
+{'time': 496, 'text': ['every', 'racist', 'joke', 'holy', 'fuck'], 'lineno': 3716}
+{'time': 497, 'text': ['fuck', 'write', 'shit', 'kekw'], 'lineno': 3726}
+{'time': 498, 'text': ['white', 'people', 'lips', 'lulw'], 'lineno': 3730}
+{'time': 498, 'text': ['jesus', 'christ', 'lulw'], 'lineno': 3733}
+{'time': 502, 'text': ['lulw', 'holy', 'shit'], 'lineno': 3791}
+{'time': 504, 'text': ['oh', 'nooooooo', 'dude'], 'lineno': 3804}
+{'time': 505, 'text': ['jesus', 'christ', 'kekw'], 'lineno': 3811}
+{'time': 505, 'text': ['turk', 'scrubs', 'agree', 'movie'], 'lineno': 3820}
+{'time': 506, 'text': ['oh', 'fucking', 'god'], 'lineno': 3828}
+{'time': 506, 'text': ['cmon', 'man', 'lulw', 'italianhands'], 'lineno': 3830}
+{'time': 508, 'text': ['ducking', 'low', 'movie', 'go'], 'lineno': 3853}
+{'time': 508, 'text': ['holy', 'shit', 'dude', 'kekw'], 'lineno': 3857}
+{'time': 508, 'text': ['holy', 'shit', 'kekw'], 'lineno': 3869}
+{'time': 509, 'text': ['oh', 'fucking', 'jesus', 'god'], 'lineno': 3878}
+{'time': 513, 'text': ['pepelaugh', 'oh', 'nonno'], 'lineno': 3923}
+{'time': 514, 'text': ['wtf', 'happening', 'kekw'], 'lineno': 3939}
+{'time': 515, 'text': ['lmaooooo', 'nocap', 'movie', 'hilarious', 'hasan'], 'lineno': 3948}
+{'time': 516, 'text': ['oh', 'pepelaugh', 'italianhands'], 'lineno': 3961}
+{'time': 517, 'text': ['movie', 'racist', 'kekw'], 'lineno': 3965}
+{'time': 519, 'text': ['stereotypes', 'movie', 'kekw'], 'lineno': 3993}
+{'time': 521, 'text': ['kekw', 'oh', 'good'], 'lineno': 4034}
+{'time': 522, 'text': ['immm', 'cryinggggg', 'hasanabi'], 'lineno': 4042}
+{'time': 524, 'text': ['hide', 'eyes', 'chat'], 'lineno': 4064}
+{'time': 526, 'text': ['obviously', 'going', 'show', 'cock', 'kekw'], 'lineno': 4085}
+{'time': 528, 'text': ['guy', 'produced', 'film', 'arrested', 'embezzlement', 'https', 'www', 'latimes', 'com', 'entertainment', 'envelope', 'cotown', 'la', 'et', 'ct', 'yucaipa', 'caro', 'alleged', 'embezzlement', 'snap', 'story', 'html', 'hasanabi'], 'lineno': 4108}
+{'time': 528, 'text': ['stereotype', 'galore', 'kekw'], 'lineno': 4110}
+{'time': 528, 'text': ['im', 'dead', 'kekw'], 'lineno': 4111}
+{'time': 529, 'text': ['fucking', 'wild', 'kekw'], 'lineno': 4122}
+{'time': 530, 'text': ['im', 'ok', 'w'], 'lineno': 4125}
+{'time': 530, 'text': ['staff', 'chat', 'yep'], 'lineno': 4129}
+{'time': 530, 'text': ['cock', 'yep', 'italianhands'], 'lineno': 4130}
+{'time': 531, 'text': ['hasan', 'getting', 'excited'], 'lineno': 4144}
+{'time': 531, 'text': ['great', 'movie', 'choice', 'watch', 'twitch', 'lulw'], 'lineno': 4146}
+{'time': 532, 'text': ['nice', 'try', 'movie'], 'lineno': 4155}
+{'time': 532, 'text': ['little', 'racism', 'ok', 'lul'], 'lineno': 4163}
+{'time': 533, 'text': ['movie', 'written', 'chan'], 'lineno': 4169}
+{'time': 533, 'text': ['imagine', 'children', 'explaining', 'making', 'movie'], 'lineno': 4174}
+{'time': 535, 'text': ['staff', 'get', 'weirdchamp'], 'lineno': 4189}
+{'time': 537, 'text': ['okaychamp', 'nice', 'hasanabi'], 'lineno': 4209}
+{'time': 539, 'text': ['family', 'pogo', 'italianhands'], 'lineno': 4231}
+{'time': 539, 'text': ['pepelaugh', 'staff', 'oh'], 'lineno': 4233}
+{'time': 539, 'text': ['hasanabi', 'missed', 'something'], 'lineno': 4234}
+{'time': 539, 'text': ['got', 'name', 'kekw'], 'lineno': 4235}
+{'time': 539, 'text': ['liz', 'warrens', 'favorite', 'movie'], 'lineno': 4237}
+{'time': 540, 'text': ['hasanabi', 'nahhh', 'got', 'chat', 'watching', 'hasannn'], 'lineno': 4245}
+{'time': 547, 'text': ['staff', 'looks', 'like', 'monkaw'], 'lineno': 4312}
+{'time': 549, 'text': ['yep', 'italianhands', 'cock'], 'lineno': 4335}
+{'time': 549, 'text': ['hasanabi', 'worse', 'kekw'], 'lineno': 4338}
+{'time': 551, 'text': ['imagine', 'forcing', 'black', 'actor', 'role', 'hasanabi'], 'lineno': 4346}
+{'time': 553, 'text': ['staff', 'chat', 'kekw'], 'lineno': 4356}
+{'time': 559, 'text': ['hasanabi', 'seen', 'soul', 'man'], 'lineno': 4388}
+{'time': 559, 'text': ['yep', 'lissen', 'staff', 'culture'], 'lineno': 4394}
+{'time': 560, 'text': ['losing', 'subscribers', 'kekw'], 'lineno': 4402}
+{'time': 561, 'text': ['im', 'gonna', 'pause'], 'lineno': 4409}
+{'time': 561, 'text': ['im', 'dying', 'lul'], 'lineno': 4411}
+{'time': 562, 'text': ['staff', 'chat', 'monkaw'], 'lineno': 4418}
+{'time': 562, 'text': ['go', 'away', 'staff', 'weirdw'], 'lineno': 4423}
+{'time': 563, 'text': ['black', 'people', 'italian', 'right', 'kekw'], 'lineno': 4431}
+{'time': 564, 'text': ['staff', 'chat', 'yep'], 'lineno': 4435}
+{'time': 565, 'text': ['ok', 'pogo', 'italianhands'], 'lineno': 4437}
+{'time': 566, 'text': ['alright', 'unpause', 'pausechamp', 'alright', 'unpause', 'pausechamp', 'alright', 'unpause', 'pausechamp', 'alright', 'unpause', 'pausechamp', 'alright', 'unpause', 'pausechamp', 'alright', 'unpause', 'pausechamp', 'hasanabi'], 'lineno': 4444}
+{'time': 568, 'text': ['understandable', 'also', 'still', 'racist', 'kekw'], 'lineno': 4453}
+{'time': 569, 'text': ['whats', 'movie', 'called'], 'lineno': 4455}
+{'time': 571, 'text': ['one', 'long', 'racism', 'hasanabi'], 'lineno': 4460}
+{'time': 571, 'text': ['yep', 'italianhands', 'cazzo'], 'lineno': 4463}
+{'time': 571, 'text': ['thank', 'ted', 'talk', 'hasan'], 'lineno': 4464}
+{'time': 573, 'text': ['hasanabi', 'way', 'funnier', 'hes', 'playing', 'philly', 'stereotype', 'blacks', 'eggplants', 'black', 'dick'], 'lineno': 4472}
+{'time': 577, 'text': ['hasanabi', 'seeing', 'world', 'seen', 'joe', 'biden', 'brain'], 'lineno': 4487}
+{'time': 577, 'text': ['unpause', 'weirdw', 'italianhands'], 'lineno': 4488}
+{'time': 577, 'text': ['please', 'let', 'us', 'see', 'cock', 'please', 'let', 'us', 'see', 'cock', 'please', 'let', 'us', 'see', 'cock', 'please', 'let', 'us', 'see', 'cock', 'please', 'let', 'us', 'see', 'cock', 'please', 'let', 'us', 'see', 'cock', 'please', 'let', 'us', 'see', 'cock', 'hasanabi'], 'lineno': 4489}
+{'time': 581, 'text': ['directed', 'movie', 'ever', 'directed'], 'lineno': 4498}
+{'time': 582, 'text': ['wont', 'pause', 'movie'], 'lineno': 4501}
+{'time': 582, 'text': ['movie', 'fucking', 'wild'], 'lineno': 4504}
+{'time': 585, 'text': ['monkastare', 'staff', 'know'], 'lineno': 4513}
+{'time': 585, 'text': ['pausing', 'movie', 'wierd'], 'lineno': 4518}
+{'time': 585, 'text': ['staff', 'chat', 'lulw'], 'lineno': 4519}
+{'time': 586, 'text': ['makes', 'sense', 'kekw'], 'lineno': 4520}
+{'time': 586, 'text': ['hasanabi', 'nick', 'mullen', 'rhode', 'island'], 'lineno': 4521}
+{'time': 589, 'text': ['weirdw', 'im', 'watchin', 'ere'], 'lineno': 4530}
+{'time': 589, 'text': ['stop', 'pausing', 'weirdw'], 'lineno': 4531}
+{'time': 589, 'text': ['staff', 'watching', 'pepela'], 'lineno': 4533}
+{'time': 590, 'text': ['unpause', 'reeee', 'italianhands'], 'lineno': 4535}
+{'time': 590, 'text': ['hours', 'watch', 'minute', 'movie', 'kekw'], 'lineno': 4536}
+{'time': 590, 'text': ['rhode', 'island', 'manifesto', 'kekw'], 'lineno': 4541}
+{'time': 591, 'text': ['ceo', 'racism', 'kekw'], 'lineno': 4547}
+{'time': 592, 'text': ['got', 'famous', 'comedy', 'dumb', 'n', 'dumber', 'hasanabi'], 'lineno': 4549}
+{'time': 593, 'text': ['hour', 'movie', 'kekw'], 'lineno': 4554}
+{'time': 594, 'text': ['staff', 'chat', 'regulars', 'monkaw'], 'lineno': 4556}
+{'time': 594, 'text': ['im', 'horny', 'tor', 'bbc', 'chat'], 'lineno': 4561}
+{'time': 595, 'text': ['staff', 'watching', 'monkaw'], 'lineno': 4564}
+{'time': 596, 'text': ['hours', 'watch', 'minute', 'movie', 'kekw'], 'lineno': 4566}
+{'time': 596, 'text': ['movie', 'precious', 'kekw'], 'lineno': 4567}
+{'time': 597, 'text': ['dsazizek', 'movie', 'trashcan'], 'lineno': 4571}
+{'time': 602, 'text': ['wait', 'ironic', 'omegalul'], 'lineno': 4579}
+{'time': 603, 'text': ['hi', 'staff', 'heyguys'], 'lineno': 4580}
+{'time': 603, 'text': ['movie', 'written', 'potatoes', 'kekw'], 'lineno': 4581}
+{'time': 604, 'text': ['need', 'movie', 'night', 'often', 'lulw'], 'lineno': 4584}
+{'time': 609, 'text': ['weirdw', 'italianhands', 'finish', 'movie'], 'lineno': 4589}
+{'time': 612, 'text': ['staff', 'dont', 'report', 'test', 'pepog'], 'lineno': 4598}
+{'time': 612, 'text': ['staff', 'trying', 'enjoy', 'movie', 'people', 'keep', 'pointing', 'widepeeposad'], 'lineno': 4602}
+{'time': 613, 'text': ['feel', 'like', 'ethically', 'bad', 'blackface', 'definitely', 'comedic', 'dead', 'end', 'kekw'], 'lineno': 4603}
+{'time': 613, 'text': ['vohiyo', 'hiya', 'staff'], 'lineno': 4604}
+{'time': 616, 'text': ['got', 'staff', 'member', 'named', 'loyal', 'good', 'lulw'], 'lineno': 4617}
+{'time': 619, 'text': ['hasanabi', 'black', 'guy', 'grew', 'jersey', 'burbs', 'went', 'affluent', 'high', 'school', 'mirror', 'scene', 'adolecence'], 'lineno': 4642}
+{'time': 620, 'text': ['staff', 'watching', 'monkaw', 'hasanabi'], 'lineno': 4648}
+{'time': 620, 'text': ['hasanabi', 'look', 'fredophobia', 'https', 'twitter', 'com', 'kevinfinite', 'status'], 'lineno': 4650}
+{'time': 621, 'text': ['lincoln', 'chafee', 'wrote', 'hasanabi'], 'lineno': 4653}
+{'time': 622, 'text': ['gotta', 'finish', 'invested', 'lmao', 'kekw'], 'lineno': 4661}
+{'time': 624, 'text': ['music', 'change', 'oh', 'god'], 'lineno': 4667}
+{'time': 625, 'text': ['lul', 'music', 'went', 'hip', 'hop'], 'lineno': 4677}
+{'time': 626, 'text': ['movie', 'romeo', 'juliet', 'extra', 'racism', 'hasanabi'], 'lineno': 4694}
+{'time': 627, 'text': ['hasanabi', 'man', 'thats', 'th', 'italian', 'im', 'offended'], 'lineno': 4699}
+{'time': 632, 'text': ['staff', 'chat', 'lul'], 'lineno': 4733}
+{'time': 633, 'text': ['pepela', 'oh', 'shit'], 'lineno': 4738}
+{'time': 634, 'text': ['whoopis', 'mom', 'kekw'], 'lineno': 4741}
+{'time': 636, 'text': ['hasanabi', 'gets', 'x', 'racist', 'nd', 'half', 'weirdw'], 'lineno': 4750}
+{'time': 637, 'text': ['green', 'screen', 'kekw'], 'lineno': 4754}
+{'time': 638, 'text': ['increased', 'levels', 'racism', 'pogu'], 'lineno': 4757}
+{'time': 642, 'text': ['hasanabi', 'feel', 'like', 'homie', 'spumoni', 'making', 'fun', 'racism', 'like', 'mention', 'race', 'stereotypes', 'every', 'chance', 'get', 'show', 'outrageous', 'comical', 'ya', 'go', 'kappa'], 'lineno': 4778}
+{'time': 643, 'text': ['futomomo', 'oh', 'god'], 'lineno': 4788}
+{'time': 644, 'text': ['paul', 'mooney', 'kekw'], 'lineno': 4796}
+{'time': 645, 'text': ['hasanabi', 'u', 'laugh', 'racist', 'comedy', 'doesnt', 'make', 'u', 'racist', 'ur', 'comparing', 'real', 'racism', 'wich', 'bad'], 'lineno': 4818}
+{'time': 651, 'text': ['holy', 'shit', 'lul'], 'lineno': 4910}
+{'time': 652, 'text': ['oh', 'fucking', 'god'], 'lineno': 4933}
+{'time': 652, 'text': ['hasanabi', 'took', 'sec', 'kekw'], 'lineno': 4936}
+{'time': 656, 'text': ['kekw', 'got', 'immediately', 'worse'], 'lineno': 4985}
+{'time': 656, 'text': ['ohhhh', 'noooooooo', 'kekw'], 'lineno': 4995}
+{'time': 658, 'text': ['hasanabi', 'wait', 'went', 'food', 'go', 'isent', 'grown', 'man'], 'lineno': 5009}
+{'time': 659, 'text': ['wen', 'right', 'real', 'quick', 'hasanabi'], 'lineno': 5021}
+{'time': 660, 'text': ['kekw', 'fucking', 'trainwreck'], 'lineno': 5040}
+{'time': 661, 'text': ['escalated', 'real', 'fucking', 'quick'], 'lineno': 5042}
+{'time': 661, 'text': ['holy', 'shit', 'kekw'], 'lineno': 5043}
+{'time': 661, 'text': ['lulw', 'actually', 'done'], 'lineno': 5044}
+{'time': 661, 'text': ['hasanabi', 'right', 'said'], 'lineno': 5049}
+{'time': 662, 'text': ['real', 'quick', 'omegalul'], 'lineno': 5053}
+{'time': 662, 'text': ['oh', 'shit', 'paul', 'mooney'], 'lineno': 5054}
+{'time': 662, 'text': ['uh', 'oh', 'monkas'], 'lineno': 5055}
+{'time': 662, 'text': ['pepog', 'im', 'learning', 'alot', 'thanks', 'hasan'], 'lineno': 5057}
+{'time': 662, 'text': ['kekw', 'wtf', 'shit', 'kekw'], 'lineno': 5059}
+{'time': 663, 'text': ['damn', 'timing', 'everything', 'movie', 'stream'], 'lineno': 5077}
+{'time': 663, 'text': ['hasan', 'reaction', 'kekw'], 'lineno': 5081}
+{'time': 663, 'text': ['fucking', 'time', 'lulw'], 'lineno': 5089}
+{'time': 665, 'text': ['going', 'hell', 'kekw'], 'lineno': 5100}
+{'time': 665, 'text': ['gettting', 'worse', 'kekw'], 'lineno': 5104}
+{'time': 665, 'text': ['right', 'said', 'hasanabi'], 'lineno': 5109}
+{'time': 666, 'text': ['im', 'fucking', 'ded'], 'lineno': 5111}
+{'time': 666, 'text': ['refuse', 'believe', 'real', 'omegalul'], 'lineno': 5112}
+{'time': 667, 'text': ['chat', 'paul', 'mooney', 'hasanabi'], 'lineno': 5122}
+{'time': 668, 'text': ['pogo', 'italianhands', 'ay', 'doin', 'racism', 'ere'], 'lineno': 5124}
+{'time': 668, 'text': ['course', 'whoopies', 'shit', 'lmao', 'hasanabi'], 'lineno': 5128}
+{'time': 669, 'text': ['timing', 'kekw', 'timing'], 'lineno': 5137}
+{'time': 669, 'text': ['fucking', 'clip', 'ahahahahahahha'], 'lineno': 5143}
+{'time': 669, 'text': ['fucking', 'timing', 'lmfao'], 'lineno': 5144}
+{'time': 669, 'text': ['im', 'dead', 'kekw'], 'lineno': 5148}
+{'time': 670, 'text': ['hello', 'lsf', 'kekw'], 'lineno': 5150}
+{'time': 671, 'text': ['escalated', 'fucking', 'orbit'], 'lineno': 5156}
+{'time': 672, 'text': ['holy', 'shit', 'kekw'], 'lineno': 5164}
+{'time': 672, 'text': ['best', 'stream', 'kekw'], 'lineno': 5167}
+{'time': 672, 'text': ['jesus', 'fucking', 'fuck'], 'lineno': 5168}
+{'time': 676, 'text': ['hello', 'lsf', 'kekw'], 'lineno': 5202}
+{'time': 676, 'text': ['kekw', 'hi', 'lsf'], 'lineno': 5209}
+{'time': 678, 'text': ['hasanabi', 'gonna', 'soooo', 'bad', 'great', 'bad', 'dont', 'even', 'know'], 'lineno': 5233}
+{'time': 678, 'text': ['lul', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis', 'notlikethis'], 'lineno': 5242}
+{'time': 679, 'text': ['hasanabi', 'seeing', 'lsf', 'later'], 'lineno': 5254}
+{'time': 681, 'text': ['hasanabi', 'pause', 'pls', 'go', 'pee', 'thank'], 'lineno': 5271}
+{'time': 681, 'text': ['clip', 'ship', 'boys', 'lul'], 'lineno': 5277}
+{'time': 684, 'text': ['oh', 'god', 'fucked'], 'lineno': 5302}
+{'time': 686, 'text': ['kekw', 'n', 'word'], 'lineno': 5313}
+{'time': 687, 'text': ['im', 'cryinggg', 'kekw'], 'lineno': 5321}
+{'time': 688, 'text': ['kekw', 'like', 'boom', 'man'], 'lineno': 5327}
+{'time': 692, 'text': ['sounds', 'like', 'dmx', 'kekw'], 'lineno': 5349}
+{'time': 693, 'text': ['dead', 'brother', 'kekw'], 'lineno': 5353}
+{'time': 695, 'text': ['hasanabi', 'zoomers', 'dont', 'know', 'grew', 'shit', 'stereotype', 'humor', 'pepehands'], 'lineno': 5363}
+{'time': 696, 'text': ['perfect', 'movie', 'doesnt', 'exist'], 'lineno': 5370}
+{'time': 696, 'text': ['hasanabi', 'assume', 'input', 'mooney', 'goldberg', 'tho'], 'lineno': 5373}
+{'time': 696, 'text': ['hasan', 'really', 'think', 'racist'], 'lineno': 5381}
+{'time': 697, 'text': ['dead', 'brother', 'kekw'], 'lineno': 5386}
+{'time': 697, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 5399}
+{'time': 700, 'text': ['bruh', 'im', 'cryin', 'lmfaoaosadsas'], 'lineno': 5438}
+{'time': 700, 'text': ['oh', 'shit', 'actually', 'finally', 'watching', 'homie', 'spumoni', 'lmao'], 'lineno': 5444}
+{'time': 700, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 5473}
+{'time': 703, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 5505}
+{'time': 708, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 5556}
+{'time': 710, 'text': ['holy', 'shit', 'omegalul'], 'lineno': 5579}
+{'time': 710, 'text': ['st', 'v', 'n', 'wrote', 'kekw'], 'lineno': 5582}
+{'time': 716, 'text': ['fuck', 'dude', 'kekw'], 'lineno': 5646}
+{'time': 716, 'text': ['kekw', 'casual', 'racism'], 'lineno': 5648}
+{'time': 716, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 5656}
+{'time': 718, 'text': ['lul', 'ok', 'dude'], 'lineno': 5671}
+{'time': 718, 'text': ['nah', 'best', 'movie', 'time', 'lmaoo'], 'lineno': 5675}
+{'time': 719, 'text': ['hasanabi', 'zoomers', 'dont', 'know', 'grew', 'shit', 'stereotype', 'humor', 'pepehands', 'tell'], 'lineno': 5686}
+{'time': 722, 'text': ['ooooookaaaay', 'dude', 'kekw'], 'lineno': 5705}
+{'time': 722, 'text': ['omegalul', 'kay', 'dude'], 'lineno': 5710}
+{'time': 722, 'text': ['holy', 'shit', 'kekw'], 'lineno': 5716}
+{'time': 723, 'text': ['oh', 'n', 'kekw'], 'lineno': 5720}
+{'time': 723, 'text': ['wtf', 'kekw', 'w'], 'lineno': 5725}
+{'time': 724, 'text': ['love', 'much', 'kekw'], 'lineno': 5737}
+{'time': 726, 'text': ['kekw', 'teaching', 'black'], 'lineno': 5742}
+{'time': 726, 'text': ['omegalul', 'corona', 'aware'], 'lineno': 5746}
+{'time': 726, 'text': ['duuuuuuuuuuuuuude', 'worth', 'hasanabi'], 'lineno': 5749}
+{'time': 727, 'text': ['pogo', 'italianhands', 'u', 'doin'], 'lineno': 5760}
+{'time': 729, 'text': ['soooooo', 'gooooooood', 'lul'], 'lineno': 5771}
+{'time': 729, 'text': ['omegalul', 'kay', 'dude'], 'lineno': 5773}
+{'time': 732, 'text': ['mid', 'bad', 'italianhands'], 'lineno': 5791}
+{'time': 732, 'text': ['pogo', 'italianhands', 'forget', 'abaht'], 'lineno': 5797}
+{'time': 733, 'text': ['hasanabi', 'many', 'racisms'], 'lineno': 5803}
+{'time': 736, 'text': ['fucking', 'brilliant', 'man'], 'lineno': 5821}
+{'time': 736, 'text': ['greatest', 'movie', 'time'], 'lineno': 5822}
+{'time': 737, 'text': ['irish', 'cop', 'lulw'], 'lineno': 5824}
+{'time': 737, 'text': ['hasanabi', 'wrong', 'hasan', 'irresponsible', 'platforming'], 'lineno': 5826}
+{'time': 742, 'text': ['hasanabi', 'seeing', 'lsf', 'later', 'man'], 'lineno': 5847}
+{'time': 742, 'text': ['thought', 'movie', 'italians', 'pogo', 'italianhands', 'oh'], 'lineno': 5848}
+{'time': 742, 'text': ['whoopi', 'always', 'faught', 'racism'], 'lineno': 5849}
+{'time': 745, 'text': ['hasanabi', 'zoomers', 'dont', 'know', 'grew', 'shit', 'stereotype', 'humor', 'pepehands', 'super', 'normie', 'humor', 'early'], 'lineno': 5867}
+{'time': 746, 'text': ['whoopi', 'advocating', 'liberal', 'agenda', 'lul'], 'lineno': 5869}
+{'time': 748, 'text': ['irish', 'cop', 'kekw'], 'lineno': 5879}
+{'time': 749, 'text': ['lulw', 'racism', 'simulator'], 'lineno': 5881}
+{'time': 757, 'text': ['miss', 'movies', 'time', 'kekw'], 'lineno': 5906}
+{'time': 757, 'text': ['hasanabi', 'would', 'black', 'actors', 'unless', 'considered', 'ironic'], 'lineno': 5910}
+{'time': 762, 'text': ['hasanabi', 'whoopy', 'carring', 'us', 'shoulders'], 'lineno': 5928}
+{'time': 764, 'text': ['fuck', 'yget', 'whoopi', 'movie'], 'lineno': 5941}
+{'time': 766, 'text': ['oh', 'fucking', 'god', 'kekw'], 'lineno': 5953}
+{'time': 768, 'text': ['whoopi', 'totally', 'okay', 'racist', 'movie', 'kekw'], 'lineno': 5966}
+{'time': 773, 'text': ['dey', 'dey', 'room', 'kekw'], 'lineno': 5996}
+{'time': 773, 'text': ['cornpop', 'made', 'movie'], 'lineno': 5999}
+{'time': 774, 'text': ['soul', 'food', 'kekw'], 'lineno': 6009}
+{'time': 775, 'text': ['racism', 'simulator', 'pog'], 'lineno': 6022}
+{'time': 776, 'text': ['pogo', 'italianhands', 'wtf'], 'lineno': 6034}
+{'time': 779, 'text': ['two', 'pitbull', 'posters', 'kekw'], 'lineno': 6076}
+{'time': 780, 'text': ['pitbull', 'posters', 'kekw'], 'lineno': 6089}
+{'time': 781, 'text': ['im', 'poc', 'shit', 'great', 'omegalul'], 'lineno': 6092}
+{'time': 781, 'text': ['pogo', 'italianhands', 'wtf'], 'lineno': 6101}
+{'time': 782, 'text': ['pogo', 'italianhands', 'wtf'], 'lineno': 6103}
+{'time': 783, 'text': ['movie', 'much', 'kekw', 'weirdw'], 'lineno': 6110}
+{'time': 783, 'text': ['hasanabi', 'dude', 'jkung', 'fu', 'posters', 'jaki', 'lee'], 'lineno': 6112}
+{'time': 783, 'text': ['pogo', 'italianhands', 'tomato'], 'lineno': 6113}
+{'time': 784, 'text': ['fredophobia', 'kekw', 'italianhands'], 'lineno': 6116}
+{'time': 785, 'text': ['pogo', 'italianhands', 'tomato', 'sauce'], 'lineno': 6127}
+{'time': 786, 'text': ['italians', 'eat', 'italian', 'food', 'kekw'], 'lineno': 6138}
+{'time': 786, 'text': ['posters', 'outside', 'door', 'kekw'], 'lineno': 6140}
+{'time': 790, 'text': ['hasanabi', 'man', 'ass'], 'lineno': 6162}
+{'time': 791, 'text': ['someone', 'otherize', 'even', 'kind', 'proving', 'racism', 'product', 'socialization'], 'lineno': 6168}
+{'time': 793, 'text': ['pitbull', 'posters', 'tho', 'kekw'], 'lineno': 6177}
+{'time': 793, 'text': ['pogo', 'italianhands', 'excuse'], 'lineno': 6178}
+{'time': 794, 'text': ['good', 'thinking', 'lul'], 'lineno': 6182}
+{'time': 794, 'text': ['pitbull', 'posters', 'kekw'], 'lineno': 6187}
+{'time': 796, 'text': ['back', 'racist', 'italians'], 'lineno': 6199}
+{'time': 796, 'text': ['get', 'crunk', 'kekw'], 'lineno': 6200}
+{'time': 798, 'text': ['hasanabi', 'trump', 'replaces', 'mick', 'mulvaney', 'chief', 'staff', 'https', 'www', 'cnn', 'com', 'politics', 'trump', 'mulvaney', 'index', 'html'], 'lineno': 6216}
+{'time': 803, 'text': ['watch', 'fucking', 'pussy'], 'lineno': 6280}
+{'time': 804, 'text': ['written', 'ceo', 'racism'], 'lineno': 6298}
+{'time': 807, 'text': ['tomato', 'sauce', 'pepehands', 'italianhands'], 'lineno': 6321}
+{'time': 808, 'text': ['hasanabi', 'movie', 'save', 'racism'], 'lineno': 6329}
+{'time': 810, 'text': ['whoopi', 'kinda', 'cute', 'ngl', 'hasanabi'], 'lineno': 6338}
+{'time': 813, 'text': ['pitbull', 'posters', 'kekw'], 'lineno': 6345}
+{'time': 813, 'text': ['holy', 'shit', 'movie', 'god', 'damn', 'wild'], 'lineno': 6346}
+{'time': 815, 'text': ['insult', 'dnb', 'weirdw'], 'lineno': 6364}
+{'time': 815, 'text': ['kekw', 'good', 'one'], 'lineno': 6368}
+{'time': 815, 'text': ['whats', 'name', 'movie'], 'lineno': 6371}
+{'time': 815, 'text': ['fucking', 'movie', 'kekw'], 'lineno': 6372}
+{'time': 817, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 6403}
+{'time': 820, 'text': ['catfish', 'sucks', 'kekw'], 'lineno': 6429}
+{'time': 821, 'text': ['hate', 'catfish', 'kekw'], 'lineno': 6440}
+{'time': 823, 'text': ['happy', 'movie', 'abolished', 'racism', 'okaychamp'], 'lineno': 6449}
+{'time': 830, 'text': ['coughed', 'cereal', 'eating', 'shit'], 'lineno': 6514}
+{'time': 837, 'text': ['paul', 'mooney', 'kekw'], 'lineno': 6563}
+{'time': 841, 'text': ['okay', 'chat', 'movie', 'abolished', 'racism', 'afterward', 'okaychamp'], 'lineno': 6586}
+{'time': 846, 'text': ['lulw', 'holy', 'shit'], 'lineno': 6654}
+{'time': 851, 'text': ['dude', 'chill', 'lulw'], 'lineno': 6703}
+{'time': 851, 'text': ['omegalul', 'teatime', 'holy', 'shit'], 'lineno': 6704}
+{'time': 852, 'text': ['lol', 'racist', 'hahahaha'], 'lineno': 6719}
+{'time': 853, 'text': ['w', 'omegalul', 'w'], 'lineno': 6724}
+{'time': 853, 'text': ['true', 'tho', 'kekw'], 'lineno': 6725}
+{'time': 854, 'text': ['kekw', 'hillary', 'saw', 'movie'], 'lineno': 6734}
+{'time': 854, 'text': ['keeps', 'getting', 'better', 'lul'], 'lineno': 6735}
+{'time': 854, 'text': ['written', 'hillary', 'lul'], 'lineno': 6743}
+{'time': 854, 'text': ['lul', 'ok', 'man'], 'lineno': 6744}
+{'time': 861, 'text': ['franks', 'red', 'hot', 'omegalul'], 'lineno': 6786}
+{'time': 861, 'text': ['lol', 'shit', 'made', 'nick', 'mullen', 'kekw'], 'lineno': 6788}
+{'time': 863, 'text': ['hasanabi', 'many', 'oscars', 'win'], 'lineno': 6804}
+{'time': 865, 'text': ['oh', 'fucking', 'god'], 'lineno': 6817}
+{'time': 866, 'text': ['like', 'tho', 'kekw'], 'lineno': 6825}
+{'time': 867, 'text': ['jesus', 'fucking', 'christ', 'kekw'], 'lineno': 6834}
+{'time': 867, 'text': ['hilary', 'clinton', 'lulw'], 'lineno': 6848}
+{'time': 868, 'text': ['hasanabi', 'movie', 'dude'], 'lineno': 6850}
+{'time': 869, 'text': ['hasanabi', 'acting', 'almost', 'good', 'whoopi', 'political', 'opinions'], 'lineno': 6868}
+{'time': 869, 'text': ['greatest', 'movie', 'ever', 'made'], 'lineno': 6869}
+{'time': 871, 'text': ['pausechamp', 'italianhands', 'im', 'watchin'], 'lineno': 6888}
+{'time': 872, 'text': ['kekw', 'immm', 'screamm'], 'lineno': 6892}
+{'time': 872, 'text': ['hasanabi', 'u', 'laugh', 'racist', 'comedy', 'doesnt', 'make', 'u', 'racist', 'ur', 'comparing', 'real', 'racism', 'wich', 'bad'], 'lineno': 6893}
+{'time': 874, 'text': ['stop', 'pausing', 'weirdw'], 'lineno': 6913}
+{'time': 875, 'text': ['hasanabi', 'half', 'ass', 'cheek'], 'lineno': 6917}
+{'time': 876, 'text': ['hillary', 'clinton', 'kekw'], 'lineno': 6924}
+{'time': 876, 'text': ['hasanabi', 'whoopy', 'carring', 'us', 'shoulders'], 'lineno': 6925}
+{'time': 876, 'text': ['hasanabi', 'good', 'needed', 'break', 'politics', 'raising', 'bloodpressure'], 'lineno': 6927}
+{'time': 878, 'text': ['hillary', 'clinton', 'like', 'hillary', 'clinton', 'like', 'hillary', 'clinton', 'like', 'hillary', 'clinton', 'like', 'hillary', 'clinton', 'like', 'hillary', 'clinton', 'like', 'hillary', 'clinton', 'like', 'hillary', 'clinton', 'like', 'hillary', 'clinton', 'like', 'hasanabi'], 'lineno': 6939}
+{'time': 879, 'text': ['movie', 'mask', 'kekw'], 'lineno': 6946}
+{'time': 880, 'text': ['hours', 'hour', 'movie', 'seemsgood'], 'lineno': 6955}
+{'time': 881, 'text': ['hasanabi', 'w', 'whoopi', 'pauls', 'blessing', 'tho', 'righ'], 'lineno': 6960}
+{'time': 881, 'text': ['shut', 'fuck', 'weirdw'], 'lineno': 6963}
+{'time': 883, 'text': ['much', 'one', 'sitting', 'hasanabi', 'lul', 'lmao'], 'lineno': 6966}
+{'time': 883, 'text': ['hasan', 'favorite', 'movie'], 'lineno': 6969}
+{'time': 884, 'text': ['movie', 'racist', 'fam', 'kappa'], 'lineno': 6970}
+{'time': 884, 'text': ['hasanabi', 'relevant', 'pepelaugh', 'https', 'www', 'youtube', 'com', 'watch', 'v', 'zoz', 'bk', 'oxmi'], 'lineno': 6971}
+{'time': 884, 'text': ['said', 'pausing', 'weirdw'], 'lineno': 6978}
+{'time': 886, 'text': ['commentary', 'cringe', 'stfu', 'watch', 'movie', 'bitch'], 'lineno': 6994}
+{'time': 889, 'text': ['hot', 'sauce', 'lulw'], 'lineno': 7020}
+{'time': 889, 'text': ['hasanabi', 'watching', 'makes', 'feel', 'like', 'racist', 'proxy'], 'lineno': 7024}
+{'time': 890, 'text': ['fucking', 'movie', 'got', 'like'], 'lineno': 7031}
+{'time': 891, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 7043}
+{'time': 895, 'text': ['damn', 'forgot', 'kekw'], 'lineno': 7065}
+{'time': 897, 'text': ['get', 'press', 'play', 'weirdw'], 'lineno': 7072}
+{'time': 899, 'text': ['hasanabi', 'thats', 'whoopie'], 'lineno': 7078}
+{'time': 899, 'text': ['whoopi', 'say', 'yes', 'movie'], 'lineno': 7079}
+{'time': 900, 'text': ['hasanabi', 'insanely', 'worse', 'like', 'american', 'history', 'x'], 'lineno': 7082}
+{'time': 900, 'text': ['racism', 'speedrun', 'kekw', 'racism', 'speedrun', 'kekw', 'racism', 'speedrun', 'kekw', 'racism', 'speedrun', 'kekw', 'racism', 'speedrun', 'kekw', 'racism', 'speedrun', 'kekw', 'racism', 'speedrun', 'kekw', 'racism', 'speedrun', 'kekw', 'racism', 'speedrun', 'kekw', 'hasanabi'], 'lineno': 7086}
+{'time': 902, 'text': ['hillary', 'clinton', 'kekw'], 'lineno': 7087}
+{'time': 906, 'text': ['hasanabi', 'joe', 'biden', 'aide', 'carry', 'hot', 'sauce', 'around'], 'lineno': 7098}
+{'time': 910, 'text': ['hasanabi', 'found', 'dick', 'last', 'scene'], 'lineno': 7119}
+{'time': 910, 'text': ['hasanabi', 'half', 'ass', 'cheek'], 'lineno': 7121}
+{'time': 911, 'text': ['hasanabi', 'whoopy', 'carring', 'us', 'shoulders'], 'lineno': 7126}
+{'time': 911, 'text': ['guy', 'produced', 'film', 'arrested', 'embezzlement', 'https', 'www', 'latimes', 'com', 'entertainment', 'envelope', 'cotown', 'la', 'et', 'ct', 'yucaipa', 'caro', 'alleged', 'embezzlement', 'snap', 'story', 'html', 'hasanabi'], 'lineno': 7128}
+{'time': 912, 'text': ['hasanabi', 'relevant', 'pepelaugh', 'https', 'www', 'youtube', 'com', 'watch', 'v', 'zoz', 'bk', 'oxmi', 'pepela'], 'lineno': 7129}
+{'time': 913, 'text': ['bernie', 'brothers', 'trolling', 'twitter', 'saying', 'televised', 'debate', 'theater', 'pepelaugh'], 'lineno': 7134}
+{'time': 915, 'text': ['whoopi', 'approves', 'quit', 'stalling', 'weirdw'], 'lineno': 7139}
+{'time': 915, 'text': ['biden', 'vs', 'bernie', 'bern'], 'lineno': 7140}
+{'time': 919, 'text': ['movie', 'fucking', 'golden', 'kekw'], 'lineno': 7147}
+{'time': 922, 'text': ['white', 'always', 'loved', 'hip', 'hop', 'hot', 'sauce', 'hasanabi'], 'lineno': 7152}
+{'time': 927, 'text': ['family', 'meeting', 'cuz', 'missing', 'child', 'weirdw', 'hasanabi'], 'lineno': 7161}
+{'time': 930, 'text': ['hasanabi', 'black', 'person', 'terrible'], 'lineno': 7164}
+{'time': 935, 'text': ['every', 'character', 'doesnt', 'know', 'anything', 'prior', 'movie'], 'lineno': 7180}
+{'time': 937, 'text': ['hasanabi', 'also', 'ketchup', 'table'], 'lineno': 7192}
+{'time': 937, 'text': ['writing', 'movie', 'shit', 'kekw'], 'lineno': 7194}
+{'time': 941, 'text': ['im', 'black', 'hate', 'hot', 'food'], 'lineno': 7201}
+{'time': 942, 'text': ['snowyzoe', 'im', 'black', 'love'], 'lineno': 7207}
+{'time': 945, 'text': ['fuck', 'whoopi', 'kekw'], 'lineno': 7223}
+{'time': 945, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 7225}
+{'time': 953, 'text': ['omegalul', 'teatime', 'holy', 'shit'], 'lineno': 7286}
+{'time': 954, 'text': ['paul', 'mooney', 'kekw'], 'lineno': 7289}
+{'time': 958, 'text': ['saying', 'n', 'word', 'one', 'minute', 'ago', 'kekw'], 'lineno': 7323}
+{'time': 964, 'text': ['cuts', 'movie', 'weird'], 'lineno': 7395}
+{'time': 969, 'text': ['roasted', 'mom', 'kekw'], 'lineno': 7487}
+{'time': 971, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 7505}
+{'time': 973, 'text': ['bag', 'nickels', 'kekw'], 'lineno': 7532}
+{'time': 974, 'text': ['kekw', 'destroyed', 'facts', 'logic'], 'lineno': 7543}
+{'time': 974, 'text': ['kekw', 'holy', 'shit'], 'lineno': 7547}
+{'time': 975, 'text': ['kekw', 'holyyy', 'shit'], 'lineno': 7559}
+{'time': 976, 'text': ['one', 'us', 'kekw'], 'lineno': 7567}
+{'time': 991, 'text': ['sami', 'davis', 'kekw'], 'lineno': 7652}
+{'time': 992, 'text': ['bernie', 'poc', 'pogu'], 'lineno': 7662}
+{'time': 993, 'text': ['oh', 'heyy', 'one', 'guys', 'remember', 'titans'], 'lineno': 7674}
+{'time': 993, 'text': ['sammy', 'davis', 'jr', 'kekw'], 'lineno': 7677}
+{'time': 994, 'text': ['least', 'racism', 'movie'], 'lineno': 7681}
+{'time': 1000, 'text': ['actual', 'fuck', 'hahahahaha', 'omegalul'], 'lineno': 7707}
+{'time': 1009, 'text': ['ben', 'shaprio', 'kekw'], 'lineno': 7770}
+{'time': 1011, 'text': ['pogo', 'italianhands', 'really'], 'lineno': 7781}
+{'time': 1012, 'text': ['feel', 'racist', 'laughing', 'jokes'], 'lineno': 7797}
+{'time': 1016, 'text': ['actually', 'good', 'movie'], 'lineno': 7821}
+{'time': 1019, 'text': ['ben', 'shapiro', 'lulw'], 'lineno': 7855}
+{'time': 1020, 'text': ['hasanabi', 'ben', 'shapiro', 'take', 'lulw'], 'lineno': 7884}
+{'time': 1021, 'text': ['kekw', 'ben', 'shapiro'], 'lineno': 7886}
+{'time': 1023, 'text': ['ben', 'shapiro', 'kekw'], 'lineno': 7914}
+{'time': 1024, 'text': ['ben', 'shapiro', 'takes', 'hasanabi'], 'lineno': 7921}
+{'time': 1024, 'text': ['ben', 'shapiro', 'omegalul'], 'lineno': 7922}
+{'time': 1024, 'text': ['kekw', 'ben', 'shapiro'], 'lineno': 7930}
+{'time': 1024, 'text': ['ben', 'shapiro', 'kekw'], 'lineno': 7931}
+{'time': 1025, 'text': ['ben', 'shapiro', 'takes', 'omegalul'], 'lineno': 7936}
+{'time': 1025, 'text': ['pressed', 'volume', 'knob', 'kekw'], 'lineno': 7950}
+{'time': 1026, 'text': ['hasanabi', 'actually', 'must', 'make', 'people', 'question', 'societyy'], 'lineno': 7961}
+{'time': 1028, 'text': ['ben', 'shapiro', 'kekw'], 'lineno': 7972}
+{'time': 1028, 'text': ['ben', 'shapiro', 'kekw'], 'lineno': 7975}
+{'time': 1029, 'text': ['kekw', 'ben', 'shapiro', 'take'], 'lineno': 7977}
+{'time': 1031, 'text': ['ben', 'shaprio', 'omegalul'], 'lineno': 7997}
+{'time': 1032, 'text': ['ohhhhh', 'nooo', 'kekw'], 'lineno': 8005}
+{'time': 1033, 'text': ['ben', 'shapiro', 'kekw'], 'lineno': 8019}
+{'time': 1034, 'text': ['ben', 'shapiro', 'kekw'], 'lineno': 8032}
+{'time': 1038, 'text': ['talent', 'bullcrap', 'kekw'], 'lineno': 8058}
+{'time': 1039, 'text': ['ben', 'shaprio', 'kekw'], 'lineno': 8075}
+{'time': 1041, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 8092}
+{'time': 1042, 'text': ['ben', 'shapiro', 'kekw'], 'lineno': 8111}
+{'time': 1046, 'text': ['feel', 'like', 'getting', 'contact', 'racism', 'movie'], 'lineno': 8165}
+{'time': 1046, 'text': ['hasanabi', 'man', 'ass'], 'lineno': 8168}
+{'time': 1048, 'text': ['cant', 'believe', 'real', 'hasanabi'], 'lineno': 8189}
+{'time': 1049, 'text': ['poo', 'poo', 'pogo'], 'lineno': 8202}
+{'time': 1051, 'text': ['uh', 'oh', 'stinkycheese'], 'lineno': 8230}
+{'time': 1054, 'text': ['poo', 'poo', 'lulw'], 'lineno': 8258}
+{'time': 1055, 'text': ['kind', 'fucking', 'transition'], 'lineno': 8276}
+{'time': 1057, 'text': ['thanks', 'dude', 'lul'], 'lineno': 8295}
+{'time': 1057, 'text': ['poo', 'poo', 'piker', 'kekw'], 'lineno': 8303}
+{'time': 1059, 'text': ['movie', 'sooo', 'good', 'kekw'], 'lineno': 8324}
+{'time': 1059, 'text': ['uh', 'oh', 'stinky'], 'lineno': 8329}
+{'time': 1060, 'text': ['dansgame', 'italianhands', 'ayyyyyyyyyyyyy'], 'lineno': 8340}
+{'time': 1062, 'text': ['hasanabi', 'tso', 'monkaw'], 'lineno': 8370}
+{'time': 1064, 'text': ['hasanabi', 'free', 'healthcare'], 'lineno': 8390}
+{'time': 1065, 'text': ['uh', 'oh', 'hhhh', 'stinky'], 'lineno': 8412}
+{'time': 1066, 'text': ['hasanabi', 'doin', 'man'], 'lineno': 8420}
+{'time': 1067, 'text': ['safe', 'weird', 'hasanabi'], 'lineno': 8439}
+{'time': 1069, 'text': ['everythings', 'fine', 'staff', 'pepemeltdown'], 'lineno': 8451}
+{'time': 1069, 'text': ['hasanabi', 'god', 'tier', 'kekw'], 'lineno': 8454}
+{'time': 1070, 'text': ['better', 'way', 'kekw'], 'lineno': 8467}
+{'time': 1070, 'text': ['uh', 'oh', 'stinky'], 'lineno': 8480}
+{'time': 1070, 'text': ['hasanabi', 'bernies', 'dream'], 'lineno': 8484}
+{'time': 1071, 'text': ['w', 'omegalul', 'w'], 'lineno': 8501}
+{'time': 1072, 'text': ['poo', 'poo', 'piker', 'kekw'], 'lineno': 8519}
+{'time': 1075, 'text': ['squad', 'w', 'lul'], 'lineno': 8562}
+{'time': 1076, 'text': ['fuckin', 'way', 'lul'], 'lineno': 8569}
+{'time': 1076, 'text': ['poo', 'poo', 'kekw'], 'lineno': 8574}
+{'time': 1078, 'text': ['genuinely', 'way', 'funnier', 'kekw'], 'lineno': 8605}
+{'time': 1079, 'text': ['stop', 'using', 'gachi', 'emotes', 'weirdw'], 'lineno': 8614}
+{'time': 1079, 'text': ['already', 'know', 'actor', 'guy', 'kekw'], 'lineno': 8615}
+{'time': 1079, 'text': ['wtf', 'movie', 'kekw'], 'lineno': 8620}
+{'time': 1080, 'text': ['kekw', 'favorite', 'movie'], 'lineno': 8632}
+{'time': 1081, 'text': ['hasanabi', 'bernies', 'talking'], 'lineno': 8646}
+{'time': 1082, 'text': ['nobody', 'complaining', 'racism', 'lul'], 'lineno': 8659}
+{'time': 1083, 'text': ['lllllllllllllllmao', 'hasanabi', 'havent', 'laught', 'months'], 'lineno': 8673}
+{'time': 1085, 'text': ['poo', 'poo', 'piker', 'show', 'us', 'poo', 'poo', 'hasanabi'], 'lineno': 8689}
+{'time': 1086, 'text': ['im', 'eating', 'mute'], 'lineno': 8696}
+{'time': 1087, 'text': ['cant', 'believe', 'broadcasting', 'movie'], 'lineno': 8713}
+{'time': 1088, 'text': ['legit', 'fucking', 'confused', 'movie', 'got', 'hashaaa', 'watch'], 'lineno': 8719}
+{'time': 1088, 'text': ['universal', 'racism', 'pogu'], 'lineno': 8720}
+{'time': 1089, 'text': ['im', 'dying', 'kekw'], 'lineno': 8725}
+{'time': 1091, 'text': ['best', 'movie', 'ever', 'written'], 'lineno': 8732}
+{'time': 1091, 'text': ['fuck', 'im', 'eating'], 'lineno': 8735}
+{'time': 1092, 'text': ['cant', 'see', 'weirdw'], 'lineno': 8744}
+{'time': 1092, 'text': ['uh', 'oh', 'stinkkyyy'], 'lineno': 8747}
+{'time': 1093, 'text': ['kekw', 'whoever', 'recommended', 'movie', 'deserves', 'vip'], 'lineno': 8755}
+{'time': 1094, 'text': ['hasanabi', 'slam', 'fart', 'hasmods', 'hf', 'italianhands'], 'lineno': 8758}
+{'time': 1094, 'text': ['hasan', 'shits', 'stream', 'clipped', 'shipped'], 'lineno': 8759}
+{'time': 1094, 'text': ['worst', 'fucking', 'movie', 'kekw'], 'lineno': 8760}
+{'time': 1096, 'text': ['uh', 'oh', 'stinky'], 'lineno': 8771}
+{'time': 1096, 'text': ['im', 'assuming', 'one', 'straight', 'dvd', 'movies'], 'lineno': 8773}
+{'time': 1097, 'text': ['movie', 'hot', 'ass', 'mess', 'love', 'kekw'], 'lineno': 8780}
+{'time': 1099, 'text': ['hasanabi', 'browned', 'kekw'], 'lineno': 8788}
+{'time': 1100, 'text': ['poo', 'poo', 'piker', 'kekw'], 'lineno': 8796}
+{'time': 1100, 'text': ['sooo', 'good', 'kekw'], 'lineno': 8799}
+{'time': 1101, 'text': ['movies', 'best', 'lulw'], 'lineno': 8807}
+{'time': 1102, 'text': ['whats', 'porno', 'nurse', 'outfit', 'hasanabi'], 'lineno': 8809}
+{'time': 1105, 'text': ['cxic', 'best', 'movie', 'pogu'], 'lineno': 8826}
+{'time': 1109, 'text': ['hasanabi', 'sound', 'worse', 'without', 'visual', 'kekw', 'sound', 'worse', 'without', 'visual', 'kekw', 'sound', 'worse', 'without', 'visual', 'kekw'], 'lineno': 8843}
+{'time': 1109, 'text': ['poopoo', 'piker', 'kekw'], 'lineno': 8845}
+{'time': 1110, 'text': ['hasanabi', 'many', 'oscars', 'movie', 'win'], 'lineno': 8850}
+{'time': 1110, 'text': ['lulw', 'mean', 'best'], 'lineno': 8851}
+{'time': 1114, 'text': ['half', 'way', 'kekw'], 'lineno': 8869}
+{'time': 1116, 'text': ['someone', 'come', 'many', 'awful', 'ideas', 'one', 'movie'], 'lineno': 8872}
+{'time': 1119, 'text': ['peepowidehappy', 'finally', 'glory', 'italianhands'], 'lineno': 8882}
+{'time': 1123, 'text': ['poo', 'poo', 'piker', 'show', 'us', 'poo', 'poo', 'hasanabi'], 'lineno': 8896}
+{'time': 1125, 'text': ['whisperingeye', 'watching', 'homie', 'spamoni', 'pogo', 'italianhands'], 'lineno': 8904}
+{'time': 1128, 'text': ['final', 'stage', 'grief', 'acceptance', 'poo', 'poo', 'hasanabi'], 'lineno': 8907}
+{'time': 1141, 'text': ['ntr', 'incoming', 'kekw'], 'lineno': 8945}
+{'time': 1146, 'text': ['lulw', 'oh', 'lord'], 'lineno': 8978}
+{'time': 1149, 'text': ['peepowidehappy', 'finally', 'homie', 'glory', 'italianhands'], 'lineno': 8998}
+{'time': 1153, 'text': ['oh', 'thats', 'actual', 'title', 'terrible', 'lol'], 'lineno': 9022}
+{'time': 1159, 'text': ['better', 'hasan', 'pogu'], 'lineno': 9056}
+{'time': 1160, 'text': ['hasanabi', 'bet', 'end', 'rap', 'together', 'talent', 'show'], 'lineno': 9061}
+{'time': 1161, 'text': ['black', 'airforces', 'kekw'], 'lineno': 9064}
+{'time': 1166, 'text': ['pepela', 'racism', 'inc'], 'lineno': 9086}
+{'time': 1170, 'text': ['get', 'press', 'play', 'weirdw'], 'lineno': 9105}
+{'time': 1171, 'text': ['twitch', 'pg', 'mindfuck', 'play', 'shit'], 'lineno': 9110}
+{'time': 1171, 'text': ['hasanabi', 'stop', 'pausing'], 'lineno': 9114}
+{'time': 1177, 'text': ['hasanabi', 'one', 'wants', 'hear', 'commentary', 'please', 'stop', 'pausing', 'weirdw', 'one', 'wants', 'hear', 'commentary', 'please', 'stop', 'pausing', 'weirdw', 'one', 'wants', 'hear', 'commentary', 'please', 'stop', 'pausing', 'weirdw'], 'lineno': 9137}
+{'time': 1182, 'text': ['hasanabi', 'jump', 'cut', 'basketball', 'kekw'], 'lineno': 9151}
+{'time': 1186, 'text': ['probs', 'coincidence', 'hasanabi'], 'lineno': 9174}
+{'time': 1186, 'text': ['inch', 'vert', 'andy', 'talking', 'kekw'], 'lineno': 9176}
+{'time': 1187, 'text': ['black', 'airforces', 'kekw'], 'lineno': 9182}
+{'time': 1187, 'text': ['woah', 'u', 'calling', 'racist'], 'lineno': 9184}
+{'time': 1188, 'text': ['yea', 'really', 'hard', 'find', 'people', 'love', 'basketball', 'la', 'kekw', 'hasanabi'], 'lineno': 9192}
+{'time': 1193, 'text': ['decent', 'baskball', 'say', 'lul'], 'lineno': 9211}
+{'time': 1203, 'text': ['play', 'basketball', 'kekw', 'hasanabi'], 'lineno': 9246}
+{'time': 1206, 'text': ['play', 'basketball', 'kekw', 'hasanabi'], 'lineno': 9265}
+{'time': 1206, 'text': ['globetrotters', 'music', 'lulw'], 'lineno': 9268}
+{'time': 1206, 'text': ['space', 'jam', 'flashbacks', 'kekw'], 'lineno': 9271}
+{'time': 1208, 'text': ['white', 'people', 'omegalul'], 'lineno': 9284}
+{'time': 1209, 'text': ['hasanabi', 'racist', 'cus', 'makes', 'comedy'], 'lineno': 9287}
+{'time': 1211, 'text': ['hes', 'white', 'kekw'], 'lineno': 9298}
+{'time': 1212, 'text': ['hasanabi', 'gone', 'hour', 'watching', 'donald', 'faison', 'p'], 'lineno': 9306}
+{'time': 1212, 'text': ['hes', 'italian', 'kekw'], 'lineno': 9309}
+{'time': 1213, 'text': ['play', 'basketball', 'kekw', 'hasanabi'], 'lineno': 9320}
+{'time': 1216, 'text': ['man', 'turk', 'really', 'taken', 'turn', 'since', 'scrubs', 'hasanabi'], 'lineno': 9330}
+{'time': 1218, 'text': ['yeah', 'apparently', 'italians', 'dont', 'know', 'basketball', 'movie', 'failfish'], 'lineno': 9342}
+{'time': 1219, 'text': ['harlem', 'globetrotter', 'music', 'kekw'], 'lineno': 9349}
+{'time': 1220, 'text': ['pepela', 'teatime', 'hasan'], 'lineno': 9355}
+{'time': 1220, 'text': ['oh', 'god', 'hurts', 'watch', 'boblobstare'], 'lineno': 9361}
+{'time': 1221, 'text': ['hasanabi', 'still', 'funny', 'tho', 'lul'], 'lineno': 9362}
+{'time': 1224, 'text': ['hasanabi', 'like', 'lookin', 'playing'], 'lineno': 9392}
+{'time': 1225, 'text': ['hasanabi', 'hes', 'fucking', 'yolked'], 'lineno': 9395}
+{'time': 1225, 'text': ['hasanabi', 'italians', 'play', 'hockey', 'though'], 'lineno': 9397}
+{'time': 1226, 'text': ['hasanabi', 'homie', 'spumoni', 'bigger', 'vert', 'u'], 'lineno': 9404}
+{'time': 1227, 'text': ['hasanabi', 'still', 'better', 'kekw'], 'lineno': 9406}
+{'time': 1228, 'text': ['hasan', 'form', 'kekw'], 'lineno': 9412}
+{'time': 1230, 'text': ['hasanabi', 'actually', 'race', 'cultural', 'construct'], 'lineno': 9421}
+{'time': 1230, 'text': ['part', 'racist', 'bad'], 'lineno': 9423}
+{'time': 1231, 'text': ['hasan', 'form', 'kekw'], 'lineno': 9432}
+{'time': 1234, 'text': ['kick', 'ball', 'lul'], 'lineno': 9448}
+{'time': 1235, 'text': ['hasanabi', 'u', 'stuntman'], 'lineno': 9451}
+{'time': 1235, 'text': ['hasanabi', 'literlaly', 'racist'], 'lineno': 9453}
+{'time': 1235, 'text': ['better', 'hasan', 'kekw'], 'lineno': 9454}
+{'time': 1237, 'text': ['better', 'hasan', 'kekw'], 'lineno': 9458}
+{'time': 1238, 'text': ['italian', 'actually', 'arguing', 'racism', 'point'], 'lineno': 9462}
+{'time': 1240, 'text': ['hasanabi', 'u', 'playing', 'kekw'], 'lineno': 9469}
+{'time': 1242, 'text': ['hasan', 'like', 'dunk', 'dem', 'boys'], 'lineno': 9487}
+{'time': 1244, 'text': ['kekw', 'true', 'tho'], 'lineno': 9495}
+{'time': 1244, 'text': ['dont', 'say', 'shit'], 'lineno': 9498}
+{'time': 1244, 'text': ['calling', 'fouls', 'kekw'], 'lineno': 9501}
+{'time': 1246, 'text': ['hasanabi', 'learn', 'u', 'kekw'], 'lineno': 9509}
+{'time': 1247, 'text': ['im', 'spending', 'friday', 'night', 'watching'], 'lineno': 9510}
+{'time': 1249, 'text': ['tyler', 'tall', 'brother', 'kekw'], 'lineno': 9515}
+{'time': 1250, 'text': ['pepela', 'teatime', 'better', 'hasan'], 'lineno': 9519}
+{'time': 1251, 'text': ['italy', 'placed', 'better', 'team', 'usa', 'olympics', 'kekw'], 'lineno': 9522}
+{'time': 1255, 'text': ['way', 'movie', 'saying', 'upbringing', 'thing', 'natural', 'hasanabi'], 'lineno': 9581}
+{'time': 1257, 'text': ['kekw', 'hasan', 'plays'], 'lineno': 9598}
+{'time': 1260, 'text': ['tall', 'tyler', 'omegalul'], 'lineno': 9640}
+{'time': 1264, 'text': ['hasanabi', 'kobe', 'biopic', 'kekw'], 'lineno': 9685}
+{'time': 1266, 'text': ['hasanabi', 'globetrotter', 'music', 'wtf'], 'lineno': 9709}
+{'time': 1271, 'text': ['hasanabi', 'big', 'brain', 'thought', 'movie', 'actually', 'opposite', 'racism', 'attributing', 'differences', 'people', 'culture', 'upbringing', 'rather', 'race'], 'lineno': 9756}
+{'time': 1271, 'text': ['holy', 'shit', 'lulw'], 'lineno': 9758}
+{'time': 1276, 'text': ['hasanabi', 'movie', 'woke', 'race', 'isnt', 'something', 'youre', 'born'], 'lineno': 9793}
+{'time': 1278, 'text': ['dis', 'guy', 'kekw'], 'lineno': 9806}
+{'time': 1280, 'text': ['fair', 'tho', 'omegalul'], 'lineno': 9816}
+{'time': 1281, 'text': ['hit', 'thumb', 'kekw'], 'lineno': 9826}
+{'time': 1281, 'text': ['terrible', 'fkn', 'movie', 'kekw'], 'lineno': 9832}
+{'time': 1287, 'text': ['play', 'football', 'pogo', 'italianhands'], 'lineno': 9862}
+{'time': 1287, 'text': ['hasanabi', 'kobe', 'biopic'], 'lineno': 9866}
+{'time': 1296, 'text': ['italians', 'like', 'fight', 'italianhands'], 'lineno': 9882}
+{'time': 1302, 'text': ['hasanabi', 'funny', 'weird', 'tru', 'lul'], 'lineno': 9909}
+{'time': 1303, 'text': ['pogo', 'italianhands', 'say'], 'lineno': 9912}
+{'time': 1307, 'text': ['im', 'triggered', 'omfg'], 'lineno': 9934}
+{'time': 1309, 'text': ['confirmed', 'pogo', 'italianhands'], 'lineno': 9938}
+{'time': 1310, 'text': ['wtf', 'kekw', 'italianhands'], 'lineno': 9940}
+{'time': 1311, 'text': ['oreo', 'kekw', 'italianhands'], 'lineno': 9951}
+{'time': 1313, 'text': ['hairline', 'killing', 'kekw'], 'lineno': 9962}
+{'time': 1314, 'text': ['ova', 'hea', 'pogo', 'italianhands'], 'lineno': 9972}
+{'time': 1315, 'text': ['pogo', 'italianhands', 'man'], 'lineno': 9978}
+{'time': 1317, 'text': ['pogo', 'italianhands', 'im', 'italian'], 'lineno': 9992}
+{'time': 1319, 'text': ['x', 'pogo', 'combo', 'poggies'], 'lineno': 10014}
+{'time': 1320, 'text': ['ove', 'ere', 'italianhands'], 'lineno': 10026}
+{'time': 1326, 'text': ['ova', 'hea', 'pogo', 'italianhands'], 'lineno': 10057}
+{'time': 1328, 'text': ['hasanabi', 'go', 'court', 'spit', 'politics', 'lul'], 'lineno': 10079}
+{'time': 1331, 'text': ['oh', 'noooooooooooo', 'racism', 'never', 'stops', 'hashail', 'hashail', 'hashail', 'hashail'], 'lineno': 10124}
+{'time': 1334, 'text': ['hell', 'yea', 'kekw'], 'lineno': 10143}
+{'time': 1334, 'text': ['oh', 'god', 'thats', 'racist', 'shit'], 'lineno': 10145}
+{'time': 1336, 'text': ['ova', 'pogo', 'italianhands'], 'lineno': 10164}
+{'time': 1337, 'text': ['walkin', 'ricardoflick', 'italianhands'], 'lineno': 10168}
+{'time': 1337, 'text': ['wtf', 'black', 'lulw'], 'lineno': 10171}
+{'time': 1342, 'text': ['kekw', 'shits', 'racist', 'af'], 'lineno': 10220}
+{'time': 1344, 'text': ['rvill', 'oh', 'understand', 'im', 'talking', 'itallian', 'guy', 'jacket'], 'lineno': 10246}
+{'time': 1354, 'text': ['yeah', 'oreo', 'kekw'], 'lineno': 10346}
+{'time': 1355, 'text': ['first', 'non', 'poc', 'movie'], 'lineno': 10356}
+{'time': 1358, 'text': ['get', 'press', 'play', 'weirdw'], 'lineno': 10382}
+{'time': 1358, 'text': ['hoomer', 'oh', 'yeah', 'sexy', 'time'], 'lineno': 10383}
+{'time': 1364, 'text': ['weirdw', 'let', 'us', 'watch'], 'lineno': 10428}
+{'time': 1367, 'text': ['movie', 'fucking', 'terrible', 'holy', 'shit'], 'lineno': 10463}
+{'time': 1371, 'text': ['ay', 'ow', 'dem', 'brakes', 'kekw'], 'lineno': 10491}
+{'time': 1374, 'text': ['cast', 'film', 'basically', 'poor', 'people', 'parasite', 'hasanabi'], 'lineno': 10527}
+{'time': 1377, 'text': ['pogo', 'italianhands', 'hoomer'], 'lineno': 10554}
+{'time': 1383, 'text': ['hasanabi', 'leroy', 'italian', 'tyler', 'omegalul'], 'lineno': 10607}
+{'time': 1384, 'text': ['hasanabi', 'mean', 'tell', 'black', 'celebrities', 'like', 'whoopi', 'read', 'script', 'fine'], 'lineno': 10608}
+{'time': 1388, 'text': ['la', 'mama', 'widepeeposad', 'italianhands'], 'lineno': 10640}
+{'time': 1388, 'text': ['widepeeposad', 'italianhands', 'im', 'crying'], 'lineno': 10641}
+{'time': 1389, 'text': ['think', 'editors', 'gave', 'shit', 'movie'], 'lineno': 10654}
+{'time': 1392, 'text': ['widepeeposad', 'italianhands', 'booy'], 'lineno': 10680}
+{'time': 1395, 'text': ['mama', 'mia', 'italianhands'], 'lineno': 10701}
+{'time': 1400, 'text': ['mama', 'widepeeposad', 'italianhands'], 'lineno': 10745}
+{'time': 1402, 'text': ['thought', 'supposed', 'gone', 'days', 'hasanabi'], 'lineno': 10755}
+{'time': 1403, 'text': ['widepeeposad', 'italianhands', 'im', 'crying'], 'lineno': 10761}
+{'time': 1403, 'text': ['fat', 'tony', 'lulw'], 'lineno': 10767}
+{'time': 1406, 'text': ['fredo', 'phobia', 'kekw'], 'lineno': 10789}
+{'time': 1406, 'text': ['widepeeposad', 'italianhands', 'cryin', 'ova'], 'lineno': 10790}
+{'time': 1407, 'text': ['fat', 'tony', 'kekw'], 'lineno': 10799}
+{'time': 1408, 'text': ['machine', 'gun', 'kekw'], 'lineno': 10804}
+{'time': 1409, 'text': ['bad', 'movie', 'imma', 'peace', 'lul'], 'lineno': 10810}
+{'time': 1410, 'text': ['true', 'pogu', 'italianhands'], 'lineno': 10814}
+{'time': 1414, 'text': ['italianhands', 'gabagool', 'n', 'shit', 'italianhands'], 'lineno': 10838}
+{'time': 1415, 'text': ['scared', 'italians', 'kekw'], 'lineno': 10858}
+{'time': 1416, 'text': ['andiamo', 'pogo', 'italianhand'], 'lineno': 10860}
+{'time': 1417, 'text': ['lulw', 'written', 'white', 'guy'], 'lineno': 10872}
+{'time': 1418, 'text': ['racism', 'incoming', 'pepela'], 'lineno': 10877}
+{'time': 1421, 'text': ['hasanabi', 'born', 'raised', 'singapore', 'white', 'https', 'www', 'youtube', 'com', 'watch', 'v', 'hylay', 'e', 'awo'], 'lineno': 10900}
+{'time': 1423, 'text': ['pepelaugh', 'teatime', 'oh'], 'lineno': 10917}
+{'time': 1424, 'text': ['hasanabi', 'movie', 'great', 'statement', 'nature', 'vs', 'nurture', 'debate'], 'lineno': 10923}
+{'time': 1427, 'text': ['andiamo', 'pogo', 'italianhands'], 'lineno': 10950}
+{'time': 1435, 'text': ['racist', 'shop', 'wutface'], 'lineno': 11029}
+{'time': 1440, 'text': ['actually', 'kinda', 'weird', 'weirdw'], 'lineno': 11078}
+{'time': 1443, 'text': ['yo', 'wtf', 'omegalul'], 'lineno': 11096}
+{'time': 1446, 'text': ['jesus', 'christ', 'blatant', 'racism'], 'lineno': 11105}
+{'time': 1447, 'text': ['used', 'og', 'racial', 'slurs', 'kekw'], 'lineno': 11112}
+{'time': 1449, 'text': ['hasanabi', 'movie', 'woke'], 'lineno': 11123}
+{'time': 1454, 'text': ['hasanabi', 'born', 'raised', 'singapore', 'white', 'https', 'www', 'youtube', 'com', 'watch', 'v', 'hylay', 'e', 'awo'], 'lineno': 11171}
+{'time': 1457, 'text': ['pepehands', 'oh', 'shit', 'im', 'black'], 'lineno': 11212}
+{'time': 1457, 'text': ['kinda', 'weird', 'fredo', 'weirdw'], 'lineno': 11215}
+{'time': 1460, 'text': ['hasanabi', 'good', 'story', 'tho'], 'lineno': 11250}
+{'time': 1463, 'text': ['found', 'racism', 'shit', 'sucks', 'widepeeposad'], 'lineno': 11272}
+{'time': 1463, 'text': ['widepeeposad', 'italianhands', 'im', 'crying'], 'lineno': 11276}
+{'time': 1465, 'text': ['learned', 'today', 'racism'], 'lineno': 11298}
+{'time': 1467, 'text': ['imagine', 'seeing', 'racism', 'america', 'lul'], 'lineno': 11317}
+{'time': 1470, 'text': ['damn', 'racism', 'bro', 'sucks'], 'lineno': 11352}
+{'time': 1475, 'text': ['like', 'romanticism', 'racism'], 'lineno': 11397}
+{'time': 1478, 'text': ['omegalul', 'oh', 'nooooooooo'], 'lineno': 11445}
+{'time': 1481, 'text': ['omegalul', 'holy', 'shit'], 'lineno': 11478}
+{'time': 1485, 'text': ['bro', 'shown', 'racism', 'woke', 'pog'], 'lineno': 11520}
+{'time': 1486, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 11542}
+{'time': 1486, 'text': ['h', 'omegalul', 'e', 'p'], 'lineno': 11546}
+{'time': 1489, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 11570}
+{'time': 1489, 'text': ['holy', 'shit', 'kekw'], 'lineno': 11572}
+{'time': 1491, 'text': ['hotep', 'kekw', 'hasanabi'], 'lineno': 11582}
+{'time': 1491, 'text': ['im', 'fucking', 'stroke'], 'lineno': 11585}
+{'time': 1494, 'text': ['w', 'h', 'omegalul'], 'lineno': 11593}
+{'time': 1494, 'text': ['bro', 'thisss', 'movie', 'kekw'], 'lineno': 11594}
+{'time': 1494, 'text': ['im', 'black', 'yall'], 'lineno': 11597}
+{'time': 1495, 'text': ['hotep', 'leroy', 'lul'], 'lineno': 11598}
+{'time': 1499, 'text': ['im', 'black', 'yall'], 'lineno': 11610}
+{'time': 1501, 'text': ['mrnewman', 'youre', 'fucking', 'pro', 'gamer', 'played'], 'lineno': 11625}
+{'time': 1505, 'text': ['im', 'going', 'stroke'], 'lineno': 11640}
+{'time': 1507, 'text': ['like', 'hasan', 'pogu'], 'lineno': 11653}
+{'time': 1508, 'text': ['arnt', 'black', 'italians', 'tho', 'hasanabi'], 'lineno': 11661}
+{'time': 1508, 'text': ['dashiki', 'pls', 'movie'], 'lineno': 11667}
+{'time': 1512, 'text': ['dressed', 'like', 'obama', 'kekw'], 'lineno': 11705}
+{'time': 1515, 'text': ['black', 'boomer', 'biden', 'voter', 'kekw'], 'lineno': 11731}
+{'time': 1523, 'text': ['hotep', 'spumoni', 'kekw'], 'lineno': 11758}
+{'time': 1524, 'text': ['hotep', 'spimoni', 'kekw'], 'lineno': 11760}
+{'time': 1526, 'text': ['italian', 'hotep', 'italianhands'], 'lineno': 11766}
+{'time': 1527, 'text': ['hasanabi', 'nick', 'mullen', 'write', 'movie'], 'lineno': 11769}
+{'time': 1534, 'text': ['takes', 'practice', 'omegalul'], 'lineno': 11822}
+{'time': 1535, 'text': ['accent', 'change', 'like', 'omegalul'], 'lineno': 11829}
+{'time': 1538, 'text': ['kekw', 'holy', 'shit'], 'lineno': 11859}
+{'time': 1538, 'text': ['tiag', 'true', 'lowkey', 'lul'], 'lineno': 11862}
+{'time': 1539, 'text': ['eminem', 'learned', 'kekw'], 'lineno': 11865}
+{'time': 1539, 'text': ['reason', 'bernie', 'loses', 'weirdw'], 'lineno': 11866}
+{'time': 1542, 'text': ['takes', 'practice', 'lul'], 'lineno': 11875}
+{'time': 1543, 'text': ['takes', 'practice', 'kekw'], 'lineno': 11881}
+{'time': 1544, 'text': ['movies', 'bad', 'good', 'hasanabi'], 'lineno': 11884}
+{'time': 1544, 'text': ['hasanabi', 'written', 'directed', 'white', 'dude'], 'lineno': 11886}
+{'time': 1545, 'text': ['takes', 'practice', 'omegalul'], 'lineno': 11890}
+{'time': 1548, 'text': ['ask', 'eminem', 'kekw'], 'lineno': 11908}
+{'time': 1557, 'text': ['lul', 'takes', 'practice'], 'lineno': 11974}
+{'time': 1569, 'text': ['literally', 'every', 'line', 'movie'], 'lineno': 12004}
+{'time': 1575, 'text': ['holy', 'fuck', 'movie', 'existence', 'racism', 'kekw'], 'lineno': 12028}
+{'time': 1579, 'text': ['georgekushhh', 'sorry', 'next', 'time', 'add', 'kappa', 'know', 'im', 'serious', 'weirdchamp'], 'lineno': 12064}
+{'time': 1583, 'text': ['sun', 'downing', 'kekw'], 'lineno': 12099}
+{'time': 1594, 'text': ['real', 'black', 'dad', 'kekw'], 'lineno': 12217}
+{'time': 1597, 'text': ['corn', 'pop', 'kekw'], 'lineno': 12247}
+{'time': 1601, 'text': ['corn', 'pop', 'kekw'], 'lineno': 12274}
+{'time': 1603, 'text': ['real', 'black', 'dad', 'lulw'], 'lineno': 12295}
+{'time': 1622, 'text': ['coherent', 'joe', 'biden', 'hasanabi'], 'lineno': 12373}
+{'time': 1623, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 12387}
+{'time': 1627, 'text': ['fucking', 'love', 'moonie'], 'lineno': 12397}
+{'time': 1641, 'text': ['hasanabi', 'write', 'movie', 'goal', 'making', 'every', 'line', 'problematic', 'cause', 'succeeded', 'thus', 'far'], 'lineno': 12423}
+{'time': 1646, 'text': ['pogo', 'italianhands', 'ass'], 'lineno': 12445}
+{'time': 1646, 'text': ['apology', 'black', 'kekw'], 'lineno': 12448}
+{'time': 1654, 'text': ['kekw', 'true', 'tho'], 'lineno': 12505}
+{'time': 1655, 'text': ['kekw', 'oh', 'shit'], 'lineno': 12521}
+{'time': 1659, 'text': ['warren', 'democrat', 'kekw', 'hasanabi'], 'lineno': 12560}
+{'time': 1660, 'text': ['want', 'coochie', 'ehh', 'italianhands'], 'lineno': 12561}
+{'time': 1661, 'text': ['tony', 'gonna', 'kick', 'ass', 'boy', 'pogo'], 'lineno': 12571}
+{'time': 1666, 'text': ['fuck', 'kekw', 'teatime'], 'lineno': 12637}
+{'time': 1668, 'text': ['wait', 'watching', 'movie', 'pogu'], 'lineno': 12666}
+{'time': 1671, 'text': ['sooo', 'good', 'kekw'], 'lineno': 12695}
+{'time': 1672, 'text': ['hasanabi', 'ig', 'jamielynnsigler'], 'lineno': 12717}
+{'time': 1675, 'text': ['holy', 'shit', 'kekw'], 'lineno': 12739}
+{'time': 1676, 'text': ['hasanabi', 'racial', 'dysmorphia'], 'lineno': 12756}
+{'time': 1679, 'text': ['whaaaaaaat', 'kekw', 'italianhands'], 'lineno': 12772}
+{'time': 1680, 'text': ['get', 'press', 'play', 'weirdw'], 'lineno': 12781}
+{'time': 1681, 'text': ['hasanabi', 'movie', 'equal', 'opportunity', 'racist'], 'lineno': 12787}
+{'time': 1684, 'text': ['cum', 'town', 'movie', 'pogu'], 'lineno': 12800}
+{'time': 1685, 'text': ['gets', 'worse', 'kekw'], 'lineno': 12805}
+{'time': 1687, 'text': ['diverse', 'movie', 'time', 'pogu'], 'lineno': 12816}
+{'time': 1689, 'text': ['warren', 'democrat', 'energy', 'kekw', 'hasanabi'], 'lineno': 12825}
+{'time': 1692, 'text': ['klezmer', 'music', 'kekw'], 'lineno': 12843}
+{'time': 1693, 'text': ['racism', 'min', 'avg'], 'lineno': 12844}
+{'time': 1693, 'text': ['aware', 'thats', 'racist'], 'lineno': 12848}
+{'time': 1694, 'text': ['dont', 'tho', 'kekw', 'italianhands'], 'lineno': 12854}
+{'time': 1695, 'text': ['hasanabi', 'actually', 'race', 'construct'], 'lineno': 12856}
+{'time': 1697, 'text': ['movie', 'war', 'crime'], 'lineno': 12865}
+{'time': 1698, 'text': ['bernie', 'favorite', 'movie', 'spiderman', 'hasanabi'], 'lineno': 12868}
+{'time': 1699, 'text': ['equal', 'opportunity', 'racism', 'pogu'], 'lineno': 12871}
+{'time': 1699, 'text': ['cumtown', 'movie', 'pog'], 'lineno': 12872}
+{'time': 1699, 'text': ['amazingbirdshow', 'ethiopia', 'lul'], 'lineno': 12874}
+{'time': 1699, 'text': ['spontaneous', 'racism', 'makes', 'sense', 'lulw'], 'lineno': 12877}
+{'time': 1700, 'text': ['hasanabi', 'nick', 'mullen', 'wrote'], 'lineno': 12878}
+{'time': 1702, 'text': ['hasanabi', 'done', 'racists', 'lol'], 'lineno': 12886}
+{'time': 1703, 'text': ['paul', 'mooney', 'speak', 'racism', 'lowkey', 'legit'], 'lineno': 12890}
+{'time': 1707, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 12918}
+{'time': 1708, 'text': ['nah', 'love', 'shit', 'far'], 'lineno': 12939}
+{'time': 1709, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 12966}
+{'time': 1712, 'text': ['p', 'omegalul', 'c'], 'lineno': 12995}
+{'time': 1713, 'text': ['guy', 'produced', 'film', 'arrested', 'embezzlement', 'https', 'www', 'latimes', 'com', 'entertainment', 'envelope', 'cotown', 'la', 'et', 'ct', 'yucaipa', 'caro', 'alleged', 'embezzlement', 'snap', 'story', 'html', 'hasanabi'], 'lineno': 13003}
+{'time': 1714, 'text': ['warren', 'cinematic', 'universe', 'kekw'], 'lineno': 13009}
+{'time': 1714, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 13017}
+{'time': 1715, 'text': ['bernie', 'lost', 'becuase', 'hasan', 'hasweird'], 'lineno': 13025}
+{'time': 1715, 'text': ['truuuuuuuuuuuue', 'kekw', 'italianhands'], 'lineno': 13029}
+{'time': 1717, 'text': ['kekw', 'false', 'tho'], 'lineno': 13045}
+{'time': 1718, 'text': ['hasanabi', 'spit', 'food'], 'lineno': 13047}
+{'time': 1718, 'text': ['grew', 'watching', 'movies', 'like', 'nothin', 'kekw'], 'lineno': 13048}
+{'time': 1718, 'text': ['hasanabi', 'movie', 'popo', 'arent', 'realy', 'racist', 'weird'], 'lineno': 13050}
+{'time': 1719, 'text': ['x', 'kekw', 'combo', 'poggies'], 'lineno': 13062}
+{'time': 1720, 'text': ['holy', 'shit', 'lmao'], 'lineno': 13065}
+{'time': 1720, 'text': ['deep', 'state', 'agent', 'kekw'], 'lineno': 13071}
+{'time': 1720, 'text': ['im', 'learning', 'women', 'leaders', 'pogu'], 'lineno': 13072}
+{'time': 1722, 'text': ['hasanabi', 'cum', 'town', 'movie', 'pogu', 'cum', 'town', 'movie', 'pogu', 'cum', 'town', 'movie', 'pogu', 'cum', 'town', 'movie', 'pogu', 'cum', 'town', 'movie', 'pogu', 'cum', 'town', 'movie', 'pogu'], 'lineno': 13079}
+{'time': 1723, 'text': ['oh', 'fuck', 'kekw'], 'lineno': 13085}
+{'time': 1723, 'text': ['liz', 'spumoni', 'kekw'], 'lineno': 13087}
+{'time': 1724, 'text': ['whats', 'movie', 'name'], 'lineno': 13091}
+{'time': 1725, 'text': ['libs', 'owned', 'kekw'], 'lineno': 13095}
+{'time': 1727, 'text': ['see', 'italianhands', 'emote'], 'lineno': 13105}
+{'time': 1727, 'text': ['fucking', 'rolled', 'kekw'], 'lineno': 13108}
+{'time': 1729, 'text': ['state', 'mandy', 'kekw'], 'lineno': 13113}
+{'time': 1731, 'text': ['deep', 'state', 'kekw'], 'lineno': 13121}
+{'time': 1732, 'text': ['fake', 'outrage', 'kekw'], 'lineno': 13123}
+{'time': 1734, 'text': ['libs', 'mad', 'kekw'], 'lineno': 13133}
+{'time': 1734, 'text': ['movie', 'tame', 'af', 'tho', 'kekw'], 'lineno': 13134}
+{'time': 1740, 'text': ['im', 'voting', 'noq'], 'lineno': 13153}
+{'time': 1749, 'text': ['staff', 'look', 'away'], 'lineno': 13192}
+{'time': 1749, 'text': ['lmao', 'take', 'fucking', 'dashiki'], 'lineno': 13193}
+{'time': 1751, 'text': ['hotep', 'kekw', 'italianhands'], 'lineno': 13210}
+{'time': 1760, 'text': ['warren', 'origin', 'story', 'written', 'biden', 'hasanabi'], 'lineno': 13259}
+{'time': 1763, 'text': ['stafamoo', 'bttv', 'see', 'italianhands'], 'lineno': 13269}
+{'time': 1764, 'text': ['weirdw', 'chat', 'stop'], 'lineno': 13274}
+{'time': 1764, 'text': ['isnt', 'exclusively', 'hotep', 'shit'], 'lineno': 13276}
+{'time': 1771, 'text': ['woke', 'crowd', 'kekw'], 'lineno': 13299}
+{'time': 1772, 'text': ['think', 'people', 'realized', 'disillusioined', 'takes', 'takes', 'included', 'hasanabi'], 'lineno': 13307}
+{'time': 1772, 'text': ['hasanabi', 'fuck', 'hotep', 'shit'], 'lineno': 13308}
+{'time': 1774, 'text': ['hasanabi', 'kobe', 'bryant', 'origin', 'story', 'pog'], 'lineno': 13325}
+{'time': 1775, 'text': ['e', 'tu', 'kekw'], 'lineno': 13332}
+{'time': 1775, 'text': ['kekw', 'black', 'people'], 'lineno': 13340}
+{'time': 1782, 'text': ['malcolm', 'jamal', 'warner', 'cosby', 'years', 'hasanabi'], 'lineno': 13391}
+{'time': 1786, 'text': ['im', 'already', 'cringing'], 'lineno': 13437}
+{'time': 1788, 'text': ['joe', 'biden', 'pulling', 'rally', 'hasanabi'], 'lineno': 13454}
+{'time': 1788, 'text': ['let', 'download', 'vod', 'hasan'], 'lineno': 13456}
+{'time': 1794, 'text': ['hasanabi', 'u', 'game', 'twitch', 'wtf'], 'lineno': 13519}
+{'time': 1795, 'text': ['link', 'amazon', 'twitch', 'accounts', 'free', 'subscription', 'prime', 'twitch', 'amazon', 'com', 'prime', 'use', 'support', 'hasan', 'like', 'imgur', 'com', 'nvvfm', 'b'], 'lineno': 13530}
+{'time': 1798, 'text': ['hasanabi', 'think', 'hunter', 'biden', 'subpoena', 'help', 'bernie'], 'lineno': 13578}
+{'time': 1799, 'text': ['hasan', 'moves', 'kekw'], 'lineno': 13585}
+{'time': 1808, 'text': ['chillllll', 'let', 'see', 'lul'], 'lineno': 13667}
+{'time': 1810, 'text': ['okay', 'china', 'weirdw'], 'lineno': 13691}
+{'time': 1813, 'text': ['show', 'fucking', 'pussy'], 'lineno': 13721}
+{'time': 1818, 'text': ['name', 'movie', 'chat'], 'lineno': 13782}
+{'time': 1819, 'text': ['grind', 'coffee', 'weirdw'], 'lineno': 13784}
+{'time': 1819, 'text': ['ok', 'chad', 'weirdw'], 'lineno': 13793}
+{'time': 1821, 'text': ['get', 'like', 'shore', 'tho', 'c', 'mon', 'hasanabi'], 'lineno': 13809}
+{'time': 1821, 'text': ['grind', 'turkey', 'kekw'], 'lineno': 13812}
+{'time': 1821, 'text': ['anywhere', 'else', 'kekw'], 'lineno': 13815}
+{'time': 1827, 'text': ['shit', 'middle', 'school', 'lmao'], 'lineno': 13879}
+{'time': 1828, 'text': ['forsencd', 'cheating', 'hasanabi'], 'lineno': 13890}
+{'time': 1829, 'text': ['name', 'movie', 'chaaaat'], 'lineno': 13899}
+{'time': 1830, 'text': ['hoomer', 'holy', 'shit'], 'lineno': 13911}
+{'time': 1831, 'text': ['hell', 'yeah', 'brother', 'kkona', 'hasanabi'], 'lineno': 13920}
+{'time': 1832, 'text': ['middle', 'school', 'kids', 'hasanabi', 'lets', 'go', 'lul'], 'lineno': 13939}
+{'time': 1837, 'text': ['hasanabi', 'flexing', 'weirdchamp'], 'lineno': 13977}
+{'time': 1838, 'text': ['oh', 'god', 'hoomer'], 'lineno': 13994}
+{'time': 1841, 'text': ['gonna', 'come', 'kekw'], 'lineno': 14028}
+{'time': 1845, 'text': ['uh', 'oh', 'lul'], 'lineno': 14087}
+{'time': 1847, 'text': ['im', 'hoooomiiiiing', 'hoomer'], 'lineno': 14114}
+{'time': 1849, 'text': ['hasanabi', 'telling', 'coomed', 'first', 'grind'], 'lineno': 14127}
+{'time': 1850, 'text': ['xqck', 'oh', 'gawd', 'dayum'], 'lineno': 14143}
+{'time': 1851, 'text': ['hes', 'finna', 'bust', 'kekw'], 'lineno': 14157}
+{'time': 1854, 'text': ['im', 'coooooooooooooooooooooooooooooooooomingggg', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaa', 'hoomer'], 'lineno': 14184}
+{'time': 1855, 'text': ['hoomer', 'im', 'gonna', 'uhhh'], 'lineno': 14210}
+{'time': 1857, 'text': ['im', 'coooooooming', 'hoomer'], 'lineno': 14240}
+{'time': 1860, 'text': ['hoomer', 'im', 'cooooooooming'], 'lineno': 14272}
+{'time': 1864, 'text': ['holy', 'shit', 'kekw'], 'lineno': 14322}
+{'time': 1864, 'text': ['hoomer', 'oh', 'god', 'im', 'cooming'], 'lineno': 14333}
+{'time': 1864, 'text': ['hoomer', 'im', 'coooooming'], 'lineno': 14335}
+{'time': 1865, 'text': ['mad', 'lad', 'kekw'], 'lineno': 14338}
+{'time': 1867, 'text': ['oh', 'god', 'im', 'coooooming', 'hoomer'], 'lineno': 14366}
+{'time': 1867, 'text': ['understand', 'hasanabi', 'albanian', 'grinding', 'unheard', 'moved', 'austria', 'feel', 'like', 'club', 'virgin'], 'lineno': 14367}
+{'time': 1870, 'text': ['hes', 'black', 'hes', 'virgin', 'kekw'], 'lineno': 14386}
+{'time': 1872, 'text': ['could', 'never', 'cum', 'like', 'lulw'], 'lineno': 14402}
+{'time': 1877, 'text': ['lulw', 'narrating', 'andy'], 'lineno': 14424}
+{'time': 1878, 'text': ['finally', 'movie', 'chat'], 'lineno': 14429}
+{'time': 1878, 'text': ['saying', 'came', 'pants', 'like', 'kekw', 'hasanabi'], 'lineno': 14433}
+{'time': 1888, 'text': ['oh', 'god', 'lulw'], 'lineno': 14562}
+{'time': 1889, 'text': ['racist', 'af', 'lul'], 'lineno': 14570}
+{'time': 1892, 'text': ['im', 'gonna', 'cry', 'funny'], 'lineno': 14601}
+{'time': 1899, 'text': ['said', 'dont', 'ever', 'lulw'], 'lineno': 14640}
+{'time': 1899, 'text': ['hitler', 'direct', 'movie'], 'lineno': 14642}
+{'time': 1900, 'text': ['peed', 'white', 'pogo'], 'lineno': 14649}
+{'time': 1900, 'text': ['move', 'holy', 'shit', 'kekw'], 'lineno': 14653}
+{'time': 1905, 'text': ['lmao', 'shit', 'siblin'], 'lineno': 14676}
+{'time': 1910, 'text': ['jeonborami', 'sitting', 'dinner', 'lulw'], 'lineno': 14719}
+{'time': 1913, 'text': ['italian', 'party', 'kekw'], 'lineno': 14737}
+{'time': 1914, 'text': ['italianhands', 'das', 'like'], 'lineno': 14742}
+{'time': 1915, 'text': ['pogo', 'italianhands', 'back'], 'lineno': 14750}
+{'time': 1918, 'text': ['hasanabi', 'want', 'thank', 'much', 'letting', 'know', 'exists', 'showing', 'everyone', 'know', 'including', 'future', 'people', 'ever', 'date'], 'lineno': 14771}
+{'time': 1919, 'text': ['alfredo', 'kekw', 'italianhands'], 'lineno': 14779}
+{'time': 1920, 'text': ['im', 'literally', 'disgusted', 'bad', 'cant', 'stop'], 'lineno': 14783}
+{'time': 1920, 'text': ['eyyy', 'pasta', 'italianhands'], 'lineno': 14786}
+{'time': 1920, 'text': ['grey', 'ass', 'pasta', 'kekw'], 'lineno': 14787}
+{'time': 1922, 'text': ['hasanabi', 'classy', 'dinner', 'weirdw'], 'lineno': 14801}
+{'time': 1930, 'text': ['https', 'giphy', 'com', 'gifs', 'bernie', 'sanders', 'bro', 'shake', 'qdpcww', 'xrsihysk'], 'lineno': 14845}
+{'time': 1932, 'text': ['lul', 'party', 'wtf'], 'lineno': 14856}
+{'time': 1933, 'text': ['full', 'course', 'dinner', 'party', 'kekw'], 'lineno': 14863}
+{'time': 1934, 'text': ['hasanabi', 'https', 'giphy', 'com', 'gifs', 'bernie', 'sanders', 'bro', 'shake', 'qdpcww', 'xrsihysk'], 'lineno': 14874}
+{'time': 1947, 'text': ['hasanabi', 'real', 'thanks', 'cuz', 'wouldnt', 'seen', 'awesome', 'stupid', 'movie', 'without', 'u'], 'lineno': 14929}
+{'time': 1947, 'text': ['hasanabi', 'like', 'watching', 'nate', 'life', 'story', 'tbh', 'good', 'way', 'teach', 'large', 'audience', 'mod', 'team', 'make', 'relateable'], 'lineno': 14931}
+{'time': 1949, 'text': ['cxic', 'ntr', 'ayaya', 'weirdw'], 'lineno': 14934}
+{'time': 1957, 'text': ['weirdchamp', 'italianhands', 'creep'], 'lineno': 14969}
+{'time': 1958, 'text': ['hasanabi', 'bocce', 'ball', 'basketball', 'court', 'next'], 'lineno': 14975}
+{'time': 1967, 'text': ['yep', 'italianhands', 'cock'], 'lineno': 15012}
+{'time': 51, 'text': ['fucking', 'ass'], 'lineno': 108}
+{'time': 71, 'text': ['know', 'haven t', 'seen', 'movie'], 'lineno': 128}
+{'time': 192, 'text': ['shit'], 'lineno': 370}
+{'time': 309, 'text': ['fucking', 'son'], 'lineno': 600}
+{'time': 441, 'text': ['know', 'shit', 'rocky'], 'lineno': 886}
+{'time': 443, 'text': ['oh', 'god'], 'lineno': 894}
+{'time': 991, 'text': ['shit'], 'lineno': 1716}
+{'time': 1074, 'text': ['bro', 'movie'], 'lineno': 1874}
+{'time': 1084, 'text': ['movie'], 'lineno': 1908}
+{'time': 1088, 'text': ['racist'], 'lineno': 1918}
+{'time': 1109, 'text': ['movie'], 'lineno': 1994}
+{'time': 1125, 'text': ['oh', 'y all'], 'lineno': 2054}
+{'time': 1131, 'text': ['movie', 'like'], 'lineno': 2086}
+{'time': 1132, 'text': ['oh'], 'lineno': 2094}
+{'time': 1133, 'text': ['oh'], 'lineno': 2098}
+{'time': 51, 'text': ['fucking', 'ass'], 'lineno': 108}
+{'time': 71, 'text': ['know', 'haven t', 'seen', 'movie'], 'lineno': 128}
+{'time': 192, 'text': ['shit'], 'lineno': 370}
+{'time': 309, 'text': ['fucking', 'son'], 'lineno': 600}
+{'time': 441, 'text': ['know', 'shit', 'rocky'], 'lineno': 886}
+{'time': 443, 'text': ['oh', 'god'], 'lineno': 894}
+{'time': 991, 'text': ['shit'], 'lineno': 1716}
+{'time': 1074, 'text': ['bro', 'movie'], 'lineno': 1874}
+{'time': 1084, 'text': ['movie'], 'lineno': 1908}
+{'time': 1088, 'text': ['racist'], 'lineno': 1918}
+{'time': 1109, 'text': ['movie'], 'lineno': 1994}
+{'time': 1125, 'text': ['oh', 'y all'], 'lineno': 2054}
+{'time': 1131, 'text': ['movie', 'like'], 'lineno': 2086}
+{'time': 1132, 'text': ['oh'], 'lineno': 2094}
+{'time': 1133, 'text': ['oh'], 'lineno': 2098}
+{'time': 51, 'text': ['fucking', 'ass'], 'lineno': 108}
+{'time': 71, 'text': ['know', 'haven t', 'seen', 'movie'], 'lineno': 128}
+{'time': 192, 'text': ['shit'], 'lineno': 370}
+{'time': 309, 'text': ['fucking', 'son'], 'lineno': 600}
+{'time': 441, 'text': ['know', 'shit', 'rocky'], 'lineno': 886}
+{'time': 443, 'text': ['oh', 'god'], 'lineno': 894}
+{'time': 991, 'text': ['shit'], 'lineno': 1716}
+{'time': 1074, 'text': ['bro', 'movie'], 'lineno': 1874}
+{'time': 1084, 'text': ['movie'], 'lineno': 1908}
+{'time': 1088, 'text': ['racist'], 'lineno': 1918}
+{'time': 1109, 'text': ['movie'], 'lineno': 1994}
+{'time': 1125, 'text': ['oh', 'y all'], 'lineno': 2054}
+{'time': 1131, 'text': ['movie', 'like'], 'lineno': 2086}
+{'time': 1132, 'text': ['oh'], 'lineno': 2094}
+{'time': 1133, 'text': ['oh'], 'lineno': 2098}
+{'time': 51, 'text': ['fucking', 'ass'], 'lineno': 108}
+{'time': 71, 'text': ['know', 'haven t', 'seen', 'movie'], 'lineno': 128}
+{'time': 192, 'text': ['shit'], 'lineno': 370}
+{'time': 309, 'text': ['fucking', 'son'], 'lineno': 600}
+{'time': 441, 'text': ['know', 'shit', 'rocky'], 'lineno': 886}
+{'time': 443, 'text': ['oh', 'god'], 'lineno': 894}
+{'time': 991, 'text': ['shit'], 'lineno': 1716}
+{'time': 1074, 'text': ['bro', 'movie'], 'lineno': 1874}
+{'time': 1084, 'text': ['movie'], 'lineno': 1908}
+{'time': 1088, 'text': ['racist'], 'lineno': 1918}
+{'time': 1109, 'text': ['movie'], 'lineno': 1994}
+{'time': 1125, 'text': ['oh', 'y all'], 'lineno': 2054}
+{'time': 1131, 'text': ['movie', 'like'], 'lineno': 2086}
+{'time': 1132, 'text': ['oh'], 'lineno': 2094}
+{'time': 1133, 'text': ['oh'], 'lineno': 2098}
+{'time': 51, 'text': ['fucking', 'ass'], 'lineno': 108}
+{'time': 71, 'text': ['know', 'haven t', 'seen', 'movie'], 'lineno': 128}
+{'time': 192, 'text': ['shit'], 'lineno': 370}
+{'time': 309, 'text': ['fucking', 'son'], 'lineno': 600}
+{'time': 441, 'text': ['know', 'shit', 'rocky'], 'lineno': 886}
+{'time': 443, 'text': ['oh', 'god'], 'lineno': 894}
+{'time': 991, 'text': ['shit'], 'lineno': 1716}
+{'time': 1074, 'text': ['bro', 'movie'], 'lineno': 1874}
+{'time': 1084, 'text': ['movie'], 'lineno': 1908}
+{'time': 1088, 'text': ['racist'], 'lineno': 1918}
+{'time': 1109, 'text': ['movie'], 'lineno': 1994}
+{'time': 1125, 'text': ['oh', 'y all'], 'lineno': 2054}
+{'time': 1131, 'text': ['movie', 'like'], 'lineno': 2086}
+{'time': 1132, 'text': ['oh'], 'lineno': 2094}
+{'time': 1133, 'text': ['oh'], 'lineno': 2098}
+{'time': 51, 'text': ['fucking', 'ass'], 'lineno': 108}
+{'time': 71, 'text': ['know', 'haven t', 'seen', 'movie'], 'lineno': 128}
+{'time': 192, 'text': ['shit'], 'lineno': 370}
+{'time': 309, 'text': ['fucking', 'son'], 'lineno': 600}
+{'time': 441, 'text': ['know', 'shit', 'rocky'], 'lineno': 886}
+{'time': 443, 'text': ['oh', 'god'], 'lineno': 894}
+{'time': 991, 'text': ['shit'], 'lineno': 1716}
+{'time': 1074, 'text': ['bro', 'movie'], 'lineno': 1874}
+{'time': 1084, 'text': ['movie'], 'lineno': 1908}
+{'time': 1088, 'text': ['racist'], 'lineno': 1918}
+{'time': 1109, 'text': ['movie'], 'lineno': 1994}
+{'time': 1125, 'text': ['oh', 'y all'], 'lineno': 2054}
+{'time': 1131, 'text': ['movie', 'like'], 'lineno': 2086}
+{'time': 1132, 'text': ['oh'], 'lineno': 2094}
+{'time': 1133, 'text': ['oh'], 'lineno': 2098}
