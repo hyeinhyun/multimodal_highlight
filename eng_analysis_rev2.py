@@ -130,11 +130,11 @@ def data_preprocessing(temp,vocab):
 
     return temp,np.array(vocabulary_list),len(vocab),vocab
 def print_raw_comment(lines):
-    with open("./raw.txt","w") as f:
+    with open("./raw_0325.txt","w") as f:
         for line in lines:
             f.write(" ".join(line["text"])+"\n")
 
-def store_word2vec_calc(file="./raw.txt"):
+def store_word2vec_calc(file="./raw_0325.txt"):
     sentences = word2vec.Text8Corpus(file)  # 加载语料
     model = word2vec.Word2Vec(sentences, size=300,min_count=1)
     fw = open("./word2vec_model", "wb")
@@ -372,7 +372,7 @@ class SAGModel(object):
         return result
 
     def _display_tag(self,result):
-        with open("data/result_0324.txt","w") as f:
+        with open("data/result_0325.txt","w") as f:
             #for item in sorted(result,key=lambda x:x[0],reverse=True)[:self.tag_number]:
             #print("sorted(result, key=lambda x: x[0], reverse=True)")
             #print(sorted(result, key=lambda x: x[0], reverse=True))
@@ -397,7 +397,7 @@ import pickle
 
 
 if __name__ == '__main__':
-    file_name="./trainwreckstv.log"
+    file_name="./xqcow.log"
     file_cap="./speech_to_text/stt_result.txt"
     #comment 관련
     #default time 미리 해야
@@ -427,10 +427,68 @@ if __name__ == '__main__':
             if i[j]==1:
                 indexs.append(index)
                 break
-    with open("data/result_sentence_0324.txt","w") as f:
+    with open("data/result_sentence_0325.txt","w") as f:
         for i in indexs:
             f.write(str(a[i]))
             f.write('\n')
+    #####분산구하기########
+    
+    #1. 인덱스 구하기
+    index=[list(vocab.keys()).index('weird'),
+     list(vocab.keys()).index('monkaw'),
+     list(vocab.keys()).index('craig'),
+     list(vocab.keys()).index('trainwreckstv'),
+     list(vocab.keys()).index('lulw'),
+     list(vocab.keys()).index('train'),
+     list(vocab.keys()).index('stfu'),
+     list(vocab.keys()).index('squadq'),
+     list(vocab.keys()).index('kkonaw'),
+     list(vocab.keys()).index('one'),
+     list(vocab.keys()).index('dougzilla'),
+     list(vocab.keys()).index('chat'),
+     list(vocab.keys()).index('pogu'),
+     list(vocab.keys()).index('wtf'),
+     list(vocab.keys()).index('try'),
+     list(vocab.keys()).index('fuck'),
+     list(vocab.keys()).index('el'),
+     list(vocab.keys()).index('omegalul'),
+     list(vocab.keys()).index('god'),
+     list(vocab.keys()).index('clap')]
+    
+    results1={}
+    results2={}
+    results3={}
+    results4={}
+    results5={}
+
+
+    for idx_index in index:
+        list_time1=[]
+        list_time2=[]
+        list_time3=[]
+        list_time4=[]
+        list_time5=[]
+        for idx,i in enumerate(b):
+            if i[idx_index] !=0:
+                num=int(a[idx]['time'])
+                if num<900:#15
+                    list_time1.append(num)
+                elif 900<=num and num<1800:#15~30
+                    list_time2.append(num)
+                elif 1800<=num and num<2700:#30~45
+                    list_time3.append(num)
+                else:
+                    list_time4.append(num)
+                list_time5.append(num)#전체
+                
+              #  print(num)
+              #  for k in range(i[idx_index]):
+                    #list_time.append(num)
+        results1[list(vocab.keys())[idx_index]+'1']=np.var(list_time1)
+        results2[list(vocab.keys())[idx_index]+'2']=np.var(list_time2)
+        results3[list(vocab.keys())[idx_index]+'3']=np.var(list_time3)
+        results4[list(vocab.keys())[idx_index]+'4']=np.var(list_time4)
+        results5[list(vocab.keys())[idx_index]]=np.var(list_time5)
 
 
 """
