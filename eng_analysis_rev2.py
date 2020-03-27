@@ -29,7 +29,7 @@ def time_ds(time,default):
 def read(file_name):
     tempLine=[]
     vocab=OrderedDict()
-    with open(file_name) as f:
+    with open(file_name,encoding="utf-8") as f:
         #default_time=f.readlines()[1].split(']')[0][1:]
         for lineNo,line in enumerate(f.readlines()[1:]):
             try:
@@ -372,7 +372,7 @@ class SAGModel(object):
         return result
 
     def _display_tag(self,result):
-        with open("data/result_0325.txt","w") as f:
+        with open("data/result_0325.txt","w",encoding="utf-8") as f:
             #for item in sorted(result,key=lambda x:x[0],reverse=True)[:self.tag_number]:
             #print("sorted(result, key=lambda x: x[0], reverse=True)")
             #print(sorted(result, key=lambda x: x[0], reverse=True))
@@ -401,7 +401,7 @@ if __name__ == '__main__':
     file_cap="./speech_to_text/stt_result.txt"
     #comment 관련
     #default time 미리 해야
-    f=open(file_name)
+    f=open(file_name,encoding="utf-8")
     default_time=f.readlines()[1].split(']')[0][1:]
     f.close()
     temp_comment,vocab_comment=read(file_name)
