@@ -85,9 +85,9 @@ def collectChat(j, clientId, f,v_id):
                 
 if __name__ == "__main__":
     file = open("clipchat.txt", "w", encoding="utf-8")
-    video_id = ""
+    video_id = "593845562"
     Limit = 1
-    ClientId = "" # Client id 추가 #
+    ClientId = "pnbcpj842zq89uy7hlhkakepr6xej7" # Client id 추가 #
     collectClip(video_id, ClientId, file)
     file.close()
     
