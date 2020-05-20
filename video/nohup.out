@@ -1,0 +1,7 @@
+[I 05:34:05.490 NotebookApp] Serving notebooks from local directory: /home/ubuntu/2020_1/cap/tsvt/video
+[I 05:34:05.490 NotebookApp] The Jupyter Notebook is running at:
+[I 05:34:05.490 NotebookApp] http://ip-172-31-63-169:8888/
+[I 05:34:05.491 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 05:34:13.739 NotebookApp] 302 GET / (220.149.124.131) 0.71ms
+[I 05:34:13.907 NotebookApp] 302 GET /tree? (220.149.124.131) 0.76ms
+[I 05:34:22.146 NotebookApp] 302 POST /login?next=%2Ftree%3F (220.149.124.131) 1.20ms
