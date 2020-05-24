@@ -156,7 +156,43 @@ def score_cal(text_list):
             score_list['status']=status   
     return score_list
 
+from PIL import Image
+import pytesseract
+import csv
+pytesseract.pytesseract.tesseract_cmd=r'/usr/bin/tesseract'
 
+def image_ocr(image):
+    img =Image.open(image)
+    g_b=img.crop((760,10,820,50))
+    g_r=img.crop((1140,10,1200,45))
+    g_b_new=g_b.resize((g_b.size[0]*5,g_b.size[1]*5))
+    g_r_new=g_r.resize((g_r.size[0]*5,g_r.size[1]*5))
+    time=img.crop((930,70,1000,100))
+    time_new=time.resize((time.size[0]*5,time.size[1]*5))
+    
+    g_b_new.save('./g_b_r.png')
+    g_r_new.save('./g_r_r.png')
+    time_new.save('./time_r.png')
+    
+    img1 = cv2.imread('./g_b_r.png',cv2.IMREAD_GRAYSCALE)
+    thresh1 = cv2.threshold(img1, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)[1]
+    #thresh1 = cv2.Canny(np.uint8(img1 * 255), 50, 100)
+
+    img2 = cv2.imread('./g_r_r.png',cv2.IMREAD_GRAYSCALE)
+    thresh2 = cv2.threshold(img2, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)[1]
+    #thresh2 = cv2.Canny(np.uint8(img2 * 255), 50, 100)
+
+    img3 = cv2.imread('./time_r.png',cv2.IMREAD_GRAYSCALE)
+    #thresh3 = cv2.Canny(np.uint8(img3 * 255), 50, 100)
+
+    thresh3 = cv2.threshold(img3, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)[1]
+    g_b_text=pytesseract.image_to_string(thresh1)
+    g_r_text=pytesseract.image_to_string(thresh2)
+    time_text=pytesseract.image_to_string(thresh3)
+
+    #print("Gold_blue :",g_b_text," Gold_Red : ",g_r_text)
+    return {"gold_blue":g_b_text,"gold_red":g_r_text,"time":time_text}
+image_ocr("/home/ubuntu/gangmin/frame2/frame35.jpg")
 
 #######main
 fieldnames = ['replay', 'tower_blue','gold_blue','kill_blue','kill_red','gold_red','tower_red','status']
@@ -172,3 +208,10 @@ for i in range(10000):
     with open('result4.csv', 'a', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writerow(vision_api(file_name))
+
+for i in range(3300,3400):
+    file_name='/home/ubuntu/gangmin/frame/frame{}.jpg'.format(i)
+    image_ocr(file_name)
+    with open('gold_ocr2.csv', 'a', newline='') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=['gold_blue','gold_red','time'])
+        writer.writerow(image_ocr(file_name))
