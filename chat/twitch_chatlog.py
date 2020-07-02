@@ -13,18 +13,22 @@ from datetime import timedelta
 import re
 
 def collectClip(v_id,  Clientid, File):
+    print(v_id)
     #url = "https://api.twitch.tv/kraken/video/top?channel=" + channel + "&limit=" + str(lim)
     url="https://api.twitch.tv/kraken/videos/"+str(v_id)
+    print(url)
     req = urllib.request.Request(url, headers = {"Client-ID": Clientid, "Accept" : "application/vnd.twitchtv.v5+json"})
     u = urllib.request.urlopen(req)
     c = u.read().decode('utf-8')
     js = json.loads(c)
     #print(js)
 
-    collectChat(js, Clientid, File,v_id)
+    return collectChat(js, Clientid, File,v_id)
 
 def collectChat(j, clientId, f,v_id):
+    #id=v_id[:-1]
     id=v_id
+    print(id)
     #id = j['clips'][num]['vod']['id']
     #offset = j['clips'][num]['vod']['offset']
     #duration = j['clips'][num]['duration']
@@ -56,18 +60,19 @@ def collectChat(j, clientId, f,v_id):
                         dateString = re.sub(r".[0-9]+Z","Z", dateString)
                     date = datetime.strptime(dateString, "%Y-%m-%dT%H:%M:%SZ")
                     #print(date)
-
+                    leng=j['length']
+                    off=com['content_offset_seconds']
+                    if float(leng)<float(off):
+                        return 0
 
                     f.write(str(j['title']) + "\t" +
                             str(j['game']) + "\t" +
                             str(j['views']) + "\t" +
                             str(j['length']) + "\t" +
-                            str(j['url']) + "\t" +
                             str(date + timedelta(hours=9)) + "\t" +
-                            str(com['commenter']['display_name']) + "\t" +
                             str(com['content_offset_seconds'])+"\t"+
                             str(com['message']['body']) + "\n")
-                    #print(str(com['content_offset_seconds']))
+                    print(date)
 
             except Exception as e:
                 print(e)
@@ -84,12 +89,23 @@ def collectChat(j, clientId, f,v_id):
             print(e)
                 
 if __name__ == "__main__":
-    file = open("clipchat.txt", "w", encoding="utf-8")
-    video_id = "593845562"
-    Limit = 1
+
+#     with open('video_list.txt') as f:
+#         v_li=f.readlines()
+#     for i in v_li:
+#         print(i)
+#         v_id=i
+#         file_path=v_id+'.txt'
+#         file = open(file_path, "w", encoding="utf-8")
+#         Limit = 1
+#         ClientId = "pnbcpj842zq89uy7hlhkakepr6xej7" # Client id 추가 #
+#         collectClip(v_id, ClientId, file)
+#         file.close()
+
+    file=open('test.txt',"w",encoding="utf-8")
     ClientId = "pnbcpj842zq89uy7hlhkakepr6xej7" # Client id 추가 #
-    collectClip(video_id, ClientId, file)
-    file.close()
+
+    collectClip("496371424",ClientId,file)
     
     
     
