@@ -1,24 +1,47 @@
-# time-sync video tagging
+Highlight Detection
+==================================
 
-time-sync video tagging using comments, sound and image data.
+Extract the highlights of e-sports through multi-imodal analysis using video, audio and chat data.
 
+### contributor 
 
-## contributor 
+    - HIhyun
+    - GMpark
 
-- HIhyun
-- GMpark
+------------------------------------------------------
 
-### tagg extraction
+## video analysis
 
-- 블라블라
+### image_data_extraction_for_OCR
 
-### speech to text
+    - video/lolData/frame_extraction.ipynb
 
-- 스트리밍 영상(트위치)에서 음성만 녹음(확장자 m4a)
-- 'm4a -> wav' 로 확장자 변환 (mono 채널) + api 사용시 인코딩(LINEAR16)
-- 긴 오디오파일의 경우 google cloud storage에 업로드하여 URI를 참조
-- 결과 스크립트 '단어'단위로 time stamp 함께 출력. 
-- '단어'단위를 다시 같은시간대로 묶어서 temp 만듦
-- 코멘트 데이터와 캡션 데이터 융합
+### win_loss_classifier
 
-##### to do 
+    - data_directory : video/lolData/leagueoflegends2018~2020
+    - data_preprocessing : video/lolData/lolApi2018~2019.ipynb
+                           video/lolData/lolApi_without_2015.ipynb
+    - win_loss_classifier_model : video/win_loss_classifier/MLP.ipynb
+
+### highlight_point extractor
+
+    - data_directory : video/lolData/exp_data
+    - data_preprocessing : video/lolData/exp_data/2019_test_data.ipynb
+                           video/lolData/exp_data/preprocessing.ipynb
+    - highlight_point_extractor : video/experiment.ipynb
+    - evaluation : video/evaluation.ipynb
+
+------------------------------------------------------
+
+## audio analysis
+
+### energy_anaylsis_suing_emd
+
+    - data_preprocessing : audio/audio_split.ipynb
+    - emd : audio/emd.ipynb
+    - feature_extraction : audio/feature extraction.ipynb
+    - evaluation : evaluation.ipynb
+
+------------------------------------------------------
+
+## chat analisys
